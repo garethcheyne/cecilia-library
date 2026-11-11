@@ -1,0 +1,739 @@
+{
+  "schema": 1,
+  "id": "johannus-rembrandt-275",
+  "name": "Johannus Rembrandt 275",
+  "manufacturer": "johannus",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedaal",
+      "channel": 3,
+      "low_key": 36,
+      "high_key": 65
+    },
+    {
+      "role": "great",
+      "name": "Hoofdwerk",
+      "channel": 1,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Zwelwerk",
+      "channel": 2,
+      "low_key": 36,
+      "high_key": 96,
+      "expression": {
+        "pattern": "B1 0B vv",
+        "min": 63,
+        "max": 127
+      }
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-prestant-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Prestant",
+        "16"
+      ],
+      "full_name": "Prestant 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-subbas-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Subbas",
+        "16"
+      ],
+      "full_name": "Subbas 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-holquint-10-2-3",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "10 2/3"
+      },
+      "names": [
+        "Holquint",
+        "10 2/3"
+      ],
+      "full_name": "Holquint 10 2/3'",
+      "midi": []
+    },
+    {
+      "id": "ped-octaafbas-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Octaafbas",
+        "8"
+      ],
+      "full_name": "Octaafbas 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-gedekt-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Gedekt",
+        "8"
+      ],
+      "full_name": "Gedekt 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-koraalbas-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Koraalbas",
+        "4"
+      ],
+      "full_name": "Koraalbas 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-ruispijp-iv",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Ruispijp",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ped-bazuin-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Bazuin",
+        "16"
+      ],
+      "full_name": "Bazuin 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trompet-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompet",
+        "8"
+      ],
+      "full_name": "Trompet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-hoofdwerk-pedaal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "great",
+        "pitch": "unison"
+      },
+      "names": [
+        "Hoofdwerk -",
+        "Pedaal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-zwelwerk-pedaal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Zwelwerk -",
+        "Pedaal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-bourdon-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Bourdon",
+        "16"
+      ],
+      "full_name": "Bourdon 16'",
+      "midi": []
+    },
+    {
+      "id": "gt-prestant-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Prestant",
+        "8"
+      ],
+      "full_name": "Prestant 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-holpijp-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Holpijp",
+        "8"
+      ],
+      "full_name": "Holpijp 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-gamba-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-octaaf-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Octaaf",
+        "4"
+      ],
+      "full_name": "Octaaf 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-open-fluit-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Open",
+        "Fluit",
+        "4"
+      ],
+      "full_name": "Open Fluit 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-quint-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Quint",
+        "2 2/3"
+      ],
+      "full_name": "Quint 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-octaaf-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Octaaf",
+        "2"
+      ],
+      "full_name": "Octaaf 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-cornet-iv-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "8",
+        "ranks": 4
+      },
+      "names": [
+        "Cornet",
+        "IV",
+        "8"
+      ],
+      "full_name": "Cornet IV 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-mixtuur-iv",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Mixtuur",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-trompet-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Trompet",
+        "16"
+      ],
+      "full_name": "Trompet 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-trompet-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompet",
+        "8"
+      ],
+      "full_name": "Trompet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-vox-humana-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "vox humana"
+      },
+      "names": [
+        "Vox",
+        "Humana",
+        "8"
+      ],
+      "full_name": "Vox Humana 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-tremulant-hoofdwerk",
+      "division": "great",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant",
+        "Hoofdwerk"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-zwelwerk-hoofdwerk",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Zwelwerk -",
+        "Hoofdwerk"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-quintadeen-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Quintadeen",
+        "16"
+      ],
+      "full_name": "Quintadeen 16'",
+      "midi": []
+    },
+    {
+      "id": "sw-prestant-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Prestant",
+        "8"
+      ],
+      "full_name": "Prestant 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-roerfluit-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Roerfluit",
+        "8"
+      ],
+      "full_name": "Roerfluit 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-viola-di-gamba-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Viola di",
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Viola di Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-vox-celeste-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Vox",
+        "Celeste",
+        "8"
+      ],
+      "full_name": "Vox Celeste 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-octaaf-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Octaaf",
+        "4"
+      ],
+      "full_name": "Octaaf 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-koppelfluit-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Koppelfluit",
+        "4"
+      ],
+      "full_name": "Koppelfluit 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-quintfluit-2-2-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Quintfluit",
+        "2 2/3"
+      ],
+      "full_name": "Quintfluit 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-octaaf-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Octaaf",
+        "2"
+      ],
+      "full_name": "Octaaf 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-woudfluit-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Woudfluit",
+        "2"
+      ],
+      "full_name": "Woudfluit 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-terts-1-3-5",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 3/5"
+      },
+      "names": [
+        "Terts",
+        "1 3/5"
+      ],
+      "full_name": "Terts 1 3/5'",
+      "midi": []
+    },
+    {
+      "id": "sw-nasard-1-1-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 1/3"
+      },
+      "names": [
+        "Nasard",
+        "1 1/3"
+      ],
+      "full_name": "Nasard 1 1/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-scherp-iv",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1",
+        "ranks": 4
+      },
+      "names": [
+        "Scherp",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-fagot-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Fagot",
+        "16"
+      ],
+      "full_name": "Fagot 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-dulciaan-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Dulciaan",
+        "8"
+      ],
+      "full_name": "Dulciaan 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-hobo-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "hobo"
+      },
+      "names": [
+        "Hobo",
+        "8"
+      ],
+      "full_name": "Hobo 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-tremulant-zwelwerk",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant",
+        "Zwelwerk"
+      ],
+      "midi": []
+    }
+  ],
+  "master_volume": {
+    "pattern": "B0 07 vv",
+    "min": 40,
+    "max": 127
+  },
+  "all_stops_off": "F0 00 4A 4F 48 41 53 7F F7",
+  "connection": {
+    "record_from": "MIDI SEQ",
+    "play_to": "MIDI IN",
+    "notes": [
+      "Record from the MIDI SEQ output (not MIDI MOD, which is programmable and only for sound modules).",
+      "Hold the 0 (Cancel) piston before recording: the organ sends the all-stops-off SysEx and its volume settings on MIDI SEQ, so every stop starts off."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

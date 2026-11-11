@@ -1,0 +1,1936 @@
+{
+  "schema": 1,
+  "id": "rodgers-infinity-484",
+  "name": "Rodgers Infinity 484",
+  "manufacturer": "rodgers",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedal",
+      "channel": 14,
+      "low_key": 36,
+      "high_key": 67
+    },
+    {
+      "role": "great",
+      "name": "Great",
+      "channel": 12,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Swell",
+      "channel": 13,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "choir",
+      "name": "Choir",
+      "channel": 15,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "solo",
+      "name": "Solo",
+      "channel": 16,
+      "low_key": 36,
+      "high_key": 96
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-gravissima-64",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "64"
+      },
+      "names": [
+        "Gravissima",
+        "64"
+      ],
+      "full_name": "Gravissima 64'",
+      "midi": []
+    },
+    {
+      "id": "ped-principal-bass-32",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "32"
+      },
+      "names": [
+        "Principal",
+        "Bass",
+        "32"
+      ],
+      "full_name": "Principal Bass 32'",
+      "midi": []
+    },
+    {
+      "id": "ped-contra-bourdon-32",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "32"
+      },
+      "names": [
+        "Contra",
+        "Bourdon",
+        "32"
+      ],
+      "full_name": "Contra Bourdon 32'",
+      "midi": []
+    },
+    {
+      "id": "ped-contra-bass-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Contra",
+        "Bass",
+        "16"
+      ],
+      "full_name": "Contra Bass 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-subbass-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Subbass",
+        "16"
+      ],
+      "full_name": "Subbass 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-bourdon-amabile-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16",
+        "tag": "bourdon amabile"
+      },
+      "names": [
+        "Bourdon",
+        "Amabile",
+        "16"
+      ],
+      "full_name": "Bourdon Amabile 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-violone-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "16"
+      },
+      "names": [
+        "Violone",
+        "16"
+      ],
+      "full_name": "Violone 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-erzahler-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "16",
+        "tag": "erzähler"
+      },
+      "names": [
+        "Erzähler",
+        "16"
+      ],
+      "full_name": "Erzähler 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-octave-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Octave",
+        "8"
+      ],
+      "full_name": "Octave 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-gedackt-bass-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Gedackt",
+        "Bass",
+        "8"
+      ],
+      "full_name": "Gedackt Bass 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-violoncello-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Violoncello",
+        "8"
+      ],
+      "full_name": "Violoncello 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-choral-bass-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Choral",
+        "Bass",
+        "4"
+      ],
+      "full_name": "Choral Bass 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-nacht-horn-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Nacht",
+        "Horn",
+        "4"
+      ],
+      "full_name": "Nacht Horn 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-mixture-iv",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Mixture",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ped-contre-bombarde-32",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "32"
+      },
+      "names": [
+        "Contre",
+        "Bombarde",
+        "32"
+      ],
+      "full_name": "Contre Bombarde 32'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-bombarde-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Bombarde",
+        "16"
+      ],
+      "full_name": "Bombarde 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trumpet-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16",
+        "tag": "trumpet"
+      },
+      "names": [
+        "Trumpet",
+        "16"
+      ],
+      "full_name": "Trumpet 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trompette-en-chamade-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompette en",
+        "Chamade",
+        "8"
+      ],
+      "full_name": "Trompette en Chamade 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trompette-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "trompette"
+      },
+      "names": [
+        "Trompette",
+        "8"
+      ],
+      "full_name": "Trompette 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-clairon-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clairon",
+        "4"
+      ],
+      "full_name": "Clairon 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-great-to-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "great",
+        "pitch": "unison"
+      },
+      "names": [
+        "Great",
+        "to Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-swell-to-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell",
+        "to Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-swell-to-pedal-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "super"
+      },
+      "names": [
+        "Swell",
+        "to Pedal 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-choir-to-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "unison"
+      },
+      "names": [
+        "Choir",
+        "to Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-solo-to-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "solo",
+        "pitch": "unison"
+      },
+      "names": [
+        "Solo",
+        "to Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-montre-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Montre",
+        "16"
+      ],
+      "full_name": "Montre 16'",
+      "midi": []
+    },
+    {
+      "id": "gt-diapason-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-principal-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8",
+        "tag": "principal"
+      },
+      "names": [
+        "Principal",
+        "8"
+      ],
+      "full_name": "Principal 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-flute-harmonique-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Flûte",
+        "Harmonique",
+        "8"
+      ],
+      "full_name": "Flûte Harmonique 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-chimney-flute-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "chimney flute"
+      },
+      "names": [
+        "Chimney",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Chimney Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-gemshorn-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "gemshorn"
+      },
+      "names": [
+        "Gemshorn",
+        "8"
+      ],
+      "full_name": "Gemshorn 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-octave-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Octave",
+        "4"
+      ],
+      "full_name": "Octave 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-spitzflote-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Spitzflöte",
+        "4"
+      ],
+      "full_name": "Spitzflöte 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-quinte-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Quinte",
+        "2 2/3"
+      ],
+      "full_name": "Quinte 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-super-octave-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Super",
+        "Octave",
+        "2"
+      ],
+      "full_name": "Super Octave 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-fourniture-v",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 5
+      },
+      "names": [
+        "Fourniture",
+        "V"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-cymbal-iv",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1",
+        "ranks": 4
+      },
+      "names": [
+        "Cymbal",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-posaune-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Posaune",
+        "16"
+      ],
+      "full_name": "Posaune 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-trompete-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompete",
+        "8"
+      ],
+      "full_name": "Trompete 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-chimes-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "percussion",
+        "footage": "8"
+      },
+      "names": [
+        "Chimes",
+        "8"
+      ],
+      "full_name": "Chimes 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-zimbelstern-1",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "percussion",
+        "footage": "1"
+      },
+      "names": [
+        "Zimbelstern",
+        "1"
+      ],
+      "full_name": "Zimbelstern 1'",
+      "midi": []
+    },
+    {
+      "id": "gt-tremulant",
+      "division": "great",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-swell-to-great-16",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "sub"
+      },
+      "names": [
+        "Swell",
+        "to Great 16"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-swell-to-great",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell",
+        "to Great"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-swell-to-great-4",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "super"
+      },
+      "names": [
+        "Swell",
+        "to Great 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-choir-to-great-16",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "sub"
+      },
+      "names": [
+        "Choir",
+        "to Great 16"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-choir-to-great",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "unison"
+      },
+      "names": [
+        "Choir",
+        "to Great"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-choir-to-great-4",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "super"
+      },
+      "names": [
+        "Choir",
+        "to Great 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-solo-to-great",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "solo",
+        "pitch": "unison"
+      },
+      "names": [
+        "Solo",
+        "to Great"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-bourdon-amabile-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Bourdon",
+        "Amabile",
+        "16"
+      ],
+      "full_name": "Bourdon Amabile 16'",
+      "midi": []
+    },
+    {
+      "id": "sw-diapason-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-fugara-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Fugara",
+        "8"
+      ],
+      "full_name": "Fugara 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-traverse-flute-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Traverse",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Traverse Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-bourdon-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "bourdon"
+      },
+      "names": [
+        "Bourdon",
+        "8"
+      ],
+      "full_name": "Bourdon 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-flute-celeste-ii-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8",
+        "ranks": 2
+      },
+      "names": [
+        "Flûte Céleste",
+        "II",
+        "8"
+      ],
+      "full_name": "Flûte Céleste II 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-viole-de-gamba-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8",
+        "tag": "viole de gamba"
+      },
+      "names": [
+        "Viole de",
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Viole de Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-viole-celeste-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Viole",
+        "Céleste",
+        "8"
+      ],
+      "full_name": "Viole Céleste 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-aeoline-celeste-ii-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8",
+        "ranks": 2,
+        "tag": "aeoline céleste ii"
+      },
+      "names": [
+        "Aeoline Céleste",
+        "II",
+        "8"
+      ],
+      "full_name": "Aeoline Céleste II 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-prestant-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Prestant",
+        "4"
+      ],
+      "full_name": "Prestant 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-flute-traversiere-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Flûte",
+        "Traversière",
+        "4"
+      ],
+      "full_name": "Flûte Traversière 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-nazard-2-2-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Nazard",
+        "2 2/3"
+      ],
+      "full_name": "Nazard 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-octavin-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Octavin",
+        "2"
+      ],
+      "full_name": "Octavin 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-tierce-1-3-5",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 3/5"
+      },
+      "names": [
+        "Tierce",
+        "1 3/5"
+      ],
+      "full_name": "Tierce 1 3/5'",
+      "midi": []
+    },
+    {
+      "id": "sw-chorus-mixture-iv",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Chorus Mixture",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-cymbal-vi",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1",
+        "ranks": 6
+      },
+      "names": [
+        "Cymbal",
+        "VI"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-double-trumpet-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Double",
+        "Trumpet",
+        "16"
+      ],
+      "full_name": "Double Trumpet 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-trumpet-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trumpet",
+        "8"
+      ],
+      "full_name": "Trumpet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-hautboy-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "hautboy"
+      },
+      "names": [
+        "Hautboy",
+        "8"
+      ],
+      "full_name": "Hautboy 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-vox-humana-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "vox humana"
+      },
+      "names": [
+        "Vox",
+        "Humana",
+        "8"
+      ],
+      "full_name": "Vox Humana 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-clarion-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clarion",
+        "4"
+      ],
+      "full_name": "Clarion 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-tremulant",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-swell-to-swell-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "sub"
+      },
+      "names": [
+        "Swell",
+        "to Swell 16"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-swell-unison-off",
+      "division": "swell",
+      "equivalent": {
+        "type": "unison_off"
+      },
+      "names": [
+        "Swell Unison",
+        "Off"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-swell-to-swell-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "super"
+      },
+      "names": [
+        "Swell",
+        "to Swell 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-choir-to-swell",
+      "division": "swell",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "unison"
+      },
+      "names": [
+        "Choir",
+        "to Swell"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-choir-to-swell-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "super"
+      },
+      "names": [
+        "Choir",
+        "to Swell 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-solo-to-swell",
+      "division": "swell",
+      "equivalent": {
+        "type": "coupler",
+        "source": "solo",
+        "pitch": "unison"
+      },
+      "names": [
+        "Solo",
+        "to Swell"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-erzahler-16",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "16"
+      },
+      "names": [
+        "Erzähler",
+        "16"
+      ],
+      "full_name": "Erzähler 16'",
+      "midi": []
+    },
+    {
+      "id": "ch-montre-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Montre",
+        "8"
+      ],
+      "full_name": "Montre 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-gedackt-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Gedackt",
+        "8"
+      ],
+      "full_name": "Gedackt 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-concert-flute-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "concert flute"
+      },
+      "names": [
+        "Concert",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Concert Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-viole-celeste-ii-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8",
+        "ranks": 2
+      },
+      "names": [
+        "Viole Céleste",
+        "II",
+        "8"
+      ],
+      "full_name": "Viole Céleste II 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-erzahler-celeste-ii-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8",
+        "ranks": 2,
+        "tag": "erzähler céleste ii"
+      },
+      "names": [
+        "Erzähler Céleste",
+        "II",
+        "8"
+      ],
+      "full_name": "Erzähler Céleste II 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-principal-4",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Principal",
+        "4"
+      ],
+      "full_name": "Principal 4'",
+      "midi": []
+    },
+    {
+      "id": "ch-koppelflote-4",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Koppelflöte",
+        "4"
+      ],
+      "full_name": "Koppelflöte 4'",
+      "midi": []
+    },
+    {
+      "id": "ch-klein-octave-2",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Klein",
+        "Octave",
+        "2"
+      ],
+      "full_name": "Klein Octave 2'",
+      "midi": []
+    },
+    {
+      "id": "ch-zauberflote-2",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Zauberflöte",
+        "2"
+      ],
+      "full_name": "Zauberflöte 2'",
+      "midi": []
+    },
+    {
+      "id": "ch-larigot-1-1-3",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 1/3"
+      },
+      "names": [
+        "Larigot",
+        "1 1/3"
+      ],
+      "full_name": "Larigot 1 1/3'",
+      "midi": []
+    },
+    {
+      "id": "ch-rauschwerke-iv",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Rauschwerke",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ch-mixture-v",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 5
+      },
+      "names": [
+        "Mixture",
+        "V"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ch-cor-anglais-16",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Cor",
+        "Anglais",
+        "16"
+      ],
+      "full_name": "Cor Anglais 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ch-basson-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Basson",
+        "8"
+      ],
+      "full_name": "Basson 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ch-cromorne-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "cromorne"
+      },
+      "names": [
+        "Cromorne",
+        "8"
+      ],
+      "full_name": "Cromorne 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ch-tuba-imperial-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "tuba imperial"
+      },
+      "names": [
+        "Tuba",
+        "Imperial",
+        "8"
+      ],
+      "full_name": "Tuba Imperial 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ch-tremulant",
+      "division": "choir",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ch-swell-to-choir-16",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "sub"
+      },
+      "names": [
+        "Swell",
+        "to Choir 16"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-swell-to-choir",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell",
+        "to Choir"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-swell-to-choir-4",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "super"
+      },
+      "names": [
+        "Swell",
+        "to Choir 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-choir-to-choir-16",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "sub"
+      },
+      "names": [
+        "Choir",
+        "to Choir 16"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-choir-unison-off",
+      "division": "choir",
+      "equivalent": {
+        "type": "unison_off"
+      },
+      "names": [
+        "Choir Unison",
+        "Off"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ch-choir-to-choir-4",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "super"
+      },
+      "names": [
+        "Choir",
+        "to Choir 4"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-solo-to-choir",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "solo",
+        "pitch": "unison"
+      },
+      "names": [
+        "Solo",
+        "to Choir"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "so-grand-diapason-8",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Grand",
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Grand Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "so-flauto-mirabilis-8",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Flauto",
+        "Mirabilis",
+        "8"
+      ],
+      "full_name": "Flauto Mirabilis 8'",
+      "midi": []
+    },
+    {
+      "id": "so-major-octave-4",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Major",
+        "Octave",
+        "4"
+      ],
+      "full_name": "Major Octave 4'",
+      "midi": []
+    },
+    {
+      "id": "so-tierce-mixture-x-vii",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "2",
+        "ranks": 10
+      },
+      "names": [
+        "Tierce Mixture",
+        "X-VII"
+      ],
+      "midi": []
+    },
+    {
+      "id": "so-bombarde-16",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Bombarde",
+        "16"
+      ],
+      "full_name": "Bombarde 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "so-trompette-harmonique-8",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompette",
+        "Harmonique",
+        "8"
+      ],
+      "full_name": "Trompette Harmonique 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "so-french-horn-8",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "french horn"
+      },
+      "names": [
+        "French",
+        "Horn",
+        "8"
+      ],
+      "full_name": "French Horn 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "so-clarinette-8",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "clarinette"
+      },
+      "names": [
+        "Clarinette",
+        "8"
+      ],
+      "full_name": "Clarinette 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "so-clairon-harmonique-4",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clairon",
+        "Harmonique",
+        "4"
+      ],
+      "full_name": "Clairon Harmonique 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "so-trompette-en-chamade-8",
+      "division": "solo",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "trompette en chamade"
+      },
+      "names": [
+        "Trompette en",
+        "Chamade",
+        "8"
+      ],
+      "full_name": "Trompette en Chamade 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "so-tremulant",
+      "division": "solo",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "so-solo-unison-off",
+      "division": "solo",
+      "equivalent": {
+        "type": "unison_off"
+      },
+      "names": [
+        "Solo Unison",
+        "Off"
+      ],
+      "midi": []
+    }
+  ],
+  "connection": {
+    "record_from": "MIDI OUT",
+    "play_to": "MIDI IN",
+    "notes": [
+      "Record from the organ's MIDI OUT and play back into its MIDI IN."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "maker": "Johannus",
+  "model": "Ecclesia D-477",
+  "series": "Ecclesia",
+  "years": "current (johannus.com, 2026)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "Three-manual Ecclesia default channels (from the previous D-470 generation): Choir 1, Great 2, Swell 3, Pedal 4, stops 12; CC11 expression 55-127. Not verified for the D-477 itself (DS-Core platform). The D-477 has four swell shoes; only the Swell's CC11 is mapped.",
+    "Pedal Lieblich Gedackt 16' and Violone 16' are borrowed from the Choir and Swell.",
+    "Stop list: https://www.johannus.com/en/collection-church-organs/ecclesia/ecclesia-d-477 (manufacturer stoplist tab)",
+    "MIDI scheme: The T-377/D-477/D-577 manual needs a dealer login; MIDI scheme from the Ecclesia T-270/T-370/D-470/D-570 user manual (July 2020), MIDI specifications p. 48: https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/39936-U2nl53k6kxTggXa022IJApZmpyGUyYdo1lp3IDjH1h5QZH7b6KbF2Wt9PTumaFIE-0/Ecclesia%20270-370-470-570%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

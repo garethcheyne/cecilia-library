@@ -1,0 +1,19 @@
+{
+  "maker": "Wyvern",
+  "model": "Pavane 340",
+  "series": "Pavane",
+  "years": "current range (wyvernorgans.co.uk, 2026); introduction year not published",
+  "confidence": "template",
+  "notes": [
+    "Mixture compositions as printed: Great Sesquialtera 12.17, Great Full Mixture 19.22.26.29.33 (V), Swell Mixture 19.22.26.29 (IV), Choir Cornet 12.15.17 (III).",
+    "Stop names are the British specification printed on the Wyvern model page. The organ also has French, German and Dutch alternative specifications with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3, Choir 4. Wyvern does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Wyvern/Musicom consoles as sending toggling Program Changes, or on/off Program Changes split across adjacent channels; no per-model stop number table exists, so every stop is unbound: use Learn every stop (a stop that only sends a toggle you cannot tell apart from its 'off' may not learn reliably).",
+    "The current Wyvern range shares its layout and four alternative specifications with Content (Netherlands) organs, which Wyvern also sells; the MIDI behaviour may follow Content's, but this is not documented.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://wyvernorgans.co.uk/wyvern-organ-range/wyvern-pavane-340/ (manufacturer model page, British specification, 40 speaking stops; three 61-note manuals, 30-note radial/concave pedalboard)",
+    "MIDI scheme: No Wyvern MIDI implementation is published (the model page only lists MIDI In/Out/Thru and per-division MIDI on/off switches; no owner's manual with a MIDI chapter was found). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,993 @@
+{
+  "schema": 1,
+  "id": "viscount-unico-300",
+  "name": "Viscount Unico 300",
+  "manufacturer": "viscount",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedal",
+      "channel": 4,
+      "low_key": 36,
+      "high_key": 67
+    },
+    {
+      "role": "great",
+      "name": "Great",
+      "channel": 2,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Swell",
+      "channel": 1,
+      "low_key": 36,
+      "high_key": 96,
+      "expression": {
+        "pattern": "B0 0B vv",
+        "min": 0,
+        "max": 127
+      }
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-double-open-wood-32",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "32"
+      },
+      "names": [
+        "Double Open",
+        "Wood",
+        "32"
+      ],
+      "full_name": "Double Open Wood 32'",
+      "midi": []
+    },
+    {
+      "id": "ped-open-wood-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Open",
+        "Wood",
+        "16"
+      ],
+      "full_name": "Open Wood 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-open-metal-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16",
+        "tag": "open metal"
+      },
+      "names": [
+        "Open",
+        "Metal",
+        "16"
+      ],
+      "full_name": "Open Metal 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-bourdon-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Bourdon",
+        "16"
+      ],
+      "full_name": "Bourdon 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-violone-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "16"
+      },
+      "names": [
+        "Violone",
+        "16"
+      ],
+      "full_name": "Violone 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-principal-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Principal",
+        "8"
+      ],
+      "full_name": "Principal 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-bass-flute-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Bass",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Bass Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-choral-bass-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Choral",
+        "Bass",
+        "4"
+      ],
+      "full_name": "Choral Bass 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-mixture-iv",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "2 2/3",
+        "ranks": 4
+      },
+      "names": [
+        "Mixture",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ped-contra-bombarde-32",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "32"
+      },
+      "names": [
+        "Contra",
+        "Bombarde",
+        "32"
+      ],
+      "full_name": "Contra Bombarde 32'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trombone-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Trombone",
+        "16"
+      ],
+      "full_name": "Trombone 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-basson-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16",
+        "tag": "basson"
+      },
+      "names": [
+        "Basson",
+        "16"
+      ],
+      "full_name": "Basson 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trumpet-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trumpet",
+        "8"
+      ],
+      "full_name": "Trumpet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-clarion-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clarion",
+        "4"
+      ],
+      "full_name": "Clarion 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-pedal-cello-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "other",
+        "footage": "16"
+      },
+      "names": [
+        "Pedal",
+        "Cello",
+        "16"
+      ],
+      "full_name": "Pedal Cello 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-i-p",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "great",
+        "pitch": "unison"
+      },
+      "names": [
+        "I/P"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-ii-p",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "II/P"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-double-diapason-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Double",
+        "Diapason",
+        "16"
+      ],
+      "full_name": "Double Diapason 16'",
+      "midi": []
+    },
+    {
+      "id": "gt-open-diapason-i-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Open Diapason",
+        "I",
+        "8"
+      ],
+      "full_name": "Open Diapason I 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-open-diapason-ii-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8",
+        "tag": "open diapason ii"
+      },
+      "names": [
+        "Open Diapason",
+        "II",
+        "8"
+      ],
+      "full_name": "Open Diapason II 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-claribel-flute-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Claribel",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Claribel Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-stopped-diapason-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "stopped diapason"
+      },
+      "names": [
+        "Stopped",
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Stopped Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-principal-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Principal",
+        "4"
+      ],
+      "full_name": "Principal 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-harmonic-flute-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Harmonic",
+        "Flute",
+        "4"
+      ],
+      "full_name": "Harmonic Flute 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-twelfth-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Twelfth",
+        "2 2/3"
+      ],
+      "full_name": "Twelfth 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-fifteenth-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Fifteenth",
+        "2"
+      ],
+      "full_name": "Fifteenth 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-grand-cornet-v-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "8",
+        "ranks": 5
+      },
+      "names": [
+        "Grand Cornet",
+        "V",
+        "8"
+      ],
+      "full_name": "Grand Cornet V 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-mixture-iv",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "2",
+        "ranks": 4
+      },
+      "names": [
+        "Mixture",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-sharp-mixture-iii",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1",
+        "ranks": 3
+      },
+      "names": [
+        "Sharp Mixture",
+        "III"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-double-trumpet-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Double",
+        "Trumpet",
+        "16"
+      ],
+      "full_name": "Double Trumpet 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-trumpet-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trumpet",
+        "8"
+      ],
+      "full_name": "Trumpet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-clarinet-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "clarinet"
+      },
+      "names": [
+        "Clarinet",
+        "8"
+      ],
+      "full_name": "Clarinet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-clarion-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clarion",
+        "4"
+      ],
+      "full_name": "Clarion 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-great-harp-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "percussion",
+        "footage": "8"
+      },
+      "names": [
+        "Great",
+        "Harp",
+        "8"
+      ],
+      "full_name": "Great Harp 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-great-strings-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "other",
+        "footage": "8"
+      },
+      "names": [
+        "Great",
+        "Strings",
+        "8"
+      ],
+      "full_name": "Great Strings 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-ii-i",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "II/I"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-tremulant",
+      "division": "great",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-bourdon-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Bourdon",
+        "16"
+      ],
+      "full_name": "Bourdon 16'",
+      "midi": []
+    },
+    {
+      "id": "sw-geigen-diapason-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Geigen",
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Geigen Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-chimney-flute-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Chimney",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Chimney Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-lieblich-gedackt-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "lieblich gedackt"
+      },
+      "names": [
+        "Lieblich",
+        "Gedackt",
+        "8"
+      ],
+      "full_name": "Lieblich Gedackt 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-echo-gamba-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Echo",
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Echo Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-vox-angelica-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Vox",
+        "Angelica",
+        "8"
+      ],
+      "full_name": "Vox Angelica 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-geigen-principal-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Geigen",
+        "Principal",
+        "4"
+      ],
+      "full_name": "Geigen Principal 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-wald-flute-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Wald",
+        "Flute",
+        "4"
+      ],
+      "full_name": "Wald Flute 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-nasard-2-2-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Nasard",
+        "2 2/3"
+      ],
+      "full_name": "Nasard 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-fifteenth-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Fifteenth",
+        "2"
+      ],
+      "full_name": "Fifteenth 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-tierce-1-3-5",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 3/5"
+      },
+      "names": [
+        "Tierce",
+        "1 3/5"
+      ],
+      "full_name": "Tierce 1 3/5'",
+      "midi": []
+    },
+    {
+      "id": "sw-mixture-iv",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "2",
+        "ranks": 4
+      },
+      "names": [
+        "Mixture",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-contra-fagotto-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Contra",
+        "Fagotto",
+        "16"
+      ],
+      "full_name": "Contra Fagotto 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-cornopean-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Cornopean",
+        "8"
+      ],
+      "full_name": "Cornopean 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-oboe-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "oboe"
+      },
+      "names": [
+        "Oboe",
+        "8"
+      ],
+      "full_name": "Oboe 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-vox-humana-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "vox humana"
+      },
+      "names": [
+        "Vox",
+        "Humana",
+        "8"
+      ],
+      "full_name": "Vox Humana 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-clarion-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clarion",
+        "4"
+      ],
+      "full_name": "Clarion 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-swell-chimes-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "percussion",
+        "footage": "8"
+      },
+      "names": [
+        "Swell",
+        "Chimes",
+        "8"
+      ],
+      "full_name": "Swell Chimes 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-swell-oboe-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "other",
+        "footage": "8"
+      },
+      "names": [
+        "Swell",
+        "Oboe",
+        "8"
+      ],
+      "full_name": "Swell Oboe 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-tremulant",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    }
+  ],
+  "all_stops_off": "F0 31 2F 6C 00 F7",
+  "connection": {
+    "record_from": "MIDI OUT",
+    "play_to": "MIDI IN",
+    "notes": [
+      "Record from the organ's MIDI OUT and play back into its MIDI IN. Keep the SysEx and Control Change transmit filters off in the MIDI menu.",
+      "Press the Cancel piston (C) before recording so every stop starts off.",
+      "On consoles with MIDI tabs in each division, those tabs must be on for key notes to be transmitted (stops and other messages are sent regardless)."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

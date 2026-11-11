@@ -1,0 +1,26 @@
+{
+  "maker": "Viscount",
+  "model": "Chorum 90",
+  "series": "Chorum",
+  "also_known_as": [
+    "Chorum 90 DLX"
+  ],
+  "years": "c. 2016-2022 (disposition sheet 2016; now a legacy model)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the tab labels ('Stop' column of the disposition sheet). The organ has four styles (Baroque, Barock, Romantic, Symphonic) that rename and revoice the stops.",
+    "Couplers and tremulants are not in the disposition sheet; they come from the Chorum manual's panel description (3-manual models: I/P, II/P, III/P, III/II, I/II, III/I, a tremulant on each manual).",
+    "Orchestral voice tabs (Cello, Piano, Strings, Chimes etc.) are included as stops; their footage is nominal (8', Cello 16').",
+    "Man.I = Choir (Positive), Man.II = Great, Man.III = Swell. ARTEM sampled organ (Chorum series).",
+    "The internal sequencer's MIDI files use a different channelling (Pedal 1, Man.II 2, Man.III 3, Man.I 4; manual p. 40). This template follows the live MIDI OUT defaults of sect. 10.6.",
+    "Stops transmit Viscount SysEx F0 31 4n xx yy F7 (on) / F0 31 0n xx yy F7 (off), n = section channel, xx yy = internal voice ID. Voice IDs are not published for this model (and change if an alternative voice is selected), so no stop bindings are included: use Learn every stop.",
+    "Couplers are only received (F0 31 2F 70 vv F7), not transmitted; tremulant on/off is sent as tremulant speed/depth SysEx (depth 00 = off), which a stop binding cannot express. Learn or set these by hand.",
+    "all_stops_off is the documented Viscount Cancel message F0 31 2F 6C 00 F7. Expression pedals send CC11 (0-127) on the section's channel; divisional volumes send CC7 (not mapped).",
+    "Check on your organ: the channel numbers are factory defaults and can be changed in the organ's MIDI menu (a dealer may have changed them).",
+    "Stop list: https://www.viscountinstruments.it/media/wysiwyg/pdf/supporto/Disposition/Chorum/Chorum%2090%20EU%20-%20Disposition.pdf (official Viscount disposition sheet; no longer on viscountinstruments.it, retrieved from the Internet Archive copy)",
+    "Stop list: https://www.viscountinstruments.com/products/classics/classic-organs/legacy-organs/chorum-90-chorum-90-dlx/ (3 x 61 notes, 32-note pedalboard, 47 stops + 4 orchestral voices, expression pedals for Man.I and Man.III, crescendo pedal)",
+    "MIDI scheme: https://chci-varhany.cz/wp-content/uploads/2021/03/Chorum-EU-EN-v14-1.pdf (Chorum User Manual EU-EN v14, OS 1.1.5; official copy https://www.viscountinstruments.it/img/Chorum-EU-EN-v14-1-1.pdf) - sect. 10.6 Detailed MIDI implementation, pp. 55-58: 3-manual defaults Man.III=ch1, Man.II=ch2, Man.I=ch3, Pedal=ch4, ch16 system; Register on/off F0 31 sn xx yy F7; Cancel F0 31 2F 6C 00 F7; sect. 5.4 MIDI settings pp. 21-23"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "maker": "Rodgers",
+  "model": "Imagine 241",
+  "series": "Imagine",
+  "years": "current model (Rodgers 2026 catalogue)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the American Eclectic engraving. The Organ Type piston switches every stop to English Cathedral, French Romantic or German Baroque voices (Voice Palette); the Library/MIDI A/B controls are not included.",
+    "MIDI channels are taken from the Imagine 2-manual owner's manual (Imagine platform).",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.rodgersinstruments.com/organs/imagine-series/imagine-241 (Rodgers product page, Stoplist tab, American Eclectic)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/1903008_B00_Imagine-235_OM1.pdf (Rodgers Imagine 2-manual owner's manual, MIDI transmit channels table, PDF p. 29: Swell CH13, Great CH12, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

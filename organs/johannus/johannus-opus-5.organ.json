@@ -1,0 +1,432 @@
+{
+  "schema": 1,
+  "id": "johannus-opus-5",
+  "name": "Johannus Opus 5",
+  "manufacturer": "johannus",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedal",
+      "channel": 3,
+      "low_key": 36,
+      "high_key": 65
+    },
+    {
+      "role": "great",
+      "name": "Great",
+      "channel": 1,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Swell",
+      "channel": 2,
+      "low_key": 36,
+      "high_key": 96,
+      "expression": {
+        "pattern": "B1 0B vv",
+        "min": 0,
+        "max": 127
+      }
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-subbass-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Subbass",
+        "16"
+      ],
+      "full_name": "Subbass 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-octave-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Octave",
+        "8"
+      ],
+      "full_name": "Octave 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-gedackt-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Gedackt",
+        "8"
+      ],
+      "full_name": "Gedackt 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-fagotto-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Fagotto",
+        "16"
+      ],
+      "full_name": "Fagotto 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-great-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "great",
+        "pitch": "unison"
+      },
+      "names": [
+        "Great -",
+        "Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-swell-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell -",
+        "Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-principal-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Principal",
+        "8"
+      ],
+      "full_name": "Principal 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-rohrflute-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Rohrflute",
+        "8"
+      ],
+      "full_name": "Rohrflute 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-octave-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Octave",
+        "4"
+      ],
+      "full_name": "Octave 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-octave-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Octave",
+        "2"
+      ],
+      "full_name": "Octave 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-sesquialter-ii-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3",
+        "ranks": 2
+      },
+      "names": [
+        "Sesquialter",
+        "II",
+        "2 2/3"
+      ],
+      "full_name": "Sesquialter II 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-mixture-ii-iv",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Mixture",
+        "II-IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-trumpet-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trumpet",
+        "8"
+      ],
+      "full_name": "Trumpet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-tremulant-great",
+      "division": "great",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant",
+        "Great"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-swell-great",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell -",
+        "Great"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-stopped-flute-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Stopped",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Stopped Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-viola-di-gamba-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Viola di",
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Viola di Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-vox-celeste-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Vox",
+        "Celeste",
+        "8"
+      ],
+      "full_name": "Vox Celeste 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-koppelflute-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Koppelflute",
+        "4"
+      ],
+      "full_name": "Koppelflute 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-flute-twelfth-2-2-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Flute",
+        "Twelfth",
+        "2 2/3"
+      ],
+      "full_name": "Flute Twelfth 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-waldflute-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Waldflute",
+        "2"
+      ],
+      "full_name": "Waldflute 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-nazard-1-1-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 1/3"
+      },
+      "names": [
+        "Nazard",
+        "1 1/3"
+      ],
+      "full_name": "Nazard 1 1/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-oboe-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Oboe",
+        "8"
+      ],
+      "full_name": "Oboe 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-tremulant-swell",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant",
+        "Swell"
+      ],
+      "midi": []
+    }
+  ],
+  "master_volume": {
+    "pattern": "B0 07 vv",
+    "min": 0,
+    "max": 127
+  },
+  "all_stops_off": "F0 00 4A 4F 48 41 53 7F F7",
+  "connection": {
+    "record_from": "MIDI OUT",
+    "play_to": "MIDI IN",
+    "notes": [
+      "This model has MIDI IN / THRU / OUT. Key data is only sent on MIDI OUT for divisions whose MIDI stop (MIDI Great 1, MIDI Swell 2, MIDI Pedal 3...) is on, so switch the MIDI stops on before recording.",
+      "Press 0 (Cancel) before recording so every stop starts off."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

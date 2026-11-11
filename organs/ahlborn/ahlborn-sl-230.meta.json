@@ -1,0 +1,18 @@
+{
+  "maker": "Ahlborn",
+  "model": "SL 230",
+  "series": "SL",
+  "years": "c. 1999 (approx.; dealer instrument dated 1999)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are as listed (in French) by the French dealer France Orgue; the console engraving may use German or English names. Couplers are given English names (dealer: \"Tirasse GO/Réc\", \"Accouplement Réc/GO\").",
+    "Flat 30-note pedalboard; one expression pedal (Swell). 20 stops. The SL 227 has the same stops with a 27-note pedalboard.",
+    "MIDI channels are NOT documented for this model (the manual only says each section's channel is programmable). The channels used here (Great 1, Swell 2, Pedal 3) are an assumption - set them to what your organ actually sends (check its MIDI menu or record a few notes).",
+    "No per-stop MIDI table is published for this model, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The expression pedal's MIDI controller is not documented, so no expression mapping is set.",
+    "Stop list: https://www.france-orgue.fr/orgue/pdf_org/Ahlborn_Sl_230_ref723.pdf (France Orgue dealer specification sheet, \"Composition\")",
+    "MIDI scheme: none published for this model (see notes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

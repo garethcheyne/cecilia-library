@@ -1,0 +1,19 @@
+{
+  "maker": "Content",
+  "model": "Chapel 354R",
+  "series": "Chapel",
+  "years": "current model (listed on contentorgans.com, 2026)",
+  "confidence": "template",
+  "notes": [
+    "30-note pedalboard per the UK distributor's model code UK354RD/30RC (https://www.promenademusic.co.uk/content-chapel-354r-digital-church-organ/); change the pedal range if yours has 32 notes.",
+    "The manufacturer page prints the Swell Nineteenth as 1 1/2; it is entered here as 1 1/3 (the pitch of a Nineteenth).",
+    "Stop names are the \"Symphonic\" (English) style as printed on contentorgans.com. The organ also has Baroque (German), Classic (Dutch) and Romantic (French) styles with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3, Choir 4. Content does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Content stop changes as bitfield-style messages (several stops packed into one controller/aftertouch value), which Cecilia cannot map to single stops, so every stop is unbound: use Learn every stop, and expect that some stops may not be learnable.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://www.contentorgans.com/kerkorgels/chapel-354r/ (manufacturer page, Dispositie, Symphonic style: Pedal 13, Choir 13, Great 13, Swell 15)",
+    "MIDI scheme: No Content MIDI implementation is published (no owner's manual with a MIDI chapter was found on contentorgans.com or elsewhere). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

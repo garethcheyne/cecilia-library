@@ -1,0 +1,17 @@
+{
+  "maker": "Content",
+  "model": "Clavis 224",
+  "series": "Clavis",
+  "years": "recent model (listed on contentorgans.com/en, 2026)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the \"Symphonic\" (English) style as printed on contentorgans.com. The organ also has Baroque (German), Classic (Dutch) and Romantic (French) styles with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3. Content does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Content stop changes as bitfield-style messages (several stops packed into one controller/aftertouch value), which Cecilia cannot map to single stops, so every stop is unbound: use Learn every stop, and expect that some stops may not be learnable.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://www.contentorgans.com/en/digital-organs/clavis-224/ (manufacturer page, Symphonic style: Pedal 5, Great 10, Swell 9; 2 manuals, 30-note pedal)",
+    "MIDI scheme: No Content MIDI implementation is published (no owner's manual with a MIDI chapter was found on contentorgans.com or elsewhere). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

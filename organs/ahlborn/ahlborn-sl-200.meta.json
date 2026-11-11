@@ -1,0 +1,19 @@
+{
+  "maker": "Ahlborn",
+  "model": "SL 200",
+  "series": "SL",
+  "years": "c. 1997 (approx.; dealer instruments dated 1997)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are as listed (in French) by the French dealer France Orgue; the console engraving may use German or English names. Couplers are given English names (dealer: \"Tirasse GO/Réc\", \"Accouplement Réc/GO\").",
+    "Flat 30-note pedalboard; one expression pedal (Swell). 25 stops.",
+    "MIDI channels are NOT documented for this model (the manual only says each section's channel is programmable). The channels used here (Great 1, Swell 2, Pedal 3) are an assumption - set them to what your organ actually sends (check its MIDI menu or record a few notes).",
+    "No per-stop MIDI table is published for this model, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The expression pedal's MIDI controller is not documented, so no expression mapping is set.",
+    "Stop list: https://www.france-orgue.fr/orgue/pdf_org/Ahlborn_Sl_200_ref819.pdf (France Orgue dealer specification sheet, \"Composition\")",
+    "Stop list: https://www.johdeheer.nl/item/ahlborn-sl-200-dark-oak-organ.html (Joh. de Heer dealer page, \"Dispositie\" in Dutch - same stops)",
+    "MIDI scheme: none published for this model (see notes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

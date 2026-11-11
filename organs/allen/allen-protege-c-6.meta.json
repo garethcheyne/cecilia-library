@@ -1,0 +1,24 @@
+{
+  "maker": "Allen",
+  "model": "C-6",
+  "series": "Protégé",
+  "also_known_as": [
+    "Protégé C-6",
+    "Protege C-6"
+  ],
+  "years": "c. 1999-2001 (owner's manual (c) 1999)",
+  "confidence": "template",
+  "notes": [
+    "Same manual as the C-12; the Swell Clairon 4 and the Swell Solo Voices are C-12 only.",
+    "Not included: MIDI on <division>, Melody/Bass Coupler, Tremulants Full, Alternate Tuning, unenclosed and speaker controls.",
+    "Check on your organ: Allen channels follow the MIDI base channel (Swell = base channel, Great +1, Pedal +2, Choir +3; general pistons on channel 8). The base channel resets to 1 at power-on, so these channels normally apply.",
+    "Expression: in the default POLY-VOLUME mode each division's channel carries Control Change 7 (volume) from its expression shoe; Allen's minimum is about 20. If the organ is set to SWELL-VOLUME, POLY-VELOCITY or NO EXPRESSION the Great/Pedal (and Choir) volumes will not be recorded.",
+    "Stops are not bound: Allen sends and receives each stop as an NRPN (CC99 MSB, CC98 LSB, then CC6 127 = on / 0 = off, on the division's channel), which Cecilia's single-message bindings cannot express. A future NRPN driver is needed; 'Learn every stop' cannot tell Allen stops apart because every stop ends with the same CC6 message.",
+    "The organ's 'Transmit/Receive Stops' MIDI setting must be ON for stop changes to be sent or received at all.",
+    "Stop list: https://www.allenorgan.com/support/ownersmanuals/0330124.pdf (Protégé C-6 & C-12 owner's manual, 'C-6 & 12 Stoplists' p.3-5)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00086ChamberConsoleController.pdf (Chamber Series Console Controller and MIDI Guide: standard classical channels Swell 1, Great 2, Pedal 3, Choir 4, Solo 5, generals 8, p.15; Poly-Volume expression p.16; Transmit/Receive Stops (NRPN) p.18; MIDI OUT 1 unswitched / OUT 2 switched p.22)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00266TH317eTheatreOwnersManual.pdf (TH-317e owner's manual, Appendix B p.18-19: volume = Control Change 7, lower limit about 20; stops = NRPN CC99/CC98 then CC6 127 on / 0 off; pistons = Program Changes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

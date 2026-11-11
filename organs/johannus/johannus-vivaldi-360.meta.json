@@ -1,0 +1,19 @@
+{
+  "maker": "Johannus",
+  "model": "Vivaldi 360",
+  "series": "Vivaldi",
+  "years": "current (johannus.com, 2026)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "Six sample styles; primary names are used (alternates exist for about 15 tabs, e.g. Choir Principal 8' / Salicional 8' (E), Octave 4' / Celeste 8' (E), Sesquialtera / Tuba 8' (EA), Mixture / Corno di Bassetto 8' (E), Cromorne / Trumpet 8' (E)).",
+    "The website prints the Great Fifteenth as 4'; entered as 2' (the Vivaldi 260 and every other Johannus Fifteenth is 2'). Check on your organ.",
+    "The Swell Sub Octave and Super Octave tabs are entered as Swell octave couplers.",
+    "Mixture/Cornet/Scharf ranks are not published (entered without ranks; Cornet entered at 8'). The 30-note pedal compass is assumed for this European model.",
+    "Stop list: https://www.johannus.com/en-eu/collection-home-organs/vivaldi/vivaldi-360 (manufacturer stoplist tab)",
+    "MIDI scheme: No public Vivaldi 360 manual; MIDI scheme from the Vivaldi 270/370 user manual (July 2020), MIDI specifications p. 55 (Vivaldi 370: Choir 1, Great 2, Swell 3, Pedal 4, stops 12; CC11 55-127): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/40162-Uk5ski29OCZFDIZtnxak4y0D80cgLWfpKHhM77uPyUp8hSlBFnmQ9JIxGdnOgCKa-0/Vivaldi%20270-370%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

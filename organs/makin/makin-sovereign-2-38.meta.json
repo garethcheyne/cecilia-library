@@ -1,0 +1,20 @@
+{
+  "maker": "Makin",
+  "model": "Sovereign 2-38",
+  "series": "Sovereign",
+  "years": "c. 2001-2003",
+  "confidence": "template",
+  "notes": [
+    "This model predates both published Makin MIDI documents; the channel layout, controllers and all-stops-off message are assumed from the later Makin / Church Organ World manuals (2016 and 2023) and are not confirmed for this generation. Check on your organ.",
+    "Stops are sent as toggling Program Changes on channel 12, but no per-stop Program Change table is published for this model, so every stop is left unbound: use Learn every stop.",
+    "The channel of the CC11 expression message is not stated in the manual; it is assumed to be the channel of the division the pedal controls. Master volume (CC7) is assumed on channel 1. Check on your organ; channel numbers can also be changed in the organ's MIDI menu.",
+    "'Great & Pedal Combinations Coupled', 'General on Swell Toe Pistons' and similar piston/transfer controls are console functions, not stops, and are not listed.",
+    "Pre-Westmorland Makin range, shown on makinorgans.co.uk in 2001-2003. Obvious typing slips on the archived page are corrected in stop names.",
+    "The console's MIDI tabs (MIDI Pedal, MIDI Great, ...) are not stops and are not listed.",
+    "Stop list: https://web.archive.org/web/20030524063243/http://www.makinorgans.co.uk/dispo_sovereign.html (archived Makin Sovereign stoplist page, 2003)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/COWManual5_9W.pdf (Church Organ World / Makin User Manual issue 5.9W 2016, sections 8.5-8.6 MIDI Channels and Controllers, pp. 31-32)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/Makin_User_Manual_2023.pdf (section 7.2 MIDI Specifications, pp. 38-39)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

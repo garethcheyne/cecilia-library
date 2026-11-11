@@ -1,0 +1,19 @@
+{
+  "maker": "Rodgers",
+  "model": "Infinity 367",
+  "series": "Infinity",
+  "years": "current model (Rodgers 2026 catalogue)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the American Eclectic engraving. The Organ Type piston switches every stop to English Cathedral, French Romantic or German Baroque voices (Voice Palette); the Library/MIDI A/B controls are not included.",
+    "The Solo is a floating division (no keyboard of its own), played through the Solo couplers. Its notes are assumed to go out on the Solo channel 16 - check on your organ.",
+    "MIDI channels are taken from the Infinity 243/361/484 owner's manual (no owner's manual for the 367 is published yet).",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Choir 15, Solo 16, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.rodgersinstruments.com/organs/infinity-series/infinity-series-367 (Rodgers product page, Stoplist tab, American Eclectic)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/owners_manual/owners_guides_2017/1905371_H00_INFINITY_ORGAN.pdf (Rodgers Infinity 243/361/484 owner's manual, \"About MIDI transmit channels\", p. 18 / PDF p. 22: Choir CH15, Great CH12, Swell CH13, Solo CH16, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

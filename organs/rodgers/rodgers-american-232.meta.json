@@ -1,0 +1,22 @@
+{
+  "maker": "Rodgers",
+  "model": "American Series 232",
+  "series": "American Series",
+  "also_known_as": [
+    "The American Series 232"
+  ],
+  "years": "current model (Rodgers 2026 catalogue)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the engraving. The Organ Type piston switches between American Classic, American Eclectic and American Symphonic voices (same names). Orchestral Trumpet / Orchestral Oboe tabs can also be set to MIDI A / MIDI B for an external module.",
+    "MIDI channels (default): Great 1, Swell 2, Pedal 3, stops on 12. This MIDI scheme is unlike other Rodgers organs (same as Johannus organs).",
+    "Stops send Program Changes on channel 12, but the manual only says the numbers \"depend on the number of stops and the sequence of stops\" - no table is published, so stops are left unbound: use Learn every stop.",
+    "Expression (CC11, values 55-127) and general volume (CC7, values 40-127) are documented, but the manual does not say which channel they are sent on; the channels used here are an assumption (expression on each shoe's division channel, volume on channel 1). Check on your organ.",
+    "Holding the 0 (general cancel) piston sends the documented 'all stops off' SysEx F0 00 4A 4F 48 41 53 7F F7 (also recognised).",
+    "Stop list: https://www.rodgersinstruments.com/uploads/downloads/232_Brochure_1.pdf (Rodgers The American Series 232 brochure, \"Stop List\")",
+    "Stop list: https://www.rodgersinstruments.com/organs/the-american-series/the-american-series-232 (Rodgers product page, Stoplist tab)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/downloads/1903115_B00%20American%20232%20Owners%20Manual.pdf (Rodgers The American 232 owner's manual, MIDI Implementation Chart and \"MIDI Specifications\", PDF pp. 35-36: Great ch 1, Swell ch 2, Pedal ch 3, Stops ch 12)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

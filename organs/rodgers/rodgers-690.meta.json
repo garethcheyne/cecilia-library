@@ -1,0 +1,18 @@
+{
+  "maker": "Rodgers",
+  "model": "690",
+  "years": "c. 1993-1997 (approx.; MIDI chart dated April 1993)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the engraved names; the Voice Palette alternatives (in brackets in the manual) are not listed separately. MIDI GT/SW/PED A and B couplers are not included.",
+    "The console also has a Flute Tremulant, Full, Great to Swell Expression, Bass and Melody couplers; the Flute Tremulant is not included (one tremulant per division).",
+    "MIDI master channels Great 12, Swell 13, Pedal 14 are documented for this model; each can be switched off in the MIDI menu. Check on your organ.",
+    "Stops are sent as Rodgers/Roland System Exclusive bit-map messages with a checksum (one message covers a group of stops). Cecilia cannot match these to single stops yet - a future Rodgers bit-field driver is needed - so every stop is unbound. Use Learn every stop only if your organ also sends a simple message per stop; otherwise only the notes are recorded.",
+    "When the organ receives MIDI Start it sends a snapshot of all stop and expression settings (documented for the 690). Receiving Program Change 20 on the Great master channel selects the General Canceler (690 manual); not used as all_stops_off because the 0/1-based numbering is not stated.",
+    "Expression: the manual says the shoes send MIDI volume (CC 7) on the master channels; the value range is not stated (0-127 assumed) - unverified.",
+    "Stop list: https://www.manualslib.com/manual/902957/Rodgers-690.html?page=27 (Rodgers 690 owner's manual, \"690 Specifications\", p. 27 in the ManualsLib viewer; text layer partly garbled, e.g. \"Cromome\" = Cromorne)",
+    "MIDI scheme: https://www.manualslib.com/manual/902957/Rodgers-690.html?page=42 (Rodgers 690 owner's manual, \"MIDI Features\" pp. 42-43 and MIDI Implementation Chart p. 44 (dated 4/12/93), ManualsLib viewer pages: Great master channel 12, Swell 13, Pedal 14; expression sent as MIDI volume on the master channels; stop changes and memory dumps by System Exclusive; received Start sends the current stop and expression status)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

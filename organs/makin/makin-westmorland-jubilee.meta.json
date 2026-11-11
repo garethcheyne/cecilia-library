@@ -1,0 +1,19 @@
+{
+  "maker": "Makin",
+  "model": "Westmorland Jubilee",
+  "series": "Westmorland",
+  "years": "2005-c. 2009",
+  "confidence": "template",
+  "notes": [
+    "This model predates both published Makin MIDI documents; the channel layout, controllers and all-stops-off message are assumed from the later Makin / Church Organ World manuals (2016 and 2023) and are not confirmed for this generation. Check on your organ.",
+    "Stops are sent as toggling Program Changes on channel 12, but no per-stop Program Change table is published for this model, so every stop is left unbound: use Learn every stop.",
+    "The channel of the CC11 expression message is not stated in the manual; it is assumed to be the channel of the division the pedal controls. Master volume (CC7) is assumed on channel 1. Check on your organ; channel numbers can also be changed in the organ's MIDI menu.",
+    "'Great & Pedal Combinations Coupled', 'General on Swell Toe Pistons' and similar piston/transfer controls are console functions, not stops, and are not listed.",
+    "35-stop two-manual home-practice organ released for Makin's 35th anniversary (2005) with Dr Simon Lindley; English and Baroque intonations, MIDI for each division. No tremulant is printed in the published stop list.",
+    "Stop list: https://web.archive.org/web/20091123001431/http://www.makinorgans.co.uk/files/Downloads-downloadFile-5.pdf (archived Makin 'Westmorland Custom Organs' brochure, c. 2009) p. 5 (Westmorland Jubilee)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/COWManual5_9W.pdf (Church Organ World / Makin User Manual issue 5.9W 2016, sections 8.5-8.6 MIDI Channels and Controllers, pp. 31-32)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/Makin_User_Manual_2023.pdf (section 7.2 MIDI Specifications, pp. 38-39)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,22 @@
+{
+  "maker": "Viscount",
+  "model": "Unico 400",
+  "series": "Unico",
+  "years": "c. 2011-2019 (Styles sheet 2011; now a legacy model)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the tab labels from the official Styles sheet ('Stop' column). The organ has four styles (e.g. Baroque, Romantic, English, Symphonic) that rename and revoice the stops.",
+    "Couplers and tremulants are not in the Styles sheet; they come from the Physis manual's panel description (3-manual models: I/P, II/P, III/P, III/II, I/II, III/I, tremulants on each manual). Your console may have extra sub/super-octave couplers.",
+    "Orchestral voice tabs (Cello, Piano, Strings, Chimes etc.) are included as stops; their footage is nominal (8', Cello 16').",
+    "EU standard voicing (German/Baroque stop names). Man.I = Choir (Positive), Man.II = Great, Man.III = Swell.",
+    "Stops transmit Viscount SysEx F0 31 4n xx yy F7 (on) / F0 31 0n xx yy F7 (off), n = section channel, xx yy = internal voice ID. Voice IDs are not published for this model (and change if an alternative voice is selected), so no stop bindings are included: use Learn every stop.",
+    "Couplers are only received (F0 31 2F 70 vv F7), not transmitted; tremulant on/off is sent as tremulant speed/depth SysEx (depth 00 = off), which a stop binding cannot express. Learn or set these by hand.",
+    "all_stops_off is the documented Viscount Cancel message F0 31 2F 6C 00 F7. Expression pedals send CC11 (0-127) on the section's channel; divisional volumes send CC7 (not mapped).",
+    "Check on your organ: the channel numbers are factory defaults and can be changed in the organ's MIDI menu (a dealer may have changed them).",
+    "Stop list: https://www.viscountinstruments.it/media/wysiwyg/pdf/supporto/Disposition/Unico/UNICO%20400%20EU%20STANDARD%20-%20Styles.pdf (official Viscount disposition sheet; no longer on viscountinstruments.it, retrieved from the Internet Archive copy)",
+    "Stop list: https://www.viscountinstruments.com/products/classics/classic-organs/legacy-organs/unico-400/ (3 manuals, 32-note pedalboard, 56 stop tabs + 7 orchestral voices, expression pedals for Man.I and Man.III)",
+    "MIDI scheme: https://www.viscountinstruments.com/img/PhysisEU_ReferenceManual-EN-v117-7.pdf (Physis Organs Reference Manual EU v1.17, sect. 14.6 Detailed MIDI implementation, pp. 115-118: 3-manual defaults Man.III=ch1, Man.II=ch2, Man.I=ch3, Pedal=ch4, ch16 system)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

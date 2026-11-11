@@ -1,0 +1,20 @@
+{
+  "maker": "Phoenix",
+  "model": "Baseline Two Manual",
+  "series": "Baseline",
+  "years": "c. 2001-2005 (baseline specification published Feb 2005)",
+  "confidence": "template",
+  "notes": [
+    "The 'Two manual and pedal base-line Phoenix Organ': 28 speaking stops, illuminated stop keys above the top manual. Most Phoenix organs are bespoke; this template only fits the standard baseline instrument.",
+    "The text says 28 speaking stops but the printed departments total 29 (Great 11, Swell 11, Pedal 7); all 29 printed stops are included. The pedal compass is not stated, so the default 32-note range is used.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3. Phoenix lets the installer assign a channel to each department and publishes no defaults: check on the MIDI monitor and correct the channels before recording.",
+    "Stop changes are sent and received over MIDI, but the message format is not published (Hauptwerk's console presets describe Phoenix stops as Program Change on/off messages split across adjacent channels, with no per-model number table), so every stop is unbound: use Learn every stop.",
+    "The expression pedals send MIDI data, but the controller numbers are not published, so no expression is set: learn them from the MIDI monitor if needed.",
+    "Phoenix baseline organs let the customer choose the sample for each stop position, so stop names on your console may differ; the layout (stops per department, couplers) is fixed. Two built-in specifications can be selected on the LCD display.",
+    "Stop list: https://www.phoenixorgans.co.uk/pdfs/baseline.pdf (Phoenix Organs 'Baseline Organs' PDF, Feb 2005; also https://www.phoenixorgans.co.uk/sample2man.html and sample3man.html)",
+    "MIDI scheme: https://www.phoenixorgans.co.uk/pdfs/baseline.pdf (External Connections: \"Midi IN, Post Coupled OUT, Pre Coupled OUT (Data from/for expression pedals, stop changes sent and received via midi)\")",
+    "MIDI scheme: https://www.phoenixorgans.co.uk/pdfs/phoenix-system.pdf (System Capabilities table: MIDI \"Assignable Channel for each dept.\" for In, Out 1 (pre-coupled) and Out 2 (post-coupled); no default channel numbers or message formats given)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

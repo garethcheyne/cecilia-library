@@ -1,0 +1,23 @@
+{
+  "maker": "Allen",
+  "model": "MDS-8",
+  "series": "MDS",
+  "years": "c. 1997 (owner's manual (c) 1997)",
+  "confidence": "template",
+  "notes": [
+    "Second voices are alternates on existing tabs and are not listed separately: Swell Solo Organ Voices (Tuba Mirabilis 8, Open Flute 8, Clarinet 8, Cor Anglais 8) and Classic Second Voices for Great/Pedal (e.g. Principal 8, Holzgedackt 8, Harmonic Flute 4, Cymbale III, Carillon, Sub Bass 16, Oktav 8).",
+    "Celesta, Harp and Handbells are listed in the manual as Swell percussion voices.",
+    "Two expression shoes: Great/Pedal and Swell.",
+    "Not included: MIDI on <division>, Melody/Bass Coupler, Tremulants Full, Alternate Tuning, unenclosed and speaker controls.",
+    "Check on your organ: Allen channels follow the MIDI base channel (Swell = base channel, Great +1, Pedal +2, Choir +3; general pistons on channel 8). The base channel resets to 1 at power-on, so these channels normally apply.",
+    "Expression: in the default POLY-VOLUME mode each division's channel carries Control Change 7 (volume) from its expression shoe; Allen's minimum is about 20. If the organ is set to SWELL-VOLUME, POLY-VELOCITY or NO EXPRESSION the Great/Pedal (and Choir) volumes will not be recorded.",
+    "Stops are not bound: Allen sends and receives each stop as an NRPN (CC99 MSB, CC98 LSB, then CC6 127 = on / 0 = off, on the division's channel), which Cecilia's single-message bindings cannot express. A future NRPN driver is needed; 'Learn every stop' cannot tell Allen stops apart because every stop ends with the same CC6 message.",
+    "The organ's 'Transmit/Receive Stops' MIDI setting must be ON for stop changes to be sent or received at all.",
+    "Stop list: https://www.allenorgan.com/support/ownersmanuals/MDS-8OWNERSMANUALwithCC.pdf (MDS-8 owner's manual, 'MDS-8 Stoplist' Section I p.2-5)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/MDS-8OWNERSMANUALwithCC.pdf (MDS-8 owner's manual, 'MIDI Transmission Channels': Swell 1, Great 2, Pedal 3, generals 8; volume sent on channels 1-3 by the expression shoes)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00086ChamberConsoleController.pdf (Chamber Series Console Controller and MIDI Guide: standard classical channels Swell 1, Great 2, Pedal 3, Choir 4, Solo 5, generals 8, p.15; Poly-Volume expression p.16; Transmit/Receive Stops (NRPN) p.18; MIDI OUT 1 unswitched / OUT 2 switched p.22)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00266TH317eTheatreOwnersManual.pdf (TH-317e owner's manual, Appendix B p.18-19: volume = Control Change 7, lower limit about 20; stops = NRPN CC99/CC98 then CC6 127 on / 0 off; pistons = Program Changes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

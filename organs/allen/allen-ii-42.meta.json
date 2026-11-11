@@ -1,0 +1,24 @@
+{
+  "maker": "Allen",
+  "model": "II/42",
+  "series": "APEX II",
+  "also_known_as": [
+    "APEX II 42"
+  ],
+  "years": "current (APEX II series, allenorgan.com 2026)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the default Classic Allen voicing suite printed on the stop controls; the organ also has selectable stop lists (Classic Allen (default), English, Cavaille-Coll, Schlicker, Arp Schnitger and Aeolian-Skinner, plus optional Wurlitzer/Barton/Morton theatre suites) which re-voice and rename the stops.",
+    "Same stop list as the GeniSys GX-236. Festival Trumpet (NC) is a non-coupling stop drawn from either manual.",
+    "Not included: optional GENISYS Voices stops, MIDI on <division>, Melody/Bass Coupler, Tremulants Full, Alternate Tuning, manual transfer/unenclosed and speaker/antiphonal controls.",
+    "Check on your organ: Allen channels follow the MIDI base channel (Swell = base channel, Great +1, Pedal +2, Choir +3; general pistons on channel 8). The base channel resets to 1 at power-on, so these channels normally apply.",
+    "Expression: in the default POLY-VOLUME mode each division's channel carries Control Change 7 (volume) from its expression shoe; Allen's minimum is about 20. If the organ is set to SWELL-VOLUME, POLY-VELOCITY or NO EXPRESSION the Great/Pedal (and Choir) volumes will not be recorded.",
+    "Stops are not bound: Allen sends and receives each stop as an NRPN (CC99 MSB, CC98 LSB, then CC6 127 = on / 0 = off, on the division's channel), which Cecilia's single-message bindings cannot express. A future NRPN driver is needed; 'Learn every stop' cannot tell Allen stops apart because every stop ends with the same CC6 message.",
+    "The organ's 'Transmit/Receive Stops' MIDI setting must be ON for stop changes to be sent or received at all.",
+    "Stop list: https://allenorgan.com/apexii-organs/ii42.html (manufacturer 'II/42 Reference Specification')",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00225-2GeniSysController.pdf (GeniSys Controller Guide v1.10, section D: standard MIDI channel assignments p.50 (Swell 1, Great 2, Pedal 3, Choir 4, Solo 5, generals 8); MIDI base channel p.57; MIDI Expression POLY-VOLUME p.58; Transmit/Receive Stops p.60; MIDI OUT1 (unswitched, sequencer) / OUT2 (switched) p.62-63)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00266TH317eTheatreOwnersManual.pdf (TH-317e owner's manual, Appendix B p.18-19: volume = Control Change 7, lower limit about 20; stops = NRPN CC99/CC98 then CC6 127 on / 0 off; pistons = Program Changes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

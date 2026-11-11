@@ -1,0 +1,25 @@
+{
+  "maker": "Viscount",
+  "model": "Envoy 33",
+  "series": "Envoy",
+  "also_known_as": [
+    "Envoy 33-DFV",
+    "Envoy 33-DFD"
+  ],
+  "years": "c. 2013 (UK Envoy range; spec sheets dated 2013)",
+  "confidence": "template",
+  "notes": [
+    "UK-market model from Viscount Classical Organs (Bicester) on Viscount's Physis platform. The MIDI scheme is taken from Viscount's Physis reference manual and assumed to apply; check on your organ.",
+    "Stop names are the English specification. The organ also has Baroque, Romantic and Symphonic styles that rename and revoice the stops.",
+    "DFV and DFD are console/finish variants with the same stop list; 32-note pedalboard; Swell expression pedal.",
+    "Stops transmit Viscount SysEx F0 31 4n xx yy F7 (on) / F0 31 0n xx yy F7 (off), n = section channel, xx yy = internal voice ID. Voice IDs are not published for this model (and change if an alternative voice is selected), so no stop bindings are included: use Learn every stop.",
+    "Couplers are only received (F0 31 2F 70 vv F7), not transmitted; tremulant on/off is sent as tremulant speed/depth SysEx (depth 00 = off), which a stop binding cannot express. Learn or set these by hand.",
+    "all_stops_off is the documented Viscount Cancel message F0 31 2F 6C 00 F7. Expression pedals send CC11 (0-127) on the section's channel; divisional volumes send CC7 (not mapped).",
+    "Check on your organ: the channel numbers are factory defaults and can be changed in the organ's MIDI menu (a dealer may have changed them).",
+    "Stop list: https://viscountorgans.net/wp-content/uploads/2013/12/Envoy-33-DFV.pdf (Viscount Classical Organs UK spec sheet, English Specification)",
+    "Stop list: https://viscountorgans.net/wp-content/uploads/2013/12/Envoy-33-DFD.pdf (DFD console variant, same English specification)",
+    "MIDI scheme: https://www.viscountinstruments.com/img/PhysisEU_ReferenceManual-EN-v117-7.pdf (Physis Organs Reference Manual EU v1.17, sect. 14.6 Detailed MIDI implementation, pp. 115-118: 2-manual defaults Man.II=ch1, Man.I=ch2, Pedal=ch4, ch16 system)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

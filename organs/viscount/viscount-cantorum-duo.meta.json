@@ -1,0 +1,21 @@
+{
+  "maker": "Viscount",
+  "model": "Cantorum Duo",
+  "series": "Cantorum",
+  "years": "c. 2018-2023 (stop sheet dated 2018)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the tab labels ('Stop' column of the disposition sheet). The organ has four styles (Baroque, Barock, Romantic, Symphonic) that rename and revoice the stops.",
+    "Orchestral voice tabs (Cello, Piano, Strings, Chimes etc.) are included as stops; their footage is nominal (8', Cello 16').",
+    "Portable 2-manual organ; the pedalboard is an optional 30-note MIDI pedalboard. Couplers (I/P, II/P, II/I) and the two tremulants are as listed on the stop sheet.",
+    "Stops transmit Viscount SysEx F0 31 4n xx yy F7 (on) / F0 31 0n xx yy F7 (off), n = section channel, xx yy = internal voice ID. Voice IDs are not published for this model (and change if an alternative voice is selected), so no stop bindings are included: use Learn every stop.",
+    "Couplers are only received (F0 31 2F 70 vv F7), not transmitted; tremulant on/off is sent as tremulant speed/depth SysEx (depth 00 = off), which a stop binding cannot express. Learn or set these by hand.",
+    "all_stops_off is the documented Viscount Cancel message F0 31 2F 6C 00 F7. Expression pedals send CC11 (0-127) on the section's channel; divisional volumes send CC7 (not mapped).",
+    "Check on your organ: the channel numbers are factory defaults and can be changed in the organ's MIDI menu (a dealer may have changed them).",
+    "Stop list: https://www.viscountinstruments.com/media/wysiwyg/pdf/supporto/Disposition/Cantorum/Cantorum%20Duo%20Stops%20and%20Voices.pdf (official 'Cantorum Duo Stops and Voices' sheet, TAB column; retrieved from the Internet Archive copy)",
+    "Stop list: https://viscountorgans.net/wp-content/uploads/2020/08/Viscount-Cantorum.pdf (UK brochure: 2 x 61 keys, 27 voices, optional 30-note pedalboard, single expression pedal)",
+    "MIDI scheme: https://manualslib.fr/manual/8935/Viscount-Cantorum-Duo.html?page=160 (Cantorum Duo manual sect. 10.6 Detailed MIDI implementation, pp. FR-50 to FR-52: Man.II=ch1, Man.I=ch2, Pedal=ch4, ch16 system; expression CC11, volume CC7; Cancel F0 31 2F 6C 00 F7; couplers received only)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

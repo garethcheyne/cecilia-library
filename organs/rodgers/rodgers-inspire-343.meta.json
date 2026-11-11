@@ -1,0 +1,18 @@
+{
+  "maker": "Rodgers",
+  "model": "Inspire 343",
+  "series": "Inspire",
+  "years": "c. 2018-2022 (approx.; succeeded by the Inspire 352)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the American Eclectic engraving. The Organ Type piston switches every stop to English Cathedral, French Romantic or German Baroque voices (Voice Palette); the Library/MIDI A/B controls are not included.",
+    "MIDI channels are taken from the Inspire 352 owner's manual (same Inspire platform).",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Choir 15, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.rodgersinstruments.com/uploads/downloads/Inspire%20Brochure.pdf (Rodgers Inspire Series brochure, \"Stoplist\" for the Inspire Series 343, American Eclectic stop engraving)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/downloads/Inspire%20352%20Owners%20Manual.pdf (Rodgers Inspire 352 owner's manual, \"About MIDI transmit channels\", PDF p. 30: Swell CH13, Great CH12, Choir CH15, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

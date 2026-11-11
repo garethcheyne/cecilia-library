@@ -1,0 +1,19 @@
+{
+  "maker": "Makin",
+  "model": "Derwent 4-68",
+  "series": "Derwent",
+  "years": "2023-present",
+  "confidence": "template",
+  "notes": [
+    "MIDI scheme from the Makin User Manual 2023 (Rydal/Thirlmere/Windermere/Derwent): default channels as set here, stops on channel 12, CC7 general volume 40-127, CC11 swell pedal 55-127, all-stops-off SysEx F0 00 4A 4F 48 41 53 7F F7 sent from MIDI SEQ when Cancel is pressed.",
+    "Stops are sent as toggling Program Changes on channel 12, but no per-stop Program Change table is published for this model, so every stop is left unbound: use Learn every stop.",
+    "The channel of the CC11 expression message is not stated in the manual; it is assumed to be the channel of the division the pedal controls. Master volume (CC7) is assumed on channel 1. Check on your organ; channel numbers can also be changed in the organ's MIDI menu.",
+    "'Great & Pedal Combinations Coupled', 'General on Swell Toe Pistons' and similar piston/transfer controls are console functions, not stops, and are not listed.",
+    "Motorised drawstop console (Derwent 4-68D), introduced late 2023. Mixture compositions: Pedal 15.19.22, Choir Cymbal 29.33.36 (brochure; the web page prints 29.22.36), Great 19.22.26.29 and Sharp 26.29.33, Swell 15.19.22.29. The Choir and Solo expression channels (choir=1, solo=4) are assumed, like the Swell's.",
+    "Stop list: https://www.makinorgans.co.uk/organs/derwent/derwent-4-68d (manufacturer specification page)",
+    "Stop list: https://www.makinorgans.co.uk/uploads/downloads/MakinBrochure23.pdf (Makin brochure 2023, Derwent 4-68 page)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/Makin_User_Manual_2023.pdf (section 7.2 MIDI Specifications, pp. 38-39)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

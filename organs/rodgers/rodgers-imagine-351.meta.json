@@ -1,0 +1,23 @@
+{
+  "maker": "Rodgers",
+  "model": "Imagine 351",
+  "series": "Imagine",
+  "also_known_as": [
+    "Imagine 351D",
+    "Imagine 351T"
+  ],
+  "years": "c. 2019-2023 (approx.; succeeded by the Imagine 359)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the American Eclectic engraving. The Organ Type piston switches every stop to English Cathedral, French Romantic or German Baroque voices (Voice Palette); the Library/MIDI A/B controls are not included.",
+    "MIDI channels are taken from the Imagine 359 owner's manual (same Imagine platform).",
+    "351D (drawknob) and 351T (tab) have the same stoplist.",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Choir 15, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.rodgersinstruments.com/uploads/Imagine_Brochure_Single_Page_view_DIGITAL.pdf (Rodgers Imagine Series 351D/351T brochure, \"Stoplist\", American Eclectic engraved on stops, PDF p. 14)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/downloads/1903011%20D00%20IMAGINE%20359%20OM.pdf (Rodgers Imagine 359 owner's manual, MIDI transmit channels table, PDF p. 34: Swell CH13, Great CH12, Choir CH15, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

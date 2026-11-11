@@ -1,0 +1,18 @@
+{
+  "maker": "Johannus",
+  "model": "Studio 380",
+  "series": "Studio",
+  "years": "current (manual dated February 2024)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "The Studio has selectable sample styles; some tabs change name with the style. Primary (default) names are used; alternates printed on the website include Great Quintaton 8' / Harmonic Flute 8' (S), Twelfth / Gamba 8' (S), Cornet / Terzian (H); Swell Flute 8' / Rohr Flute 8' (B-H), Flute 4' / Octave 4' (B), Wald Flute 2' / Fifteenth 2' (B), Mixture / Carillon (H), Trumpet 8' / Oboe 8' (S-B); Choir Octave 4' / Salicional 8' (S), Flute 2' / Fifteenth 2' (B), Mixture / Larigot 1 1/3' (S); Pedal Principal 16' / Flute 16' (S), Choralbass 4' / Flute 4' (S), Mixture / Quintbass (S-H), Trumpet 8' / Clarion 4' (S).",
+    "Mixture/Cornet ranks are not published (entered without ranks; Cornet entered at 8').",
+    "Single swell shoe (Swell expression only).",
+    "Stop list: https://www.johannus.com/en/collection-home-organs/studio/studio-380 (manufacturer stoplist tab)",
+    "MIDI scheme: Johannus Studio 280/380 user manual (February 2024), MIDI specifications p. 43 (Studio 380 / P-360: Choir 1, Great 2, Swell 3, Pedal 4, stops 12; CC11 55-127; CC7 40-127): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/47185-OFj15DYZZASjMi8Pu6CMGcg2aZYBALyRHD6Y6FWUbyOHj87aAggnNUS5fDbQnpQJ-0/Studio%20280-380%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

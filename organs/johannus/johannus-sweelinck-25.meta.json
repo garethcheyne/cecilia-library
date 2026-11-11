@@ -1,0 +1,16 @@
+{
+  "maker": "Johannus",
+  "model": "Sweelinck 25",
+  "series": "Sweelinck",
+  "years": "c. 2005 (brochure 2005, p. 16)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "Romantic, Symphonic and Baroque styles share the same stop names; the stop names are from the 2005 brochure. Pedalboard 30-note (27-note on smaller models).",
+    "Stop list: Johannus brochure \"BDO - Studio - Opus - Sweelinck - Rembrandt\" (EN, 2005): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/38439-tiXQiYHABCGx1srr6NqAYkq1LSB42aqJ833skbYao9WUygMY9AktuxCSHaEOyGy6-0/Brochure%20BDO%20-%20Studio%20-%20Opus%20-%20Sweelinck%20-%20Rembrandt%20EN.pdf",
+    "MIDI scheme: Johannus Sweelinck 15/25/35 user manual (April 2005), MIDI specifications pp. 28-29 (2-manual: Great 1, Swell 2, Pedal 3, stops 12; 3-manual: Choir 1, Great 2, Swell 3, Pedal 4, stops 12; CC7 40-127; CC11 63-127; all stops off F0 00 4A 4F 48 41 53 7F F7): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/38966-12InpHpFPJRajqpE368e5kYTA9CibwFhUIYK4f4xlgk7pAlFY2lAk56XtCJbeDhE-0/Sweelinck%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

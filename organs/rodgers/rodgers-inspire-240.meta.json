@@ -1,0 +1,18 @@
+{
+  "maker": "Rodgers",
+  "model": "Inspire 240",
+  "series": "Inspire",
+  "years": "current model (Rodgers 2026 catalogue); successor of the Inspire 233",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the American Eclectic engraving. The Organ Type piston switches every stop to English Cathedral, French Romantic or German Baroque voices (Voice Palette); the Library/MIDI A/B controls are not included.",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.rodgersinstruments.com/organs/inspire-series/inspire-240 (Rodgers product page, Stoplist tab, American Eclectic)",
+    "Stop list: https://www.rodgersinstruments.com/uploads/downloads/INSPIRE%20240%20Brochure.pdf (Rodgers Inspire 240 brochure)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/downloads/INSPIRE%20234%20240%20OM%5B30%5D.pdf (Rodgers Inspire 234/240 owner's manual, \"About MIDI transmit channels\", PDF p. 32: Great CH12, Swell CH13, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

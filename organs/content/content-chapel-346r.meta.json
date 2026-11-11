@@ -1,0 +1,18 @@
+{
+  "maker": "Content",
+  "model": "Chapel 346R",
+  "series": "Chapel",
+  "years": "current model (listed on contentorgans.com, 2026)",
+  "confidence": "template",
+  "notes": [
+    "30-note pedalboard per the UK distributor's model code UK346R/30RC (https://www.promenademusic.co.uk/content-chapel-346r-digital-church-organ/); change the pedal range if yours has 32 notes.",
+    "Stop names are the \"Symphonic\" (English) style as printed on contentorgans.com. The organ also has Baroque (German), Classic (Dutch) and Romantic (French) styles with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3, Choir 4. Content does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Content stop changes as bitfield-style messages (several stops packed into one controller/aftertouch value), which Cecilia cannot map to single stops, so every stop is unbound: use Learn every stop, and expect that some stops may not be learnable.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://www.contentorgans.com/kerkorgels/chapel-346r/ (manufacturer page, Dispositie, Symphonic style: Pedal 11, Choir 10, Great 12, Swell 13)",
+    "MIDI scheme: No Content MIDI implementation is published (no owner's manual with a MIDI chapter was found on contentorgans.com or elsewhere). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

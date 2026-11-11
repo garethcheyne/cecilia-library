@@ -1,0 +1,19 @@
+{
+  "maker": "Ahlborn",
+  "model": "Hymnus IV",
+  "series": "Hymnus",
+  "years": "c. 1993-2003 (MIDI chart dated 15.02.1993; dealer instruments dated 2003)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the Italian names printed in the owner's manual (the instrument was built by Generalmusic). The manual's text layer is partly garbled, so pedal footages were matched against the France Orgue dealer sheet - check against your console.",
+    "Flat 30-note pedalboard (dealer sheet). The MIDI chart lists note numbers 32-98; the key ranges used here are the usual 36-96 / 36-65.",
+    "MIDI channels are NOT documented for this model (the manual only says each section's channel is programmable). The channels used here (Great 1, Swell 2, Pedal 3) are an assumption - set them to what your organ actually sends (check its MIDI menu or record a few notes).",
+    "No per-stop MIDI table is published for this model, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The MIDI chart lists Generalmusic-reserved controllers (CC 7, 70, 71, 92, 96, 97 - section volume, master volume, tremolo, data inc/dec) without a clear mapping, so no expression mapping is set.",
+    "Stop list: https://www.manualslib.com/manual/1168917/Ahlborn-Hymnus-Iv.html?page=6 (Ahlborn HYMNUS IV owner's manual, English section, \"Specification\" p. 6: Grande Organo I, Recitativo II, Pedale)",
+    "Stop list: https://www.france-orgue.fr/orgue/pdf_org/Ahlborn_Hymnus_iv_ref748.pdf (France Orgue dealer specification sheet, \"Composition\") - used to confirm the footages (French names)",
+    "MIDI scheme: https://www.manualslib.com/manual/1168917/Ahlborn-Hymnus-Iv.html?page=12 (owner's manual p. 12 \"MIDI in - out - thru\" and MIDI Implementation Chart p. 18 (Generalmusic, 15.02.1993): channels 1-16 selectable per section with the remote control, Mode 3; no defaults given)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

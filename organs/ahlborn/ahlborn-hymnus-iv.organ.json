@@ -1,0 +1,533 @@
+{
+  "schema": 1,
+  "id": "ahlborn-hymnus-iv",
+  "name": "Ahlborn Hymnus IV",
+  "manufacturer": "generic",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedale",
+      "channel": 3,
+      "low_key": 36,
+      "high_key": 65
+    },
+    {
+      "role": "great",
+      "name": "Grande Organo",
+      "channel": 1,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Recitativo",
+      "channel": 2,
+      "low_key": 36,
+      "high_key": 96
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-principale-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Principale",
+        "16"
+      ],
+      "full_name": "Principale 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-subbasso-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Subbasso",
+        "16"
+      ],
+      "full_name": "Subbasso 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-ottava-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Ottava",
+        "8"
+      ],
+      "full_name": "Ottava 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-bordone-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Bordone",
+        "8"
+      ],
+      "full_name": "Bordone 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-decimaquinta-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Decimaquinta",
+        "4"
+      ],
+      "full_name": "Decimaquinta 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-ripieno-4-file",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Ripieno 4",
+        "file"
+      ],
+      "full_name": "Ripieno 4 file 1 1/3'",
+      "midi": []
+    },
+    {
+      "id": "ped-controfagotto-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Controfagotto",
+        "16"
+      ],
+      "full_name": "Controfagotto 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-regale-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Regale",
+        "4"
+      ],
+      "full_name": "Regale 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-i-ped",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "great",
+        "pitch": "unison"
+      },
+      "names": [
+        "I-Ped."
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-ii-ped",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "II-Ped."
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-bordone-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Bordone",
+        "16"
+      ],
+      "full_name": "Bordone 16'",
+      "midi": []
+    },
+    {
+      "id": "gt-principale-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Principale",
+        "8"
+      ],
+      "full_name": "Principale 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-flauto-a-camino-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Flauto a",
+        "camino",
+        "8"
+      ],
+      "full_name": "Flauto a camino 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-ottava-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Ottava",
+        "4"
+      ],
+      "full_name": "Ottava 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-flauto-in-viii-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Flauto in",
+        "VIII",
+        "4"
+      ],
+      "full_name": "Flauto in VIII 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-decimaquinta-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Decimaquinta",
+        "2"
+      ],
+      "full_name": "Decimaquinta 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-ripieno-4-file",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Ripieno 4",
+        "file"
+      ],
+      "full_name": "Ripieno 4 file 1 1/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-sesquialtera-2-file-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3",
+        "ranks": 2
+      },
+      "names": [
+        "Sesquialtera 2",
+        "file",
+        "2 2/3"
+      ],
+      "full_name": "Sesquialtera 2 file 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-tromba-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Tromba",
+        "8"
+      ],
+      "full_name": "Tromba 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-unione-ii-i",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Unione",
+        "II-I"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-bordone-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Bordone",
+        "8"
+      ],
+      "full_name": "Bordone 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-viola-da-gamba-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Viola da",
+        "gamba",
+        "8"
+      ],
+      "full_name": "Viola da gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-principale-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Principale",
+        "4"
+      ],
+      "full_name": "Principale 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-corno-di-notte-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Corno di",
+        "notte",
+        "4"
+      ],
+      "full_name": "Corno di notte 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-nazardo-2-2-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Nazardo",
+        "2 2/3"
+      ],
+      "full_name": "Nazardo 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-flautino-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Flautino",
+        "2"
+      ],
+      "full_name": "Flautino 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-terza-1-3-5",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 3/5"
+      },
+      "names": [
+        "Terza",
+        "1 3/5"
+      ],
+      "full_name": "Terza 1 3/5'",
+      "midi": []
+    },
+    {
+      "id": "sw-cimbalo-3-file",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1",
+        "ranks": 3
+      },
+      "names": [
+        "Cimbalo 3",
+        "file"
+      ],
+      "full_name": "Cimbalo 3 file 1'",
+      "midi": []
+    },
+    {
+      "id": "sw-voce-celeste-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Voce",
+        "celeste",
+        "8"
+      ],
+      "full_name": "Voce celeste 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-oboe-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Oboe",
+        "8"
+      ],
+      "full_name": "Oboe 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-tremolo",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremolo"
+      ],
+      "midi": []
+    }
+  ],
+  "connection": {
+    "record_from": "MIDI OUT",
+    "play_to": "MIDI IN",
+    "notes": [
+      "Record from the organ's MIDI OUT and play back into its MIDI IN."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

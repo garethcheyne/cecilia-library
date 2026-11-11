@@ -1,0 +1,17 @@
+{
+  "maker": "Johannus",
+  "model": "Opus 260",
+  "series": "Opus",
+  "years": "current (johannus.com, 2026)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "Dutch-market model with Dutch stop names as printed. Sample-style alternates: HW Quintadeen / Fl. Harm. 8' (S), Quint / Violon 8' (S), Cornet / Tertiaan (H); ZW Fluit 8' / Roerfluit (B-H), Woudfluit / Octaaf 2' (B), Nasard 1 1/3' / Sifflet 1' (B-H), Mixtuur / Carillon (H), Trompet / Hobo 8' (S-B); Pedaal Prestant / Fluit 16' (S), Koraalbas / Fluit 4' (S), Mixtuur / Quintbas (S-H), Trompet 8' / Klaroen 4' (S).",
+    "Mixtuur/Cornet ranks are not published (entered without ranks; Cornet entered at 8'). The 30-note pedal compass is assumed.",
+    "Stop list: https://www.johannus.com/nl/collectie-huiskamerorgels/opus/opus-260 (manufacturer stoplist tab, Dutch)",
+    "MIDI scheme: The Opus 260/360 manual needs a dealer login; MIDI scheme from the Studio 280/380 user manual (February 2024), MIDI specifications p. 43 (two-manual: Great 1, Swell 2, Pedal 3, stops 12): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/47185-OFj15DYZZASjMi8Pu6CMGcg2aZYBALyRHD6Y6FWUbyOHj87aAggnNUS5fDbQnpQJ-0/Studio%20280-380%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,19 @@
+{
+  "maker": "Makin",
+  "model": "Thirlmere 2-36",
+  "series": "Thirlmere",
+  "years": "2023-present",
+  "confidence": "template",
+  "notes": [
+    "MIDI scheme from the Makin User Manual 2023 (Rydal/Thirlmere/Windermere/Derwent): default channels as set here, stops on channel 12, CC7 general volume 40-127, CC11 swell pedal 55-127, all-stops-off SysEx F0 00 4A 4F 48 41 53 7F F7 sent from MIDI SEQ when Cancel is pressed.",
+    "Stops are sent as toggling Program Changes on channel 12, but no per-stop Program Change table is published for this model, so every stop is left unbound: use Learn every stop.",
+    "The channel of the CC11 expression message is not stated in the manual; it is assumed to be the channel of the division the pedal controls. Master volume (CC7) is assumed on channel 1. Check on your organ; channel numbers can also be changed in the organ's MIDI menu.",
+    "'Great & Pedal Combinations Coupled', 'General on Swell Toe Pistons' and similar piston/transfer controls are console functions, not stops, and are not listed.",
+    "Covers both the Thirlmere 2-36T (tabstop) and 2-36D (drawstop). Mixture compositions: Great 19.22.26, Swell 15.19.22.",
+    "Stop list: https://www.makinorgans.co.uk/organs/thirlmere-series/thirlmere-2-36d (manufacturer specification page; the 2-36T has the same stop list)",
+    "Stop list: https://www.makinorgans.co.uk/uploads/downloads/MakinBrochure23.pdf (Makin brochure 2023, Thirlmere 2-36 page)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/Makin_User_Manual_2023.pdf (section 7.2 MIDI Specifications, pp. 38-39)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,17 @@
+{
+  "maker": "Ahlborn-Galanti",
+  "model": "3100",
+  "years": "2000s (approx.; Ahlborn-Galanti, a division of Generalmusic Corporation; web site (c) 2009)",
+  "confidence": "template",
+  "notes": [
+    "Only the primary (bold) stops are listed. Every stop can be switched to alternates via the 5 Interactive Stop Lists, and each division has an \"Additional Stop\" tab whose voice is selectable (included as 'Additional Stop', family other). The MIDI on Great/Swell/Choir/Pedal tabs are not included.",
+    "MIDI channels are NOT documented for this model (the manual only says each section's channel is programmable). The channels used here (Great 1, Swell 2, Pedal 3, Choir 4) are an assumption - set them to what your organ actually sends (check its MIDI menu or record a few notes).",
+    "No per-stop MIDI table is published for this model, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "Expression: Swell (and Choir/Solo) expression pedals plus Great/Pedal volume sliders; their MIDI controllers are not documented, so no expression mapping is set.",
+    "Stop list: https://ahlborn-galanti.com/Specifications/Spec_3100.html (Ahlborn-Galanti Organs specification page, primary stops in bold)",
+    "Stop list: https://ahlborn-galanti.com/Flyer_PDFs/Flyer_3100.pdf (Ahlborn-Galanti flyer; also https://galantiorgans.com/organs/)",
+    "MIDI scheme: https://ahlborn-galanti.com/Features/Features_3100.html (Ahlborn-Galanti features page: \"Programmable MIDI Channels, IN and OUT, for MIDI 1 and MIDI 2\" - no default channel table or stop message table is published.)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

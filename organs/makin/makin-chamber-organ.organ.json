@@ -1,0 +1,487 @@
+{
+  "schema": 1,
+  "id": "makin-chamber-organ",
+  "name": "Makin Chamber Organ",
+  "manufacturer": "makin",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedal",
+      "channel": 3,
+      "low_key": 36,
+      "high_key": 67
+    },
+    {
+      "role": "great",
+      "name": "Great",
+      "channel": 1,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Swell",
+      "channel": 2,
+      "low_key": 36,
+      "high_key": 96,
+      "expression": {
+        "pattern": "B1 0B vv",
+        "min": 63,
+        "max": 127
+      }
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-violone-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "16"
+      },
+      "names": [
+        "Violone",
+        "16"
+      ],
+      "full_name": "Violone 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-bourdon-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Bourdon",
+        "16"
+      ],
+      "full_name": "Bourdon 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-open-flute-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Open",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Open Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-fifteenth-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Fifteenth",
+        "4"
+      ],
+      "full_name": "Fifteenth 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-bassoon-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Bassoon",
+        "16"
+      ],
+      "full_name": "Bassoon 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-swell-to-pedal",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell",
+        "to Pedal"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-open-diapason-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Open",
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Open Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-claribel-flute-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Claribel",
+        "Flute",
+        "8"
+      ],
+      "full_name": "Claribel Flute 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-viola-da-gamba-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Viola da",
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Viola da Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-principal-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Principal",
+        "4"
+      ],
+      "full_name": "Principal 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-harmonic-flute-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Harmonic",
+        "Flute",
+        "4"
+      ],
+      "full_name": "Harmonic Flute 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-twelfth-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Twelfth",
+        "2 2/3"
+      ],
+      "full_name": "Twelfth 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-fifteenth-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Fifteenth",
+        "2"
+      ],
+      "full_name": "Fifteenth 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-sesquialtera-iii-1-3-5",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 3/5",
+        "ranks": 3
+      },
+      "names": [
+        "Sesquialtera",
+        "III",
+        "1 3/5"
+      ],
+      "full_name": "Sesquialtera III 1 3/5'",
+      "midi": []
+    },
+    {
+      "id": "gt-cremona-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Cremona",
+        "8"
+      ],
+      "full_name": "Cremona 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-swell-to-great",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "Swell",
+        "to Great"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "sw-stopped-diapason-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Stopped",
+        "Diapason",
+        "8"
+      ],
+      "full_name": "Stopped Diapason 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-salicional-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Salicional",
+        "8"
+      ],
+      "full_name": "Salicional 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-vox-angelica-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Vox",
+        "Angelica",
+        "8"
+      ],
+      "full_name": "Vox Angelica 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-gemshorn-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Gemshorn",
+        "4"
+      ],
+      "full_name": "Gemshorn 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-suabe-flute-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Suabe",
+        "Flute",
+        "4"
+      ],
+      "full_name": "Suabe Flute 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-flageolet-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Flageolet",
+        "2"
+      ],
+      "full_name": "Flageolet 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-mixture-iii",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "2",
+        "ranks": 3
+      },
+      "names": [
+        "Mixture",
+        "III"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-hautboy-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Hautboy",
+        "8"
+      ],
+      "full_name": "Hautboy 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-trumpet-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "trumpet"
+      },
+      "names": [
+        "Trumpet",
+        "8"
+      ],
+      "full_name": "Trumpet 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-tremulant",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-suboctave",
+      "division": "swell",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "sub"
+      },
+      "names": [
+        "Suboctave"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    }
+  ],
+  "master_volume": {
+    "pattern": "B0 07 vv",
+    "min": 40,
+    "max": 127
+  },
+  "all_stops_off": "F0 00 4A 4F 48 41 53 7F F7",
+  "connection": {
+    "record_from": "MIDI OUT",
+    "play_to": "MIDI IN",
+    "notes": [
+      "Older Makin consoles have MIDI tabs/pistons per division (e.g. MIDI Pedal, MIDI Great): switch them on so every division transmits. If the organ has a MIDI SEQ socket, record from MIDI SEQ instead of MIDI OUT.",
+      "Press the general Cancel piston (0) before recording so every stop starts off; it also sends the all-stops-off message."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

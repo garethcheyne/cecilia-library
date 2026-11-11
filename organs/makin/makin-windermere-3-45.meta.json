@@ -1,0 +1,19 @@
+{
+  "maker": "Makin",
+  "model": "Windermere 3-45",
+  "series": "Windermere",
+  "years": "c. 2016-2023",
+  "confidence": "template",
+  "notes": [
+    "MIDI scheme from the pre-2023 Makin / Church Organ World user manual (issue 5.9W, 2016): default channels as set here, stops on channel 12, CC7 general volume 40-127, CC11 expression 63-127, all-stops-off SysEx F0 00 4A 4F 48 41 53 7F F7.",
+    "Stops are sent as toggling Program Changes on channel 12, but no per-stop Program Change table is published for this model, so every stop is left unbound: use Learn every stop.",
+    "The channel of the CC11 expression message is not stated in the manual; it is assumed to be the channel of the division the pedal controls. Master volume (CC7) is assumed on channel 1. Check on your organ; channel numbers can also be changed in the organ's MIDI menu.",
+    "'Great & Pedal Combinations Coupled', 'General on Swell Toe Pistons' and similar piston/transfer controls are console functions, not stops, and are not listed.",
+    "Tabstop (3-45T) and drawstop (3-45D) versions. The leaflet lists alternative samples for many stops (e.g. Pedal Sub Bourdon / Double Open Wood 32', Choir Orchestral Oboe, French Horn, Clarinet, Tromba); the default names are used. Footages were read from the leaflet's spec columns (the live 3-45T web page now shows the 3-53 list). Mixture compositions: Great 19.22.26.29, Swell 15.19.22.26. The Choir expression channel (choir=1) is assumed.",
+    "Stop list: https://web.archive.org/web/2023/https://www.makinorgans.co.uk/uploads/brochures/WINDERMERE_6pp_AW_proof.pdf (archived Makin Windermere 3-45 leaflet)",
+    "Stop list: https://web.archive.org/web/2023/https://www.makinorgans.co.uk/uploads/brochures/MAKIN_BROCHURE_2016.pdf (Makin brochure 2016, refers to the Windermere 3-45 'standard' instrument)",
+    "MIDI scheme: https://www.makinorgans.co.uk/uploads/owners_manual/COWManual5_9W.pdf (Church Organ World / Makin User Manual issue 5.9W 2016, sections 8.5-8.6 MIDI Channels and Controllers, pp. 31-32)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

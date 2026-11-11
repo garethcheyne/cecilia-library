@@ -1,0 +1,19 @@
+{
+  "maker": "Rodgers",
+  "model": "Infinity 243",
+  "series": "Infinity",
+  "years": "c. 2014-2022 (approx.; brochure 2017)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the engraved stops. Each stop has three Voice Palette alternatives, and the Organ Type piston switches between American Eclectic, English Cathedral, French Romantic and German Baroque; the Library Access / MIDI controls are not included.",
+    "The Solo is a floating division (no keyboard of its own): it is played from the Great or Swell with \"Solo on I\" / \"Solo on II\". Its notes are assumed to go out on the Solo channel 16 listed in the owner's manual - check on your organ.",
+    "The brochure lists 3 tremulants without naming them; Great, Swell and Solo tremulants are assumed.",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Solo 16, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.centralmusic.biz/wp-content/uploads/2019/02/Rodgers-Infinity-brochure-2017.pdf (Rodgers Infinity Series brochure 2017, \"Stoplist Infinity Series 243\", Engraved Stop column)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/owners_manual/owners_guides_2017/1905371_H00_INFINITY_ORGAN.pdf (Rodgers Infinity 243/361/484 owner's manual, \"About MIDI transmit channels\", p. 18 / PDF p. 22: Choir CH15, Great CH12, Swell CH13, Solo CH16, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

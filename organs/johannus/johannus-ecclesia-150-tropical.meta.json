@@ -1,0 +1,18 @@
+{
+  "maker": "Johannus",
+  "model": "Ecclesia 150",
+  "series": "Ecclesia",
+  "variant": "tropical version",
+  "years": "undated (mid-2000s)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "Undated sheet (Easy Menu / Dynamic Pipe Response generation, MIDI IN-MOD-SEQ, 30-note straight pedal standard, 32-note AGO optional). No manual found for this model: the MIDI scheme is the standard two-manual Johannus scheme of that generation (Opus 15/25/35 manual, 2005). Check on your organ.",
+    "Not the same as the later Ecclesia T-150 / T-250.",
+    "Stop list: Johannus sheet \"Ecclesia 150/250 - A Church Organ for Tropical Countries\" (disposition, p. 1): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/38338-jUIMdIRIoMbetGiEwMMetndiIYKxH4R5Gc8Y4WOU2wiiSSXugU3FYJw4G6yIeyP7-0/Ecclesia%20250%20technical%20specifications.pdf",
+    "MIDI scheme: Johannus Opus 15/25/35 user manual (April 2005), MIDI specifications pp. 28-29 (2-manual: Great 1, Swell 2, Pedal 3, stops 12; 3-manual: Choir 1, Great 2, Swell 3, Pedal 4, stops 12; CC7 40-127; CC11 expression pedals 63-127; all stops off F0 00 4A 4F 48 41 53 7F F7 sent on MIDI SEQ on a long press of 0): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/38437-Wy5B8KCCMZ1P4eDzazgQBQ4k0tDYAD9hpR5jdoR7RroZmI475XdSd2fSWuNTLosX-0/Opus%2015-25-35%20usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "maker": "Rodgers",
+  "model": "835",
+  "years": "late 1990s (approx.; manual undated)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the engraved names; the Voice Palette alternatives (in brackets in the manual) are not listed separately. MIDI GT/SW/PED A and B couplers are not included.",
+    "The Pedal Bourdon Doux 16 is borrowed from the Swell.",
+    "MIDI master channels Great 12, Swell 13, Pedal 14 are taken from the Rodgers 690 manual (same Rodgers/Roland generation); this model's own manual pages found online only list the MIDI-coupler channels (1-3, 5-7). Check on your organ.",
+    "Stops are sent as Rodgers/Roland System Exclusive bit-map messages with a checksum (one message covers a group of stops). Cecilia cannot match these to single stops yet - a future Rodgers bit-field driver is needed - so every stop is unbound. Use Learn every stop only if your organ also sends a simple message per stop; otherwise only the notes are recorded.",
+    "When the organ receives MIDI Start it sends a snapshot of all stop and expression settings (documented for the 690). Receiving Program Change 20 on the Great master channel selects the General Canceler (690 manual); not used as all_stops_off because the 0/1-based numbering is not stated.",
+    "Expression: on the 690 the shoes send MIDI volume (CC 7) on the master channels; not verified for this model, so no expression mapping is set.",
+    "Stop list: https://www.manualslib.com/manual/1783463/Rodgers-835.html?page=49 (Rodgers 835 owner's manual, \"Rodgers 835 Stop Specification\", ManualsLib viewer pp. 49-50)",
+    "MIDI scheme: https://www.manualslib.com/manual/902957/Rodgers-690.html?page=42 (Rodgers 690 owner's manual, \"MIDI Features\" pp. 42-43 and MIDI Implementation Chart p. 44 (dated 4/12/93), ManualsLib viewer pages: Great master channel 12, Swell 13, Pedal 14; expression sent as MIDI volume on the master channels; stop changes and memory dumps by System Exclusive; received Start sends the current stop and expression status)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

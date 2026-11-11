@@ -1,0 +1,21 @@
+{
+  "maker": "Wyvern",
+  "model": "Pastorale 236 WDS",
+  "series": "Pastorale",
+  "years": "current range (wyvernorgans.co.uk, 2026); introduction year not published",
+  "confidence": "template",
+  "notes": [
+    "INCOMPLETE SOURCE: the model page lists no couplers at all and a tremulant only on the Great. The usual Swell to Great, Great to Pedal and Swell to Pedal couplers and a Swell tremulant are almost certainly present on the console but are NOT included here because they are not published: add them in the editor and Learn them.",
+    "A 'Mono Bass' control is listed on the Pedal; it is a playing aid, not a stop, and is not included.",
+    "The page prints 'Cornet di Bassetto' and 'Vov Angelica'; entered as Corno di Bassetto and Vox Angelica. Mixture compositions: Great 15.19.22.26.29.33 (VI), Swell 12.15.19.22 (IV).",
+    "Stop names are the British specification printed on the Wyvern model page. The organ also has French, German and Dutch alternative specifications with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3. Wyvern does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Wyvern/Musicom consoles as sending toggling Program Changes, or on/off Program Changes split across adjacent channels; no per-model stop number table exists, so every stop is unbound: use Learn every stop (a stop that only sends a toggle you cannot tell apart from its 'off' may not learn reliably).",
+    "The current Wyvern range shares its layout and four alternative specifications with Content (Netherlands) organs, which Wyvern also sells; the MIDI behaviour may follow Content's, but this is not documented.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://wyvernorgans.co.uk/wyvern-organ-range/pastorale-236-wds/ (manufacturer model page, chamber organ with wooden drawstops, British specification, 36 speaking stops; 2 x 61-note manuals, 30-note R&C pedalboard)",
+    "MIDI scheme: No Wyvern MIDI implementation is published (the model page only lists MIDI In/Out/Thru and per-division MIDI on/off switches; no owner's manual with a MIDI chapter was found). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

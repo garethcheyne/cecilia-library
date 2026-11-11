@@ -1,0 +1,21 @@
+{
+  "maker": "Wyvern",
+  "model": "Sonata 236",
+  "series": "Sonata",
+  "years": "current range (wyvernorgans.co.uk, 2026); introduction year not published",
+  "confidence": "template",
+  "notes": [
+    "The page prints the Swell Tierce as 2 and 'Saube Flute'; entered here as Tierce 1 3/5 and Suabe Flute.",
+    "The page does not state the pedal compass, so the default 32-note range is used.",
+    "Great Cornet III has no composition printed; entered at 2 2/3. Swell Mixture composition 15.19.22.26 (IV).",
+    "Stop names are the British specification printed on the Wyvern model page. The organ also has French, German and Dutch alternative specifications with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3. Wyvern does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Wyvern/Musicom consoles as sending toggling Program Changes, or on/off Program Changes split across adjacent channels; no per-model stop number table exists, so every stop is unbound: use Learn every stop (a stop that only sends a toggle you cannot tell apart from its 'off' may not learn reliably).",
+    "The current Wyvern range shares its layout and four alternative specifications with Content (Netherlands) organs, which Wyvern also sells; the MIDI behaviour may follow Content's, but this is not documented.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://wyvernorgans.co.uk/wyvern-organ-range/wyvern-sonata-236/ (manufacturer model page, British specification, 36 speaking stops)",
+    "MIDI scheme: No Wyvern MIDI implementation is published (the model page only lists MIDI In/Out/Thru and per-division MIDI on/off switches; no owner's manual with a MIDI chapter was found). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

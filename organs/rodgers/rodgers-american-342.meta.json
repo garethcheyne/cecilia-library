@@ -1,0 +1,24 @@
+{
+  "maker": "Rodgers",
+  "model": "American Series 342",
+  "series": "American Series",
+  "also_known_as": [
+    "The American Series 342"
+  ],
+  "years": "current model (Rodgers 2026 catalogue)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the engraving. The Organ Type piston switches between American Classic, American Eclectic and American Symphonic voices (same names). Orchestral Trumpet / Orchestral Oboe tabs can also be set to MIDI A / MIDI B for an external module.",
+    "MIDI channels (default): Choir 1, Great 2, Swell 3, Pedal 4, stops on 12. This MIDI scheme is unlike other Rodgers organs (same as Johannus organs).",
+    "Choir Cromorne 8 sounds as a Clarinet in the American Eclectic and American Symphonic organ types.",
+    "Expression shoes: Choir/Great/Pedal and Swell (plus Crescendo).",
+    "Stops send Program Changes on channel 12, but the manual only says the numbers \"depend on the number of stops and the sequence of stops\" - no table is published, so stops are left unbound: use Learn every stop.",
+    "Expression (CC11, values 55-127) and general volume (CC7, values 40-127) are documented, but the manual does not say which channel they are sent on; the channels used here are an assumption (expression on each shoe's division channel, volume on channel 1). Check on your organ.",
+    "Holding the 0 (general cancel) piston sends the documented 'all stops off' SysEx F0 00 4A 4F 48 41 53 7F F7 (also recognised).",
+    "Stop list: https://www.rodgersinstruments.com/uploads/downloads/American%20Series%20342%20Brochure%204.26.pdf (Rodgers The American Series 342 brochure, \"Stop Library\")",
+    "Stop list: https://www.rodgersinstruments.com/organs/the-american-series/the-american-series-342 (Rodgers product page, Stoplist tab; omits the Swell Flute 4 and Nazard shown in the brochure)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/downloads/American%20342%20Owners%20Manual.pdf (Rodgers The American 342 owner's manual, \"MIDI Specifications\", PDF p. 37: Choir ch 1, Great ch 2, Swell ch 3, Pedal ch 4, Stops ch 12)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

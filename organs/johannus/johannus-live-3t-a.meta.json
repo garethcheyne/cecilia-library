@@ -1,0 +1,19 @@
+{
+  "maker": "Johannus",
+  "model": "LiVE 3T-A",
+  "series": "LiVE",
+  "years": "current (manual dated December 2021)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "This is GOG hardware V3 (LiVE): default channels Pedal 7, Manual I 8, Manual II 9, Manual III 10, stops/accessories 16 (not 12). CC7 general volume (40-127) is sent but its channel is not stated, so no master volume is mapped.",
+    "Manual I (lowest) is mapped to the Choir role, Manual II to Great and Manual III to Swell. AGO console (32-note pedal, three swell shoes; only Manual III's CC11 is mapped).",
+    "The website lists Manual I \"Principal 8'\" twice and Manual III \"Octave 4'\" twice; both duplicates are entered as printed (the second gets a tag). Check the real tab names on your console.",
+    "Mixture/Cornet/Scharff ranks are not published (entered without ranks; Cornet entered at 8').",
+    "Stop list: https://www.johannus.com/en/collection-home-organs/live/live-3t-a (manufacturer stoplist tab)",
+    "MIDI scheme: Johannus LiVE 2T-A/3T-A user manual (December 2021, hardware GOG V3), MIDI specifications pp. 48-49 (LiVE 3T-A: Pedal 7, Manual I 8, Manual II 9, Manual III 10, accessories 16; CC11 55-127): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/42313-SghAdbZtH5Mr1ZD6diBBXIHGyQD9pmQTpeC07Y6zHZfwhEBGggPcF32PWYTzfZEI-0/LiVE%202T-A%20-%203T-A%20EN%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

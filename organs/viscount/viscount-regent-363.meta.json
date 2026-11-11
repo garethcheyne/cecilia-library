@@ -1,0 +1,22 @@
+{
+  "maker": "Viscount",
+  "model": "Regent 363",
+  "series": "Regent",
+  "years": "c. 2023 (brochure dated 2023)",
+  "confidence": "template",
+  "notes": [
+    "UK-market model from Viscount Classical Organs (Bicester) on Viscount's Physis Plus platform. The MIDI scheme is taken from Viscount's Physis Plus reference manual and assumed to apply; check on your organ.",
+    "Stop names are the English specification. Physis Plus Regents have five pipe sets (UK Cathedral, Baroque, Romantic, Symphonic, Modern) that rename and revoice the stops.",
+    "3 manuals plus floating Solo, 32-note pedalboard, illuminated rocker tabs, Swell and Choir expression pedals. 'Gt/Ped Pistons Combined' is a piston setting, not a stop, and is omitted.",
+    "The Solo is a floating division with no keyboard of its own (played via the Solo couplers). It is given channel 5, the Physis Plus Solo/Man.IV channel; whether it transmits there is unverified. Crescendo pedal can be set as Solo expression (not mapped).",
+    "Physis Plus uses a different default channel order from the original Physis organs (Pedal on channel 1).",
+    "Stops transmit Viscount SysEx F0 31 4n xx yy F7 (on) / F0 31 0n xx yy F7 (off), n = section channel, xx yy = internal voice ID. Voice IDs are not published for this model (and change if an alternative voice is selected), so no stop bindings are included: use Learn every stop.",
+    "Couplers are only received (F0 31 2F 70 vv F7), not transmitted; tremulant on/off is sent as tremulant speed/depth SysEx (depth 00 = off), which a stop binding cannot express. Learn or set these by hand.",
+    "all_stops_off is the documented Viscount Cancel message F0 31 2F 6C 00 F7. Expression pedals send CC11 (0-127) on the section's channel; divisional volumes send CC7 (not mapped).",
+    "Check on your organ: the channel numbers are factory defaults and can be changed in the organ's MIDI menu (a dealer may have changed them).",
+    "Stop list: https://viscountorgans.net/wp-content/uploads/2024/02/Regent-363-brochure.pdf (Viscount Classical Organs UK brochure, English Specification)",
+    "MIDI scheme: https://manualslib.fr/manual/717391/Viscount-Physis-Plus-Organ-Serie.html?page=60 (Physis Plus Organ Series reference manual, Annexe 'Detailed MIDI implementation', pp. FR-58 to FR-60; official EN ed13 PDF was https://www.viscountinstruments.it/wp-content/uploads/2023/03/PhysisPlus-ReferenceManual-EN-ed13.pdf) - 3/4-manual defaults Pedal=ch1, Man.II/Great=ch2, Man.III/Swell=ch3, Man.I/Choir=ch4, Man.IV/Solo=ch5, ch16 system; Register on/off F0 31 sn xx yy F7; Cancel F0 31 2F 6C 00 F7 (p. FR-60)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

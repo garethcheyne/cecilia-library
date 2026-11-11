@@ -1,0 +1,19 @@
+{
+  "maker": "Ahlborn",
+  "model": "Hymnus 350",
+  "series": "Hymnus",
+  "years": "2000s (approx.)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are as listed (in French) by the French dealer France Orgue; the console engraving may use German or English names. Couplers are given English names (dealer: \"Tirasse GO/Réc\", \"Accouplement Réc/GO\").",
+    "Three manuals: Great (Grand-Orgue), Choir (Positif), Swell (Récit). Concave 32-note pedalboard; expression pedals for Positif and Récit. 50 stops.",
+    "Fourniture VI: footage not published, 2' entered as a placeholder.",
+    "MIDI channels are NOT documented for this model (the manual only says each section's channel is programmable). The channels used here (Great 1, Swell 2, Pedal 3, Choir 4) are an assumption - set them to what your organ actually sends (check its MIDI menu or record a few notes).",
+    "No per-stop MIDI table is published for this model, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The expression pedal's MIDI controller is not documented, so no expression mapping is set.",
+    "Stop list: https://www.france-orgue.fr/orgue/pdf_org/Ahlborn_Hymnus_350_ref1073.pdf (France Orgue dealer specification sheet, \"Composition\")",
+    "MIDI scheme: none published for this model (see notes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

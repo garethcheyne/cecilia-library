@@ -1,0 +1,963 @@
+{
+  "schema": 1,
+  "id": "viscount-chorum-s80",
+  "name": "Viscount Chorum S80",
+  "manufacturer": "viscount",
+  "divisions": [
+    {
+      "role": "pedal",
+      "name": "Pedal",
+      "channel": 4,
+      "low_key": 36,
+      "high_key": 65
+    },
+    {
+      "role": "great",
+      "name": "Great",
+      "channel": 2,
+      "low_key": 36,
+      "high_key": 96
+    },
+    {
+      "role": "swell",
+      "name": "Swell",
+      "channel": 1,
+      "low_key": 36,
+      "high_key": 96,
+      "expression": {
+        "pattern": "B0 0B vv",
+        "min": 0,
+        "max": 127
+      }
+    },
+    {
+      "role": "choir",
+      "name": "Choir",
+      "channel": 3,
+      "low_key": 36,
+      "high_key": 96
+    }
+  ],
+  "stops": [
+    {
+      "id": "ped-principalbass-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Principalbass",
+        "16"
+      ],
+      "full_name": "Principalbass 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-subbass-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "16"
+      },
+      "names": [
+        "Subbass",
+        "16"
+      ],
+      "full_name": "Subbass 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-octavbass-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Octavbass",
+        "8"
+      ],
+      "full_name": "Octavbass 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-gedacktbass-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Gedacktbass",
+        "8"
+      ],
+      "full_name": "Gedacktbass 8'",
+      "midi": []
+    },
+    {
+      "id": "ped-choralbass-4",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Choralbass",
+        "4"
+      ],
+      "full_name": "Choralbass 4'",
+      "midi": []
+    },
+    {
+      "id": "ped-ct-posaune-32",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "32"
+      },
+      "names": [
+        "Ct",
+        "Posaune",
+        "32"
+      ],
+      "full_name": "Ct Posaune 32'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-posaune-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Posaune",
+        "16"
+      ],
+      "full_name": "Posaune 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-trompete-8",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompete",
+        "8"
+      ],
+      "full_name": "Trompete 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ped-cello-16",
+      "division": "pedal",
+      "equivalent": {
+        "type": "voice",
+        "family": "other",
+        "footage": "16"
+      },
+      "names": [
+        "Cello",
+        "16"
+      ],
+      "full_name": "Cello 16'",
+      "midi": []
+    },
+    {
+      "id": "ped-i-p",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "unison"
+      },
+      "names": [
+        "I/P"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-ii-p",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "great",
+        "pitch": "unison"
+      },
+      "names": [
+        "II/P"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ped-iii-p",
+      "division": "pedal",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "III/P"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-principal-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "16"
+      },
+      "names": [
+        "Principal",
+        "16"
+      ],
+      "full_name": "Principal 16'",
+      "midi": []
+    },
+    {
+      "id": "gt-principal-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Principal",
+        "8"
+      ],
+      "full_name": "Principal 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-rohrflote-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Rohrflöte",
+        "8"
+      ],
+      "full_name": "Rohrflöte 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-viola-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Viola",
+        "8"
+      ],
+      "full_name": "Viola 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-octave-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Octave",
+        "4"
+      ],
+      "full_name": "Octave 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-spitzflote-4",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Spitzflöte",
+        "4"
+      ],
+      "full_name": "Spitzflöte 4'",
+      "midi": []
+    },
+    {
+      "id": "gt-superoctave-2",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Superoctave",
+        "2"
+      ],
+      "full_name": "Superoctave 2'",
+      "midi": []
+    },
+    {
+      "id": "gt-mixtur-v",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 5
+      },
+      "names": [
+        "Mixtur",
+        "V"
+      ],
+      "midi": []
+    },
+    {
+      "id": "gt-kornet-iii-2-2-3",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3",
+        "ranks": 3
+      },
+      "names": [
+        "Kornet",
+        "III",
+        "2 2/3"
+      ],
+      "full_name": "Kornet III 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "gt-ct-trompete-16",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Ct",
+        "Trompete",
+        "16"
+      ],
+      "full_name": "Ct Trompete 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-trompete-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompete",
+        "8"
+      ],
+      "full_name": "Trompete 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "gt-strings-8",
+      "division": "great",
+      "equivalent": {
+        "type": "voice",
+        "family": "other",
+        "footage": "8"
+      },
+      "names": [
+        "Strings",
+        "8"
+      ],
+      "full_name": "Strings 8'",
+      "midi": []
+    },
+    {
+      "id": "gt-iii-ii",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "III/II"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-i-ii",
+      "division": "great",
+      "equivalent": {
+        "type": "coupler",
+        "source": "choir",
+        "pitch": "unison"
+      },
+      "names": [
+        "I/II"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "gt-tremulant",
+      "division": "great",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-geigen-princ-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "8"
+      },
+      "names": [
+        "Geigen",
+        "Princ.",
+        "8"
+      ],
+      "full_name": "Geigen Princ. 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-gedackt-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Gedackt",
+        "8"
+      ],
+      "full_name": "Gedackt 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-gamba-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "string",
+        "footage": "8"
+      },
+      "names": [
+        "Gamba",
+        "8"
+      ],
+      "full_name": "Gamba 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-vox-celeste-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "celeste",
+        "footage": "8"
+      },
+      "names": [
+        "Vox",
+        "Celeste",
+        "8"
+      ],
+      "full_name": "Vox Celeste 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-principal-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Principal",
+        "4"
+      ],
+      "full_name": "Principal 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-hohlflote-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Hohlflöte",
+        "4"
+      ],
+      "full_name": "Hohlflöte 4'",
+      "midi": []
+    },
+    {
+      "id": "sw-nasard-2-2-3",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3"
+      },
+      "names": [
+        "Nasard",
+        "2 2/3"
+      ],
+      "full_name": "Nasard 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "sw-waldflote-2",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "2"
+      },
+      "names": [
+        "Waldflöte",
+        "2"
+      ],
+      "full_name": "Waldflöte 2'",
+      "midi": []
+    },
+    {
+      "id": "sw-terz-1-3-5",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 3/5"
+      },
+      "names": [
+        "Terz",
+        "1 3/5"
+      ],
+      "full_name": "Terz 1 3/5'",
+      "midi": []
+    },
+    {
+      "id": "sw-plein-jeu-iv",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1 1/3",
+        "ranks": 4
+      },
+      "names": [
+        "Plein Jeu",
+        "IV"
+      ],
+      "midi": []
+    },
+    {
+      "id": "sw-fagott-16",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "16"
+      },
+      "names": [
+        "Fagott",
+        "16"
+      ],
+      "full_name": "Fagott 16'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-trompette-h-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Trompette",
+        "H.",
+        "8"
+      ],
+      "full_name": "Trompette H. 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-oboe-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "oboe"
+      },
+      "names": [
+        "Oboe",
+        "8"
+      ],
+      "full_name": "Oboe 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-clairon-4",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "4"
+      },
+      "names": [
+        "Clairon",
+        "4"
+      ],
+      "full_name": "Clairon 4'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "sw-chimes-8",
+      "division": "swell",
+      "equivalent": {
+        "type": "voice",
+        "family": "percussion",
+        "footage": "8"
+      },
+      "names": [
+        "Chimes",
+        "8"
+      ],
+      "full_name": "Chimes 8'",
+      "midi": []
+    },
+    {
+      "id": "sw-tremulant",
+      "division": "swell",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ch-bourdon-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8"
+      },
+      "names": [
+        "Bourdon",
+        "8"
+      ],
+      "full_name": "Bourdon 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-quintadena-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "8",
+        "tag": "quintadena"
+      },
+      "names": [
+        "Quintadena",
+        "8"
+      ],
+      "full_name": "Quintadena 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-principal-4",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "4"
+      },
+      "names": [
+        "Principal",
+        "4"
+      ],
+      "full_name": "Principal 4'",
+      "midi": []
+    },
+    {
+      "id": "ch-blockflote-4",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "4"
+      },
+      "names": [
+        "Blockflöte",
+        "4"
+      ],
+      "full_name": "Blockflöte 4'",
+      "midi": []
+    },
+    {
+      "id": "ch-doublette-2",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "principal",
+        "footage": "2"
+      },
+      "names": [
+        "Doublette",
+        "2"
+      ],
+      "full_name": "Doublette 2'",
+      "midi": []
+    },
+    {
+      "id": "ch-larigot-1-1-3",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "1 1/3"
+      },
+      "names": [
+        "Larigot",
+        "1 1/3"
+      ],
+      "full_name": "Larigot 1 1/3'",
+      "midi": []
+    },
+    {
+      "id": "ch-sifflote-1",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "flute",
+        "footage": "1"
+      },
+      "names": [
+        "Sifflöte",
+        "1"
+      ],
+      "full_name": "Sifflöte 1'",
+      "midi": []
+    },
+    {
+      "id": "ch-sesquialtera-ii-2-2-3",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "mutation",
+        "footage": "2 2/3",
+        "ranks": 2
+      },
+      "names": [
+        "Sesquialtera",
+        "II",
+        "2 2/3"
+      ],
+      "full_name": "Sesquialtera II 2 2/3'",
+      "midi": []
+    },
+    {
+      "id": "ch-scharff-iii",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "mixture",
+        "footage": "1",
+        "ranks": 3
+      },
+      "names": [
+        "Scharff",
+        "III"
+      ],
+      "midi": []
+    },
+    {
+      "id": "ch-krummhorn-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8"
+      },
+      "names": [
+        "Krummhorn",
+        "8"
+      ],
+      "full_name": "Krummhorn 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ch-vox-humana-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "reed",
+        "footage": "8",
+        "tag": "vox humana"
+      },
+      "names": [
+        "Vox",
+        "Humana",
+        "8"
+      ],
+      "full_name": "Vox Humana 8'",
+      "midi": [],
+      "style": {
+        "shape": "round",
+        "text_color": "#b91c1c"
+      }
+    },
+    {
+      "id": "ch-piano-8",
+      "division": "choir",
+      "equivalent": {
+        "type": "voice",
+        "family": "other",
+        "footage": "8"
+      },
+      "names": [
+        "Piano",
+        "8"
+      ],
+      "full_name": "Piano 8'",
+      "midi": []
+    },
+    {
+      "id": "ch-iii-i",
+      "division": "choir",
+      "equivalent": {
+        "type": "coupler",
+        "source": "swell",
+        "pitch": "unison"
+      },
+      "names": [
+        "III/I"
+      ],
+      "midi": [],
+      "style": {
+        "shape": "rectangle"
+      }
+    },
+    {
+      "id": "ch-tremulant",
+      "division": "choir",
+      "equivalent": {
+        "type": "tremulant"
+      },
+      "names": [
+        "Tremulant"
+      ],
+      "midi": []
+    }
+  ],
+  "all_stops_off": "F0 31 2F 6C 00 F7",
+  "connection": {
+    "record_from": "MIDI OUT",
+    "play_to": "MIDI IN",
+    "notes": [
+      "Record from the organ's MIDI OUT and play back into its MIDI IN. Keep the SysEx and Control Change transmit filters off in the MIDI menu.",
+      "Press the Cancel piston (C) before recording so every stop starts off.",
+      "In SETTINGS > MIDI set OUT MODE to OUT and NOTES TO COUPL. to NO, so only the notes actually played are sent."
+    ]
+  },
+  "defaults": {
+    "margin_start_ms": 2000,
+    "margin_end_ms": 2000
+  }
+}

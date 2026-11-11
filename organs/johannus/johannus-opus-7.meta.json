@@ -1,0 +1,17 @@
+{
+  "maker": "Johannus",
+  "model": "Opus 7",
+  "series": "Opus",
+  "years": "c. 2006 (AGO brochure 2006, p. 4)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "AGO console (32-note pedal). Romantic, Symphonic and Baroque styles share the same stop names; the optional Orchestral voices (Carillon/Chimes, Harp, Strings, Tremolo/Tibia organ...) are not included.",
+    "The Opus 7 has a 30-note RACO pedalboard (not AGO). Its MIDI scheme is assumed from the Opus 15/25/35 manual of the same generation.",
+    "Stop list: Johannus brochure \"AGO - Opus - Sweelinck - Rembrandt\" (EN, 2006): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/38446-Zfyw6ti87X2SXIYFL0PE3zbdxPLIxZQrhKeycedJNR65BfsjtyB88bLFxTsHcn3Q-0/Brochure%20AGO%20-%20Opus%20-%20Sweelinck%20-%20Rembrandt%20EN.pdf",
+    "MIDI scheme: Johannus Opus 15/25/35 user manual (April 2005), MIDI specifications pp. 28-29 (2-manual: Great 1, Swell 2, Pedal 3, stops 12; 3-manual: Choir 1, Great 2, Swell 3, Pedal 4, stops 12; CC7 40-127; CC11 expression pedals 63-127; all stops off F0 00 4A 4F 48 41 53 7F F7 sent on MIDI SEQ on a long press of 0): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/38437-Wy5B8KCCMZ1P4eDzazgQBQ4k0tDYAD9hpR5jdoR7RroZmI475XdSd2fSWuNTLosX-0/Opus%2015-25-35%20usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

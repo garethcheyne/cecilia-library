@@ -1,0 +1,22 @@
+{
+  "maker": "Wyvern",
+  "model": "Concerto 354",
+  "series": "Concerto",
+  "years": "current range (wyvernorgans.co.uk, 2026); introduction year not published",
+  "confidence": "template",
+  "notes": [
+    "The model name implies 54 speaking stops but the page lists 53 (Pedal 13, Great 13, Swell 14, Choir 13): one stop may be missing from the published list. Check your console and add it if needed.",
+    "The page prints the Choir Larigot as 1.1/5; entered as 1 1/3. 'Positive to Great' is the Choir to Great coupler.",
+    "Mixture compositions as printed: Pedal 19.22.26.29 (IV), Great Cornet 12.15.17 (III-V, entered as 5 ranks), Great Mixture 19.22.26.29.33 (V-VI, entered as 6 ranks), Swell 22.26.29 (III), Choir 29.33.36 (III, entered at 1/2).",
+    "A Theatre alternative specification (with tuned percussion) is offered in place of the Dutch one.",
+    "Stop names are the British specification printed on the Wyvern model page. The organ also has French, German and Dutch alternative specifications with different stop names on the same stop positions.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3, Choir 4. Wyvern does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published. Hauptwerk's console presets describe Wyvern/Musicom consoles as sending toggling Program Changes, or on/off Program Changes split across adjacent channels; no per-model stop number table exists, so every stop is unbound: use Learn every stop (a stop that only sends a toggle you cannot tell apart from its 'off' may not learn reliably).",
+    "The current Wyvern range shares its layout and four alternative specifications with Content (Netherlands) organs, which Wyvern also sells; the MIDI behaviour may follow Content's, but this is not documented.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://wyvernorgans.co.uk/wyvern-organ-range/wyvern-concerto-354/ (manufacturer model page, British specification; 3 x 61-note manuals, 32-note radiating concave pedalboard, 3 expression pedals)",
+    "MIDI scheme: No Wyvern MIDI implementation is published (the model page only lists MIDI In/Out/Thru and per-division MIDI on/off switches; no owner's manual with a MIDI chapter was found). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

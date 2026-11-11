@@ -1,0 +1,20 @@
+{
+  "maker": "Rodgers",
+  "model": "Classic 569",
+  "series": "Classic",
+  "years": "c. 2016-2020 (approx.)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the stop engraving. Each stop has three Voice Palette alternatives and the Organ Type piston switches between American Eclectic, English Cathedral, French Romantic and German Baroque voices.",
+    "The two Library/MIDI tabs of each division are engraved with a default library voice (Great: Contre Trompette 16, Grand Mixtur VIII; Swell: Clarion 4, Lieblich Gedackt 16; Pedal: Pedal Grand Mixture VI, Contre Bombarde 32) and are included under those names; they can be re-assigned to other library voices or to external MIDI.",
+    "Grand Mixtur VIII / Pedal Grand Mixture VI: footage not published, 2' entered as a placeholder.",
+    "MIDI channels are taken from the Inspire 234/240 owner's manual (same Rodgers/Roland platform generation); the Classic owner's manual was not found online - check on your organ.",
+    "MIDI channels: the keyboards always transmit on fixed channels Great 12, Swell 13, Pedal 14, whether or not a Library/MIDI coupler is on. Check on your organ.",
+    "Individual stop messages are not published. Pistons send either a Rodgers \"STOP MAP\" System Exclusive dump or a memory Program Change (set in the MIDI menu). Neither can be mapped to single stops, so every stop is unbound: use Learn every stop. If a stop sends nothing when you move it, it cannot be learned.",
+    "The controller sent by the expression shoes is not documented, so no expression mapping is set.",
+    "Stop list: https://www.rodgersinstruments.com/uploads/brochures/Rodgers_Classic_brochure.pdf (Rodgers Classic Series brochure, \"Stoplist Classic Series 569\", stop engraving column, PDF p. 8; same stops as the 559, adds toe pistons and divided expression)",
+    "MIDI scheme: https://www.rodgersinstruments.com/uploads/downloads/INSPIRE%20234%20240%20OM%5B30%5D.pdf (Rodgers Inspire 234/240 owner's manual, \"About MIDI transmit channels\", PDF p. 32: Great CH12, Swell CH13, Pedal CH14, fixed)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "maker": "Eminent",
+  "model": "Cantate 10",
+  "series": "Cantate",
+  "years": "production years not published (Eminent, Netherlands; dealer listing 2026)",
+  "confidence": "template",
+  "notes": [
+    "Eminent organs have three selectable intonations (styles); the stop names are the English names printed in the dealer's specification.",
+    "Each division also has a 'Library stop' (a user-assignable voice from the Eminent Voice Library). It is not included here; add it in the editor if you use it.",
+    "ASSUMED MIDI channels: Great 1, Swell 2, Pedal 3. Eminent does not publish them: check on the MIDI monitor (play each manual and the pedals) and correct the channels before recording.",
+    "Per-stop MIDI messages are not published (Hauptwerk's console presets describe Eminent stop changes as bitfield-style controller or Program Change schemes that Cecilia cannot map to single stops), so every stop is unbound: use Learn every stop, and expect that some stops may not be learnable.",
+    "No expression or master-volume controller is documented, so none is set.",
+    "Stop list: https://idmusikk.no/?p=1257266 (ID Musikk, Norwegian Eminent dealer, product page 'Eminent Cantate 10': 27 speaking stops, 2 library stops, 30-note pedal)",
+    "MIDI scheme: No Eminent MIDI implementation is published (the dealer specification lists only MIDI In-Out-Thru; eminent.nl is offline and no owner's manual with a MIDI chapter was found). Division channels are an assumption, not documented."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

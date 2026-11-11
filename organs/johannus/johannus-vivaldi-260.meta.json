@@ -1,0 +1,17 @@
+{
+  "maker": "Johannus",
+  "model": "Vivaldi 260",
+  "series": "Vivaldi",
+  "years": "current (johannus.com, 2026)",
+  "confidence": "template",
+  "notes": [
+    "Stop Program Change numbers are not published per stop for this model (the manual only says they depend on the number and order of the stops): use Learn every stop. Each stop Program Change toggles the stop.",
+    "Check on your organ: the division channels can be changed in the organ's MIDI menu. The manual does not say which channel carries CC11 (expression) or CC7 (general volume): CC11 is assumed on the Swell's channel and CC7 on channel 1.",
+    "Six sample styles; primary names are used. Alternates printed on the website: Great Gamba / Quintaton 8' (DN), Twelfth / Flûte Harmonique 8' (EFA), Flute 2' / Sifflute 1' (SN), Cornet / Terzian (N), Scharf / Trumpet 4' (EF), Cromorne / Tuba 8' (EA); Swell Bourdon 16' / Quintaton 16' (DS), Quintaton 8' / Flute Dolce 8' (EAN), Flute Twelfth / Oboe 8' (EFA), Wald Flute / Fifteenth 2' (DES), Nineteenth / Carillon (DN), Sesquialtera / Tierce 1 3/5' (EAS), Fagotto / Trumpet 16' (EA), Voix Humaine / Clarion 4' (EA); Pedal Resultantbas 32' / Quintbas 5 1/3' (DN), Subbas / Fluitbas 16' (F), Choral Bass 4' / Contra Violone 16' (EA), Mixture / Flute 2' (EFN).",
+    "Mixture/Cornet/Scharf ranks are not published (entered without ranks; Cornet entered at 8'). The 30-note pedal compass is assumed for this European model.",
+    "Stop list: https://www.johannus.com/en-eu/collection-home-organs/vivaldi/vivaldi-260 (manufacturer stoplist tab)",
+    "MIDI scheme: No public Vivaldi 260 manual; MIDI scheme from the Vivaldi 270/370 user manual (July 2020), MIDI specifications p. 55 (Vivaldi 270: Great 1, Swell 2, Pedal 3, stops 12; CC11 55-127; CC7 40-127): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/40162-Uk5ski29OCZFDIZtnxak4y0D80cgLWfpKHhM77uPyUp8hSlBFnmQ9JIxGdnOgCKa-0/Vivaldi%20270-370%20Usermanual.pdf"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

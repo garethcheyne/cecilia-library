@@ -1,0 +1,25 @@
+{
+  "maker": "Allen",
+  "model": "Q350",
+  "series": "Quantum",
+  "also_known_as": [
+    "Quantum Q350",
+    "Q-350"
+  ],
+  "years": "c. 2009 (discontinued; owner's manual rev. 5/2009)",
+  "confidence": "template",
+  "notes": [
+    "Stop names are the default Classic Allen stop list; the Quantum Stoplist Library also offers English Cathedral, Orchestral, Cavaille-Coll, Schlicker and other lists which re-voice and rename the stops.",
+    "The same owner's manual covers the Q370, Q390, DB-350/370/390 and Heritage III-350/370/390, whose stop lists differ.",
+    "Not included: MIDI on <division>, Melody Coupler Ch>Gt, Bass Coupler, Gt-Ch Manual Transfer, unenclosed/express controls, Alternate Tuning, Tremulants Full and antiphonal controls.",
+    "Check on your organ: Allen channels follow the MIDI base channel (Swell = base channel, Great +1, Pedal +2, Choir +3; general pistons on channel 8). The base channel resets to 1 at power-on, so these channels normally apply.",
+    "Expression: in the default POLY-VOLUME mode each division's channel carries Control Change 7 (volume) from its expression shoe; Allen's minimum is about 20. If the organ is set to SWELL-VOLUME, POLY-VELOCITY or NO EXPRESSION the Great/Pedal (and Choir) volumes will not be recorded.",
+    "Stops are not bound: Allen sends and receives each stop as an NRPN (CC99 MSB, CC98 LSB, then CC6 127 = on / 0 = off, on the division's channel), which Cecilia's single-message bindings cannot express. A future NRPN driver is needed; 'Learn every stop' cannot tell Allen stops apart because every stop ends with the same CC6 message.",
+    "The organ's 'Transmit/Receive Stops' MIDI setting must be ON for stop changes to be sent or received at all.",
+    "Stop list: https://www.allenorgan.com/www/products/q350/q350.html (manufacturer product page, 'Stop Lists: Classic Allen')",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00153.pdf (Q350/Q370/Q390 owner's manual, C. MIDI Functions: standard channel assignments p.34, base channel and MIDI Expression (POLY-VOLUME) p.39, Transmitting Stop Data p.41)",
+    "MIDI scheme: https://www.allenorgan.com/support/ownersmanuals/033-00266TH317eTheatreOwnersManual.pdf (TH-317e owner's manual, Appendix B p.18-19: volume = Control Change 7, lower limit about 20; stops = NRPN CC99/CC98 then CC6 127 on / 0 off; pistons = Program Changes)"
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}

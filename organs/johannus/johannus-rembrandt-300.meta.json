@@ -1,0 +1,16 @@
+{
+  "maker": "Johannus",
+  "model": "Rembrandt 300",
+  "series": "Rembrandt",
+  "years": "c. 1998 (manual dated October 1998)",
+  "confidence": "template",
+  "notes": [
+    "The 1998 MIDI chart lists an 'all stops off' System Exclusive message but not its bytes; F0 00 4A 4F 48 41 53 7F F7 is the form given in later Johannus manuals. Check on your organ.",
+    "The 1998 chart says CC7 (general volume) and CC11 (expression) are transmitted but gives no value range or channel; they are mapped here on channel 1 (CC7) and the Swell channel (CC11) with the full 0-127 range. Check on your organ.",
+    "The chart gives only Program Change number ranges per division (not per stop), so stops are left unbound: use Learn every stop. Each stop Program Change toggles the stop.",
+    "Stop list: Johannus Rembrandt 200/300/2000/3000 user manual (October 1998), registration-example tables (each table lists every stop of the model): https://hq.globalorgangroup.com/service/scripts/customer.fcgi/getAttachment/39059-HH290gxY1NyUnbtQa7tUWLAOrhndOaOak1OIRNTn6d2P2l0SZ3rSOQYDrEoKaKrc-0/Rembrandt%20200-300-2000-3000%20usermanual.pdf",
+    "MIDI scheme: Same manual, MIDI implementation chart \"Rembrandt 300\" (PDF p. 45): Choir 1, Great 2, Swell 3, Pedal 4, stops 12; Program Change ranges per division only; CC7 and CC11 transmitted; all-stops-off SysEx."
+  ],
+  "contributor": "Cecilia",
+  "licence": "CC0-1.0"
+}
