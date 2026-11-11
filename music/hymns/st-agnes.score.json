@@ -1,6 +1,6 @@
 {
   "id": "st-agnes",
-  "title": "Lamp of Our Feet",
+  "title": "Jesus, the Very Thought of Thee",
   "composer": "John Bacchus Dykes (1823–1876)",
   "melody": "ST. AGNES",
   "copyright": "Public domain",
@@ -10,6 +10,9 @@
   "source_url": "https://openhymnal.org",
   "tags": [
     "hymn"
+  ],
+  "other_titles": [
+    "Lamp of Our Feet"
   ],
   "bpm": 140.0,
   "time": "3/4",

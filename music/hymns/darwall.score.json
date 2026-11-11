@@ -1,6 +1,6 @@
 {
   "id": "darwall",
-  "title": "On What Has Now Been Sown",
+  "title": "Rejoice, the Lord Is King",
   "composer": "John Darwall (1731–1789)",
   "melody": "DARWALL",
   "copyright": "Public domain",
@@ -10,6 +10,9 @@
   "source_url": "https://openhymnal.org",
   "tags": [
     "hymn"
+  ],
+  "other_titles": [
+    "On What Has Now Been Sown"
   ],
   "bpm": 140.0,
   "time": "4/4",

@@ -1,6 +1,6 @@
 {
   "id": "franconia",
-  "title": "Within the Father's House",
+  "title": "Blest Are the Pure in Heart",
   "composer": "Johann Balthasar König (1691–1758); harmony by William Henry Havergal (1793–1870)",
   "melody": "FRANCONIA",
   "copyright": "Public domain",
@@ -11,6 +11,9 @@
   "tags": [
     "hymn",
     "epiphany"
+  ],
+  "other_titles": [
+    "Within the Father's House"
   ],
   "bpm": 120.0,
   "time": "4/4",

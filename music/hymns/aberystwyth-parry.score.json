@@ -1,6 +1,6 @@
 {
   "id": "aberystwyth-parry",
-  "title": "Savior When In Dust To Thee",
+  "title": "Jesu, Lover of My Soul",
   "composer": "Joseph Parry (1841–1903)",
   "melody": "ABERYSTWYTH (PARRY)",
   "copyright": "Public domain",
@@ -11,6 +11,9 @@
   "tags": [
     "hymn",
     "lent"
+  ],
+  "other_titles": [
+    "Savior When In Dust To Thee"
   ],
   "bpm": 100.0,
   "time": "4/4",
