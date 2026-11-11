@@ -1,0 +1,52 @@
+{
+  "id": "handel-largo",
+  "title": "Largo (\"Ombra mai fu\", from Serse)",
+  "composer": "George Frideric Handel, HWV 40 (1738)",
+  "melody": "",
+  "publication": "Cecilia library organ arrangement (inner parts: Cecilia contributors)",
+  "copyright": "Melody and bass public domain; this arrangement CC0",
+  "bpm": 58,
+  "time": "3/4",
+  "key": "F",
+  "verses": 1,
+  "gap": 2,
+  "registration": [
+    "great flute 8",
+    "great principal 8",
+    "swell string 8",
+    "swell celeste 8",
+    "swell flute 8",
+    "pedal flute 16",
+    "swell to pedal"
+  ],
+  "verse_registration": {},
+  "expression": {
+    "swell": 70
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:3~ | F4:1 E4:1 D4:0.75 C4:0.25 | C4:3 | D4:1 E4:1 F4:0.25 G4:0.25 A4:0.5 | G4:3 | D5:3 | C5:2 r:1 | Bb4:3 | A4:2 r:1 | F5:1 F5:1 E5:1 | D5:1.5 C5:0.5 C5:1~ | C5:0.5 B4:0.5 C5:0.5 B4:0.5 C5:0.5 B4:0.5 | C5:3 | Bb4:0.5 A4:0.5 G4:1.5 F4:0.5 | F4:1 C5:2~ | C5:3~ | C5:1 A4:1 G4:0.75 F4:0.25 | F4:3 | F4:1 E4:1 D4:0.75 C4:0.25 | C4:3 | D4:1 E4:1 F4:0.25 G4:0.25 A4:0.5 | G4:1.5 F4:0.5 G4:1 | D5:1 D5:1 E5:1 | F5:1.5 C5:0.5 C5:1 | r:0.5 D5:0.5 Bb4:1.5 A4:0.5 | A4:2 F4:1~ | F4:1 E4:1 D4:0.75 C4:0.25 | C4:3 | Bb4:1 Bb4:1 A4:1 | G4:1.5 F4:0.5 F4:1 | E5:1 E5:1 D5:1 | C#5:1.5 D5:0.25 C#5:0.25 D5:1 | r:0.5 G4:0.5 E4:1.5 D4:0.5 | D4:1 Bb4:2~ | Bb4:1 A4:0.5 G4:0.5 A4:1 | G4:0.75 F4:0.25 G4:1 D5:1~ | D5:1 C5:1 Bb4:0.75 A4:0.25 | A4:2 r:1 | F5:1 F5:1 E5:1 | D5:1.5 C5:0.5 C5:1 | C5:0.5 B4:0.5 B4:1.5 B4:0.5 | C5:1.5 D5:0.5 C5:1 | Bb4:0.5 A4:0.5 G4:1.5 E5:0.5 | F5:3 | G4:0.25 A4:0.25 Bb4:0.5 A4:1 G4:0.75 F4:0.25 | F4:3 | F5:1 F5:1 E5:1 | D5:1.5 C5:0.5 C5:1 | C5:0.5 B4:0.5 B4:1.5 B4:0.5 | C5:1.5 D5:0.5 C5:1 | Bb4:0.5 A4:0.5 G4:1.5 F4:0.5 | F4:3 |"
+    },
+    {
+      "division": "swell",
+      "notes": "C4:3 | B3:1 C4:1 Bb3:1 | A3:2 C4:1 | Bb3:1 C4:1 C4:1 | E4:3 | F4:3 | C4:3 | D4:3 | F4:3 | A4:1 B4:1 A4:1 | F4:1 Bb4:1 G4:1 | F4:3 | E4:1 G4:1 A4:1 | F4:1 E4:2 | C4:3 | F4:3 | E4:1 E4:1 E4:1 | D4:3 | C4:1 C4:1 Bb3:1 | A3:3 | Bb3:1 C4:1 C4:1 | E4:3 | F4:2 G4:1 | F4:2 E4:1 | E4:1 D4:1 C4:1 | C4:3 | B3:1 C4:1 Bb3:1 | A3:3 | Bb3:1 C4:1 C4:1 | D4:2 F4:1 | G4:2 D4:1 | E4:1 E4:1 D4:1 | D4:1 C4:2 | D4:1 D4:2 | E4:1 C4:1 F4:1 | E4:2 D4:1 | F4:1 A4:1 Bb4:1 | F4:2 D4:1 | F4:2 A4:1 | F4:2 E4:1 | F4:1 G4:2 | G4:1 G4:1 A4:1 | F4:1 E4:2 | A4:3 | G4:1 E4:1 E4:1 | F4:2 D4:1 | F4:2 A4:1 | F4:2 E4:1 | D4:1 D4:2 | C4:1 E4:1 F4:1 | F4:1 E4:2 | C4:3 |"
+    },
+    {
+      "division": "swell",
+      "notes": "A3:3 | G3:1 G3:1 G3:1 | E3:3 | D3:1 G3:1 A3:1 | G3:3 | Bb3:3 | E3:3 | G3:3 | C4:3 | F4:1 D4:1 C4:1 | D4:1 F4:1 E4:1 | A3:3 | C4:1 C4:1 C4:1 | D4:1 C4:1 G3:1 | A3:3~ | A3:3 | G3:1 A3:1 C4:1 | A3:3 | A3:1 A3:1 F3:1 | F3:3 | F3:1 G3:1 A3:1 | C4:3 | D4:2 C4:1 | C4:2 A3:1 | G3:1 G3:1 E3:1 | F3:2 A3:1 | G3:1 G3:1 G3:1 | E3:3 | F3:1 G3:1 A3:1 | Bb3:1 D4:1 C4:1 | C4:2 A3:1 | A3:1 C#4:1 Bb3:1 | Bb3:1 C4:1 A3:1 | F3:1 G3:2 | G3:1 A3:1 C4:1 | C4:2 D4:1~ | D4:1 E4:1 Bb3:1 | C4:2 Bb3:1 | C4:2 C4:1 | Bb3:2 G3:1 | D4:1 D4:2 | E4:1 E4:1 E4:1 | D4:1 E4:2 | D4:3 | D4:1 E4:1 C4:1 | A3:2 B3:1 | C4:2 C4:1 | Bb3:2 G3:1 | F3:1 G3:2 | G3:1 G3:1 A3:1 | D4:1 C4:1 G3:1 | A3:3 |"
+    },
+    {
+      "division": "pedal",
+      "notes": "F2:1 F2:1 F2:1 | G2:1 G2:1 G2:1 | A2:1 A2:1 A2:1 | Bb2:1 G2:1 F2:1 | C3:1 C3:1 C3:1 | Bb2:1 Bb2:1 Bb2:1 | A2:1 A2:1 A2:1 | G2:1 G2:1 G2:1 | F2:1 F2:1 F2:1 | F3:1 G3:1 A3:1 | Bb3:1 Bb2:1 C3:1 | D3:1 D3:1 D3:1 | C3:1 E3:1 F3:1 | Bb2:1 C3:1 C2:1 | F2:3 | F3:1 F3:1 F3:1 | C3:1 C3:1 C3:1 | D3:1 D3:1 D3:1 | A2:1 A2:1 Bb2:1 | F2:1 F2:1 F2:1 | Bb2:1 G2:1 F2:1 | C3:1 C3:1 C3:1 | Bb2:1 Bb2:1 Bb2:1 | A2:1 A2:1 A2:1 | Bb2:1 G2:1 C3:1 | F2:1 F2:1 F2:1 | G2:1 G2:1 G2:1 | A2:1 A2:1 A2:1 | D3:1 E3:1 F3:1 | Bb2:1 Bb3:1 A3:1 | G3:1 G3:1 F3:1 | E3:1 A3:1 Bb3:1 | G3:1 A3:1 A2:1 | Bb2:1 G2:1 G2:1 | C3:1 F3:1 F2:1 | C3:1 C3:1 Bb2:1 | Bb3:1 A3:1 G3:1 | F3:1 F3:1 G3:1 | A3:1 A2:1 A2:1 | Bb2:1 Bb2:1 C3:1 | D3:1 D3:1 D3:1 | C3:1 Bb3:1 A3:1 | Bb3:1 C4:1 C3:1 | D3:3 | Bb2:1 C3:1 C2:1 | F2:1 F2:1 G2:1 | A2:1 A2:1 A2:1 | Bb2:1 Bb2:1 C3:1 | D3:1 D3:1 D3:1 | E3:1 C3:1 F3:1 | Bb2:1 C3:1 C2:1 | F2:3 |"
+    }
+  ],
+  "licence": "CC0-1.0",
+  "tags": [
+    "voluntary",
+    "wedding",
+    "funeral",
+    "communion"
+  ],
+  "source": "Melody (the aria with its string introduction and closing bars, in the original key of F) checked against the Pierre Gouin / Les Editions Outremontaises edition (Eb, transposed here; via the IMSLP mirror on archive.org, imslp-hwv-40-handel-george-frideric) and the CC0 MIDI \"Largo (Handel).mid\" on Wikimedia Commons; Handel's bass line from the same two sources. Inner parts newly written for Cecilia. Trills are not written out."
+}
