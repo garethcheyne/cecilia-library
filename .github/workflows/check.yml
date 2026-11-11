@@ -1,0 +1,49 @@
+name: Check and publish
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: library }
+      - uses: actions/checkout@v4
+        with: { repository: garethcheyne/cecilia, path: cecilia }
+      - run: sudo apt-get update && sudo apt-get install -y libasound2-dev pkg-config
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with: { workspaces: cecilia/server }
+      - name: Build Cecilia
+        run: cargo build --release -p organ-server
+        working-directory: cecilia/server
+      - name: Check every file and build the catalogue
+        run: cecilia/server/target/release/cecilia library index library > index.json
+      - name: Prepare the site
+        if: github.ref == 'refs/heads/main'
+        run: |
+          mkdir site
+          cp -r library/music library/organs site/
+          cp index.json site/
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with: { path: site }
+
+  publish:
+    if: github.ref == 'refs/heads/main'
+    needs: check
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

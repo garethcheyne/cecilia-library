@@ -1,0 +1,13 @@
+Cecilia Library
+
+Each file in this repository states its own licence:
+
+- music/**: the "licence" field of each score (or "info.copyright" of each
+  recording): one of public-domain, CC0-1.0, CC-BY-4.0, CC-BY-SA-4.0.
+- organs/**: CC0 1.0 Universal.
+
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Repository scripts and workflows: CC0 1.0.
