@@ -1,0 +1,59 @@
+{
+  "id": "nun-lasst-uns-den-leib-begraben",
+  "title": "'Take Up Thy Cross', the Savior Said",
+  "composer": "George Rhau (1488–1548)",
+  "melody": "NUN LASST UNS DEN LEIB BEGRABEN",
+  "copyright": "Public domain",
+  "publication": "'Evangelical Lutheran Hymn Book' Edition of 1931, Hymn 538.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "mission"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "G",
+  "pickup": 0.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:2 A4:1 G4:1 | F#4:1 G4:1 A4:1 B4:1 | G4:3 G4:1 | A4:1 B4:1 C5:1 B4:1 | G4:1 A4:1 B4:2 | G4:2 A4:1 A4:1 | B4:1 A4:1 G4:1 F#4:1 | E4:3 A4:1 | B4:1 A4:1 G4:1 E4:1 | G4:1 A4:1 G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "D4:2 D4:1 B3:1 | D4:1 D4:1 E4:0.5 F#4:0.5 G4:1 | E4:3 E4:1 | D4:1 D4:1 E4:1 D4:1 | E4:1 F#4:1 G4:2 | D4:2 D4:1 F#4:1 | G4:1 F#4:1 E4:1 Eb4:1 | E4:3 F#4:1 | G4:1 E4:1 D4:1 C4:1 | B3:1 D4:1 B3:2"
+    },
+    {
+      "division": "great",
+      "notes": "B3:2 F#3:1 G3:1 | A3:1 B3:1 C4:1 D4:1 | C4:3 B3:1 | A3:1 G3:1 G3:1 G3:1 | B3:1 D4:1 D4:2 | B3:2 A3:1 D4:1 | D4:1 C4:1 B3:1.5 A3:0.5 | G3:3 D4:1 | D4:1 C4:1 B3:1 G3:1 | G3:1.5 F#3:0.5 G3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "G3:2 D3:1 E3:1 | D3:1 B2:1 A2:1 G2:1 | C3:3 E3:1 | F#3:1 G3:1 C3:1 G3:1 | E3:1 D3:1 G3:2 | G3:2 F#3:1 D3:1 | G2:1 A2:1 B2:1 B2:1 | C3:3 D3:1 | G2:1 A2:1 B2:1 C3:1 | E3:1 D3:1 G2:2"
+    }
+  ]
+}

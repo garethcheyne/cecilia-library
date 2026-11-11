@@ -1,0 +1,59 @@
+{
+  "id": "der-am-kreuz",
+  "title": "Jesus Grant That Balm and Healing",
+  "composer": "Johann Balthasar König (1691–1758)",
+  "melody": "DER AM KREUZ",
+  "copyright": "Public domain",
+  "publication": "Evangelical Lutheran Hymn Book (LCMS), Edition of 1931 Hymn 194.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "lent"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "C",
+  "pickup": 0.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "A4:1 E4:1 A4:1 B4:1 | C5:1 B4:0.5 A4:0.5 Ab4:1 E4:1 | B4:1 C5:1 D5:1 C5:1 | B4:1 B4:1 A4:2 | A4:1 E4:1 A4:1 B4:1 | C5:1 B4:0.5 A4:0.5 Ab4:1 E4:1 | B4:1 C5:1 D5:1 C5:1 | B4:1 B4:1 A4:2 | G4:1 G4:1 G4:1 E4:1 | F4:1 G4:1 A4:2 | G4:1 G4:1 F4:1 E4:1 | D4:1 D4:1 C4:2 | C5:1 C5:1 B4:1 B4:1 | A4:1 B4:1 Ab4:1 E4:1 | B4:1 C5:1 D5:1 C5:1 | B4:1 C5:1 B4:2 | A4:4"
+    },
+    {
+      "division": "great",
+      "notes": "E4:1 E4:1 F4:1 F4:1 | G4:1 F4:1 E4:1 E4:1 | E4:1 E4:1 A4:1 A4:1 | A4:1 Ab4:1 A4:2 | E4:1 E4:1 F4:1 F4:1 | G4:1 F4:1 E4:1 E4:1 | E4:1 E4:1 A4:1 A4:1 | A4:1 Ab4:1 A4:2 | E4:1 D4:1 E4:1 C4:1 | C4:0.5 D4:0.5 E4:1 F4:2 | E4:1 D4:1 C4:1 C4:1 | C4:1 B3:1 C4:2 | G4:1 A4:1 A4:1 G4:1 | F4:1 F4:1 E4:1 E4:1 | E4:1 E4:1 F4:1 E4:1 | E4:1 E4:1 E4:2 | C4:4"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 B3:1 C4:1 D4:1 | E4:1 D4:0.5 C4:0.5 B3:1 Ab3:1 | Ab3:1 A3:1 A3:1 E4:1 | F4:1 E4:1 C4:2 | C4:1 B3:1 C4:1 D4:1 | E4:1 D4:0.5 C4:0.5 B3:1 Ab3:1 | Ab3:1 A3:1 A3:1 E4:1 | F4:1 E4:1 C4:2 | C4:1 D4:1 C4:1 G3:1 | A3:1 Bb3:1 C4:2 | C4:1 G3:1 A3:1 G3:1 | G3:1.5 F3:0.5 E3:2 | E4:1 E4:1 F4:1 E4:0.5 D4:0.5 | C4:1 D4:1 B3:1 Ab3:1 | Ab3:1 A3:1 A3:1 A3:1 | Ab3:1 A3:2 Ab3:1 | A3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "A3:1 G3:1 F3:1 D3:1 | C3:1 D3:1 E3:1 E3:1 | E3:1 A3:1 F3:1 E3:1 | D3:1 E3:1 A2:2 | A3:1 G3:1 F3:1 D3:1 | C3:1 D3:1 E3:1 E3:1 | E3:1 A3:1 F3:1 E3:1 | D3:1 E3:1 A2:2 | C3:1 B2:1 C3:1 C3:1 | A2:1 G2:1 F2:2 | C3:1 B2:1 A2:1 C3:1 | G2:1 G2:1 C3:2 | C4:1 A3:1 D3:1 E3:1 | F3:1 D3:1 E3:1 E3:1 | E3:1 A3:1 D3:1 A2:1 | E3:1 C3:0.5 A2:0.5 E3:2 | A2:4"
+    }
+  ]
+}

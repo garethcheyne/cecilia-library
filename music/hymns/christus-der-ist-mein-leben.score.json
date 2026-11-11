@@ -1,0 +1,58 @@
+{
+  "id": "christus-der-ist-mein-leben",
+  "title": "Abide, O Dearest Jesus",
+  "composer": "Melchior Vulpius (1560–1615)",
+  "melody": "CHRISTUS DER IST MEIN LEBEN",
+  "copyright": "Public domain",
+  "publication": "\"Mehrstimmiges ChoralBuch\", 1906 Hymn #32, page 23 Ed. Karl Brauer.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 1.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:1 | G4:1 F4:1 G4:1 Ab4:1 | Bb4:2 G4:1 C5:1 | Bb4:1.5 Ab4:0.5 G4:1 F4:1 | G4:2 r:1 Bb4:1 | C5:1 C5:1 D5:1 Eb5:1 | C5:2 Bb4:1 G4:1 | F4:1 Eb4:1 Eb4:1 D4:1 | Eb4:3"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 | Eb4:1 D4:1 Eb4:1 Eb4:1 | D4:2 Eb4:1 Eb4:1 | Eb4:1.5 C4:0.5 Eb4:1 D4:1 | Eb4:2 r:1 Eb4:1 | Eb4:1 Eb4:1 F4:1 Eb4:1 | Eb4:2 Eb4:1 Eb4:1 | C4:1 Bb3:1 C4:1 Bb3:1 | Bb3:3"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 | Bb3:1 Bb3:1 Bb3:1 Eb3:1 | F3:1 Bb3:1 Bb3:1 Ab3:1 | G3:1.5 Ab3:0.5 Bb3:1 Bb3:1 | Bb3:2 r:1 G3:1 | Ab3:1 G3:1 Bb3:1 Bb3:1 | Ab3:2 G3:1 Bb3:1 | Ab3:1 G3:1 F3:1 F3:1 | G3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:1 | Eb3:1 Bb2:1 Eb3:1 C3:1 | Bb2:2 Eb3:1 Ab2:1 | Eb3:1.5 F3:0.5 Eb3:1 Bb2:1 | Eb3:2 r:1 Eb3:1 | Ab2:1 C3:1 Bb2:1 G2:1 | Ab2:2 Eb3:1 Eb2:1 | F2:1 G2:1 Ab2:1 Bb2:1 | Eb2:3"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ein-feste-burg-isorhythmic",
+  "title": "A Mighty Fortress Is Our God",
+  "composer": "Martin Luther (1483–1546)",
+  "melody": "EIN FESTE BURG (ISORHYTHMIC)",
+  "copyright": "Public domain",
+  "publication": "'Common Service Book with Hymnal', ULCA 1918 Hymn 195, alt. to match syncopation of Hedge translation",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 110.0,
+  "time": "4/4",
+  "key": "D",
+  "pickup": 1.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D5:1 | D5:1 D5:1 A4:0.5 B4:0.5 C#5:1 | D5:0.5 C#5:0.5 B4:1 A4:1 D5:1 | C#5:1 B4:1 A4:1 B4:1 | G4:0.5 F#4:0.5 E4:1 D4:1 D5:1 | D5:1 D5:1 A4:0.5 B4:0.5 C#5:1 | D5:0.5 C#5:0.5 B4:1 A4:1 D5:1 | C#5:1 B4:1 A4:1 B4:1 | G4:0.5 F#4:0.5 E4:1 D4:1 D4:1 | F#4:1 A4:1 B4:1 Ab4:1 | A4:1 D4:1 A4:1 A4:1 | B4:1 C#5:1 D5:1 C#5:1 | D5:1 C#5:1 B4:1 B4:1 | A4:1 B4:1 B4:1 A4:1 | B4:1 G4:1 F#4:1 D5:1 | C#5:1 B4:1 A4:1 B4:1 | G4:0.5 F#4:0.5 E4:1 D4:1"
+    },
+    {
+      "division": "great",
+      "notes": "F#4:1 | D4:1 F#4:1 E4:1 E4:1 | D4:1 E4:1 C#4:1 D4:1 | F#4:1 D4:1 D4:1 D4:1 | B3:1 C#4:1 D4:1 F#4:1 | D4:1 F#4:1 E4:1 E4:1 | D4:1 E4:1 C#4:1 D4:1 | F#4:1 D4:1 D4:1 D4:1 | B3:1 C#4:1 D4:1 D4:1 | D4:1 E4:1 F#4:1 E4:1 | E4:1 D4:1 E4:1 F#4:1 | G4:1 G4:1 F#4:1 F#4:1 | F#4:1 E4:1 F#4:1 E4:0.5 D4:0.5 | C#4:1 G4:1 G4:1 F#4:1 | F#4:1 E4:1 C#4:1 F#4:1 | F#4:0.5 E4:0.5 D4:1 D4:0.5 C4:0.5 B3:1 | B3:1 C4:1 D4:1"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 | A3:1 A3:1 A3:0.5 Ab3:0.5 A3:1 | F#3:1 Ab3:1 A3:1 F#3:1 | A3:1 G3:1 F#3:1 F#3:1 | G3:1 A3:1 F#3:1 A3:1 | A3:1 A3:1 A3:0.5 Ab3:0.5 A3:1 | F#3:1 Ab3:1 A3:1 F#3:1 | A3:1 G3:1 F#3:1 F#3:1 | G3:1 A3:1 F#3:1 F#3:1 | A3:2 D4:1 B3:1 | C#4:1 F#3:1 A3:1 D4:1 | D4:1 E4:1 A3:1 A3:1 | F#3:1 A3:1 A3:1 Ab3:1 | A3:1 D4:1 D4:1.5 C4:0.5 | B3:1 B3:1 Bb3:1 B3:1 | A3:1 G3:1 F#3:1 F#3:1 | G3:1 A3:0.5 G3:0.5 F#3:1"
+    },
+    {
+      "division": "pedal",
+      "notes": "D3:1 | F#3:1 D3:1 C#3:0.5 B2:0.5 A2:1 | B2:1 E3:1 A2:1 B2:1 | F#3:1 G3:1 D3:1 B2:1 | E3:1 A2:1 D3:1 D3:1 | F#3:1 D3:1 C#3:0.5 B2:0.5 A2:1 | B2:1 E3:1 A2:1 B2:1 | F#3:1 G3:1 D3:1 B2:1 | E3:1 A2:1 D3:1 D3:1 | D3:1 C#3:1 B2:1 E3:1 | A2:1 B2:1 C#3:1 D3:1 | G3:1 E3:1 D3:1 F#3:1 | B2:1 C#3:1 D3:1 E3:1 | A2:1 G2:1 B2:1 D3:1 | Eb3:1 E3:1 F#3:1 B2:1 | F#3:1 G3:1 D3:1 Eb3:1 | E3:1 A2:1 D3:1"
+    }
+  ]
+}

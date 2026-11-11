@@ -1,0 +1,59 @@
+{
+  "id": "o-mein-jesu-ich-muss-sterben",
+  "title": "Stricken, Smitten, and Afflicted",
+  "composer": "Geistliches Volkslied, 1850",
+  "melody": "O MEIN JESU, ICH MUSS STERBEN",
+  "copyright": "Public domain",
+  "publication": "Evangelical Lutheran Hymn-Book, 1931 Hymn 209.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "lent"
+  ],
+  "bpm": 180.0,
+  "time": "6/4",
+  "key": "Bb",
+  "pickup": 2.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:1 A4:1 | Bb4:2 Bb4:2 C5:1 Bb4:1 | A4:2 A4:2 Bb4:1 A4:1 | G4:2 A4:2 G4:1 F#4:1 | G4:4 G4:1 A4:1 | Bb4:2 Bb4:2 C5:1 Bb4:1 | A4:2 A4:2 Bb4:1 A4:1 | G4:2 A4:2 G4:1 F#4:1 | G4:4 Bb4:1 C5:1 | D5:2 D5:2 Eb5:1 D5:1 | C5:2 C5:2 D5:1 C5:1 | Bb4:2 Bb4:2 C5:1 Bb4:1 | A4:4 G4:1 F#4:1 | G4:2 Bb4:2 A4:1 G4:1 | A4:2 A4:2 Bb4:1 A4:1 | G4:2 A4:2 G4:1 F#4:1 | G4:4"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 D4:1 | D4:2 Eb4:2 Eb4:1 D4:1 | D4:2 D4:2 D4:1 D4:1 | Bb3:2 Eb4:2 D4:1 D4:1 | D4:4 D4:1 D4:1 | D4:2 Eb4:2 Eb4:1 D4:1 | D4:2 D4:2 D4:1 D4:1 | Bb3:2 Eb4:2 D4:1 D4:1 | D4:4 D4:1 F4:1 | F4:2 G4:2 G4:1 F4:1 | F4:2 F4:2 F4:1 F4:1 | D4:2 Eb4:2 Eb4:1 D4:1 | D4:4 D4:1 D4:1 | D4:2 D4:2 D4:1 Bb3:1 | D4:2 D4:2 D4:1 D4:1 | Eb4:2 Eb4:2 D4:1 D4:1 | D4:4"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 A3:1 | G3:2 G3:2 G3:1 G3:1 | G3:2 F#3:2 G3:1 F#3:1 | G3:2 C4:2 Bb3:1 A3:1 | Bb3:4 Bb3:1 A3:1 | G3:2 G3:2 G3:1 G3:1 | G3:2 F#3:2 G3:1 F#3:1 | G3:2 C4:2 Bb3:1 A3:1 | Bb3:4 G3:1 A3:1 | Bb3:2 Bb3:2 Bb3:1 Bb3:1 | Bb3:2 A3:2 Bb3:1 A3:1 | G3:2 G3:2 G3:1 G3:1 | F#3:4 G3:1 A3:1 | Bb3:2 G3:2 F#3:1 G3:1 | G3:2 F#3:2 G3:1 A3:1 | Bb3:2 C4:2 Bb3:1 A3:1 | Bb3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "G3:1 F#3:1 | G3:2 Eb3:2 C3:1 G2:1 | D3:2 D3:2 G3:1 D3:1 | Eb3:2 C3:2 D3:1 D3:1 | G2:4 G3:1 F#3:1 | G3:2 Eb3:2 C3:1 G2:1 | D3:2 D3:2 G3:1 D3:1 | Eb3:2 C3:2 D3:1 D3:1 | G2:4 G3:1 F3:1 | Bb3:2 G3:2 Eb3:1 Bb2:1 | F3:2 F3:2 Bb3:1 F3:1 | G3:2 Eb3:2 C3:1 G2:1 | D3:4 Bb2:1 D3:1 | G3:2 G3:2 D3:1 Eb3:1 | D3:2 D3:2 G3:1 F3:1 | Eb3:2 C3:2 D3:1 D3:1 | G2:4"
+    }
+  ]
+}

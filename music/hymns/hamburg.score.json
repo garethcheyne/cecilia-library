@@ -1,0 +1,59 @@
+{
+  "id": "hamburg",
+  "title": "When I Survey the Wondrous Cross",
+  "composer": "Lowell Mason (1792–1872)",
+  "melody": "HAMBURG",
+  "copyright": "Public domain",
+  "publication": "\"Northfield Hymnal\", 1904 Hymn 210.  ABC file contributed to the Open Hymnal by Tobin Strong, 20 Dec 2013.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "lent"
+  ],
+  "bpm": 130.0,
+  "time": "4/4",
+  "key": "F",
+  "pickup": 0.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:2 F4:1 G4:1 | A4:2 G4:1 A4:1 | Bb4:2 A4:1 G4:1 | A4:4 | A4:2 A4:1 A4:1 | Bb4:2 A4:1 G4:1 | F4:2 E4:1 F4:1 | G4:4 | F4:2 F4:1 G4:1 | A4:2 G4:1 A4:1 | Bb4:2 A4:1 G4:1 | A4:4 | A4:2 A4:1 A4:1 | G4:2 F4:2 | G4:2 A4:1 F4:1 | F4:4"
+    },
+    {
+      "division": "great",
+      "notes": "C4:2 C4:1 E4:1 | F4:2 G4:1 F#4:1 | G4:2 F4:1 E4:1 | F4:4 | F4:2 F4:1 F4:1 | F4:2 F4:1 E4:1 | F4:2 C4:2 | E4:4 | C4:2 C4:1 E4:1 | F4:2 G4:1 F#4:1 | G4:2 F4:1 E4:1 | F4:4 | F4:2 F4:1 F4:1 | E4:2 F4:2 | F4:2 E4:2 | F4:4"
+    },
+    {
+      "division": "great",
+      "notes": "A3:2 A3:1 C4:1 | C4:2 D4:1 C4:1 | D4:2 C4:2 | C4:4 | C4:2 C4:1 C4:1 | D4:2 C4:2 | C4:2 Bb3:1 A3:1 | C4:4 | A3:2 A3:1 C4:1 | C4:2 D4:1 C4:1 | D4:2 C4:2 | C4:4 | C4:2 C4:1 C4:1 | C4:1 Bb3:1 A3:2 | D4:2 C4:1 Bb3:1 | A3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:2 F3:1 C3:1 | F3:2 Bb3:1 A3:1 | G3:2 C3:2 | F3:4 | F3:2 F3:1 F3:1 | F3:2 F3:1 Bb3:1 | A3:2 G3:1 F3:1 | C3:4 | F3:2 F3:1 C3:1 | F3:2 Bb3:1 A3:1 | G3:2 C3:2 | F3:4 | F3:2 F3:1 F3:1 | C3:2 F3:2 | Bb2:2 C3:2 | F3:4"
+    }
+  ]
+}

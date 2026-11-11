@@ -1,0 +1,61 @@
+{
+  "id": "herr-jesu-christ-dict-zu-uns-wend",
+  "title": "The Gospel Shows The Father's Grace",
+  "composer": "Cantionale Germanicum, Dresden, 1628",
+  "melody": "HERR JESU CHRIST, DICT ZU UNS WEND",
+  "copyright": "Public domain",
+  "publication": "\"Mehrstimmiges ChoralBuch\", 1906 Hymn #74, page 57 Ed. Karl Brauer. slightly altered.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "other_titles": [
+    "You Parents Hear What Jesus Taught"
+  ],
+  "bpm": 140.0,
+  "time": "6/4",
+  "key": "F",
+  "pickup": 2.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:2 | A4:2 C5:1 A4:2 G4:1 | A4:1 B4:1 C5:2 D5:2 | C5:2 A4:1 G4:2 F4:1 | F4:1 E4:1 F4:2 G4:2 | A4:2 A4:1 G4:2 C5:1 | C5:1 B4:1 C5:2 A4:2 | Bb4:2 A4:1 G4:2 F4:1 | F4:1 E4:1 F4:2"
+    },
+    {
+      "division": "great",
+      "notes": "C4:2 | F4:2 G4:1 F4:2 E4:1 | F4:1 F4:1 E4:2 F4:2 | F4:2 F4:1 E4:2 C4:1 | D4:1 C4:1 C4:2 E4:2 | F4:2 F4:1 E4:2 E4:1 | D4:1 D4:1 E4:2 C4:2 | D4:2 F4:1 E4:2 D4:1 | D4:1 C4:1 C4:2"
+    },
+    {
+      "division": "great",
+      "notes": "A3:2 | C4:2 C4:1 C4:2 C4:1 | C4:1 F3:1 G3:2 Bb3:2 | A3:2 C4:1 C4:2 F3:1 | Bb3:1 G3:1 A3:2 C4:2 | C4:2 C4:1 C4:2 G3:1 | G3:1 G3:1 G3:2 F3:2 | F3:2 C4:1 C4:2 A3:1 | Bb3:1 G3:1 A3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:2 | F3:2 E3:1 F3:2 C3:1 | F3:1 D3:1 C3:2 Bb2:2 | F3:2 F3:1 C3:2 A2:1 | Bb2:1 C3:1 F2:2 C3:2 | F3:2 F3:1 C3:2 C3:1 | G3:1 G2:1 C3:2 F3:2 | Bb2:2 F2:1 C3:2 D3:1 | Bb2:1 C3:1 F2:2"
+    }
+  ]
+}

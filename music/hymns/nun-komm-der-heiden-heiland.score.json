@@ -1,0 +1,59 @@
+{
+  "id": "nun-komm-der-heiden-heiland",
+  "title": "Savior Of The Nations Come",
+  "composer": "Walter's Geistliche Gesangbüchlein, 1524",
+  "melody": "NUN KOMM, DER HEIDEN HEILAND",
+  "copyright": "Public domain",
+  "publication": "\"Mehrstimmiges ChoralBuch\", 1906 Hymn #135, page 109 Ed. Karl Brauer. slightly altered.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "advent"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "Bb",
+  "pickup": 0.0,
+  "verses": 7,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "7": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:1 G4:1 F4:1 Bb4:1 | A4:0.5 G4:0.5 A4:1 G4:2 | G4:1 Bb4:1 C5:1.5 Bb4:0.5 | C5:1 D5:1 Bb4:2 | Bb4:1 C5:1 D5:1 Bb4:1 | C5:1 Bb4:0.5 A4:0.5 G4:2 | G4:1 G4:1 F4:1 Bb4:1 | A4:0.5 G4:0.5 A4:1 G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 Eb4:1 D4:1 F4:1 | Eb4:0.5 G4:0.5 F#4:1 G4:2 | D4:1 D4:1 Eb4:1.5 D4:0.5 | F4:1 F4:1 F4:2 | D4:1 F4:1 F4:1 G4:1 | G4:0.5 A4:0.5 G4:0.5 F#4:0.5 G4:2 | Eb4:1 Eb4:1 D4:1 D4:1 | F#4:0.5 G4:0.5 F#4:1 G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 C4:1 A3:1 D4:1 | C4:0.5 Bb3:0.5 A3:1 Bb3:2 | Bb3:1 Bb3:1 G3:1.5 Bb3:0.5 | A3:1 Bb3:1 D4:2 | F3:1 A3:1 Bb3:1 Bb3:1 | Eb4:1 D4:1 Bb3:2 | Bb3:1 C4:1 A3:1 Bb3:1 | D4:0.5 Bb3:0.5 A3:1 Bb3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "G2:1 C3:1 D3:1 Bb2:1 | C3:0.5 G2:0.5 D3:1 G2:2 | G3:1 G3:1 C3:1.5 G3:0.5 | F3:1 Bb2:1 Bb2:2 | Bb2:1 F2:1 Bb2:1 Eb3:1 | C3:1 D3:1 G2:2 | Eb3:1 C3:1 D3:1 G2:1 | D3:1 D3:1 G2:2"
+    }
+  ]
+}

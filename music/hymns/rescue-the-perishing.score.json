@@ -1,0 +1,59 @@
+{
+  "id": "rescue-the-perishing",
+  "title": "Rescue the Perishing",
+  "composer": "William Howard Doane (1832–1915)",
+  "melody": "RESCUE THE PERISHING",
+  "copyright": "Public domain",
+  "publication": "\"Songs of Devotion\", 1870 page 258 Hymn 642.  Lyrics, same source.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "mission"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "Bb",
+  "pickup": 0.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:1 D4:0.5 Eb4:0.5 F4:0.5 F4:0.5 F4:1 | Bb4:1 A4:0.5 G4:0.5 G4:1 F4:1 | F4:1 G4:0.5 A4:0.5 Bb4:1 C5:0.5 D5:0.5 | C5:1 Bb4:0.5 G4:0.5 F4:1 r:1 | F4:1 D4:0.5 Eb4:0.5 F4:0.5 F4:0.5 F4:1 | Bb4:1 A4:0.5 G4:0.5 G4:1 F4:1 | F4:1 G4:0.5 A4:0.5 Bb4:1 C5:0.5 D5:0.5 | C5:1 Bb4:0.5 A4:0.5 Bb4:2 | C5:1 Bb4:0.5 C5:0.5 D5:0.75 C5:0.25 Bb4:1 | C5:1 Bb4:0.5 C5:0.5 D5:1 Bb4:1 | Bb4:1 A4:0.5 G4:0.5 F4:0.5 Bb4:0.5 D5:1 | C5:1 Bb4:0.5 A4:0.5 Bb4:2"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 Bb3:0.5 C4:0.5 D4:0.5 D4:0.5 D4:1 | D4:1 F4:0.5 Eb4:0.5 Eb4:1 D4:1 | C4:1 Eb4:0.5 Eb4:0.5 F4:1 F4:0.5 F4:0.5 | F4:1 E4:0.5 E4:0.5 F4:1 r:1 | D4:1 Bb3:0.5 C4:0.5 D4:0.5 D4:0.5 D4:1 | D4:1 F4:0.5 Eb4:0.5 Eb4:1 D4:1 | C4:1 Eb4:0.5 Eb4:0.5 F4:1 F4:0.5 F4:0.5 | G4:1 F4:0.5 F4:0.5 F4:2 | F4:1 F4:0.5 F4:0.5 F4:0.75 Eb4:0.25 D4:1 | F4:1 F4:0.5 F4:0.5 F4:1 F4:1 | G4:1 F4:0.5 Eb4:0.5 D4:0.5 F4:0.5 F4:1 | G4:1 F4:0.5 F4:0.5 F4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 F3:0.5 F3:0.5 Bb3:0.5 Bb3:0.5 Bb3:1 | Bb3:1 Bb3:0.5 Bb3:0.5 Bb3:1 Bb3:1 | A3:1 Bb3:0.5 C4:0.5 D4:1 A3:0.5 Bb3:0.5 | A3:1 G3:0.5 Bb3:0.5 A3:1 r:1 | Bb3:1 F3:0.5 F3:0.5 Bb3:0.5 Bb3:0.5 Bb3:1 | Bb3:1 Bb3:0.5 Bb3:0.5 Bb3:1 Bb3:1 | A3:1 Bb3:0.5 C4:0.5 D4:1 A3:0.5 Bb3:0.5 | Bb3:1 D4:0.5 C4:0.5 D4:2 | A3:1 G3:0.5 A3:0.5 Bb3:0.75 Bb3:0.25 Bb3:1 | A3:1 G3:0.5 A3:0.5 Bb3:1 D4:1 | Eb4:1 Bb3:0.5 Bb3:0.5 Bb3:0.5 D4:0.5 Bb3:1 | Bb3:1 D4:0.5 Eb4:0.5 D4:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "Bb2:1 Bb2:0.5 Bb2:0.5 Bb2:0.5 Bb2:0.5 Bb2:1 | Bb2:1 Eb3:0.5 Eb3:0.5 Bb2:1 Bb2:1 | F3:1 F3:0.5 F3:0.5 F3:1 F3:0.5 Bb2:0.5 | C3:1 C3:0.5 C3:0.5 F3:1 r:1 | Bb2:1 Bb2:0.5 Bb2:0.5 Bb2:0.5 Bb2:0.5 Bb2:1 | Bb2:1 Eb3:0.5 Eb3:0.5 Bb2:1 Bb2:1 | F3:1 F3:0.5 F3:0.5 F3:1 F3:0.5 Bb2:0.5 | Eb3:1 F3:0.5 F3:0.5 Bb2:2 | F3:1 F3:0.5 F3:0.5 Bb2:0.75 Bb2:0.25 Bb2:1 | F3:1 F3:0.5 F3:0.5 Bb2:1 Bb2:1 | Eb3:1 Eb3:0.5 Eb3:0.5 Bb2:0.5 Bb2:0.5 Bb2:1 | Eb3:1 F3:0.5 F3:0.5 Bb2:2"
+    }
+  ]
+}

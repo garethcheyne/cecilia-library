@@ -1,0 +1,58 @@
+{
+  "id": "w-r-gott-nicht-mit-uns-diese-zeit-1524",
+  "title": "If God Had Not Been on Our Side",
+  "composer": "Walter's Geistliche Gesangbüchlein, 1524; harmony by Michael Praetorius (1571–1621)",
+  "melody": "WÄR GOTT NICHT MIT UNS DIESE ZEIT (1524)",
+  "copyright": "Public domain",
+  "publication": "Translation is public domain per Project Wittenberg: http://www.iclnet.org/pub/resources/text/wittenberg/hymns/ourside.txt",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "A",
+  "pickup": 0.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F#4:2 A4:1 A4:1 | B4:1 C#5:1 B4:1 Bb4:1 | B4:2 r:1 B4:1 | A4:1 F#4:1 B4:1 C#5:1 | B4:0.5 A4:0.5 B4:1 A4:2 | F#4:2 A4:1 A4:1 | B4:1 C#5:1 B4:1 Bb4:1 | B4:2 r:1 B4:1 | A4:1 F#4:1 B4:1 C#5:1 | B4:0.5 A4:0.5 B4:1 A4:2 | r:1 B4:1 C#5:1 B4:1 | Ab4:1 A4:1 B4:1 A4:1 | F#4:2 r:1 F#4:1 | B4:1 A4:1 B4:1 C#5:1 | A4:1 Ab4:1 E4:2 | r:1 F#4:1 A4:1 B4:1 | C#5:1 A4:1 Ab4:0.5 F#4:0.5 Ab4:1 | F#4:4"
+    },
+    {
+      "division": "great",
+      "notes": "C#4:2 F#4:1 F#4:1 | F#4:1 F#4:1 D4:0.5 E4:0.5 F#4:1 | F#4:2 r:1 F#4:1 | E4:1 D4:1 F#4:1 A4:1 | E4:0.5 F#4:0.5 Ab4:1 E4:2 | C#4:2 F#4:1 F#4:1 | F#4:1 F#4:1 D4:0.5 E4:0.5 F#4:1 | F#4:2 r:1 F#4:1 | E4:1 D4:1 F#4:1 A4:1 | E4:0.5 F#4:0.5 Ab4:1 E4:2 | r:1 Ab4:1 A4:1 F#4:1 | E4:1 C#4:1 F#4:1 E4:1 | D4:2 r:1 C#4:1 | E4:1 E4:1 D4:1 E4:1 | F#4:1 E4:1 C#4:2 | r:1 C#4:1 F#4:1.5 D4:0.5 | E4:1 F#4:1 E4:0.5 F#4:0.5 F4:1 | F#4:4"
+    },
+    {
+      "division": "great",
+      "notes": "A3:2 C#4:1 D4:1 | D4:1 A3:1 B3:1 C#4:1 | D4:2 r:1 D4:1 | A3:1 A3:1 D4:1 A3:1 | B3:0.5 C#4:0.5 D4:1 C#4:2 | A3:2 C#4:1 D4:1 | D4:1 A3:1 B3:1 C#4:1 | D4:2 r:1 D4:1 | A3:1 A3:1 D4:1 A3:1 | B3:0.5 C#4:0.5 D4:1 C#4:2 | r:1 E4:1 E4:1 D4:1 | B3:1 F#4:1 D4:1 C#4:1 | A3:2 r:1 A3:1 | Ab3:1 E3:1 F#3:1 A3:1 | F#3:1 B3:1 A3:2 | r:1 A3:1 C#4:1 D4:1 | C#4:1 C#4:1 C#4:0.5 A3:0.5 C#4:1 | Bb3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "F#3:2 F#3:1 D3:1 | B2:1 F#3:1 G3:1 F#3:1 | B2:2 r:1 B2:1 | C#3:1 D3:1 B2:1 F#3:1 | Ab3:0.5 A3:0.5 E3:1 A2:2 | F#3:2 F#3:1 D3:1 | B2:1 F#3:1 G3:1 F#3:1 | B2:2 r:1 B2:1 | C#3:1 D3:1 B2:1 F#3:1 | Ab3:0.5 A3:0.5 E3:1 A2:2 | r:1 E3:1 A3:1 B3:1 | E3:1 F#3:1 B2:1 C#3:1 | D3:2 r:1 F#3:1 | E3:1 C#3:1 B2:1 A2:1 | D3:1 E3:1 A2:2 | r:1 F#3:1 F#3:1 B3:1 | A3:1 F#3:1 C#3:0.5 D3:0.5 C#3:1 | F#3:4"
+    }
+  ]
+}

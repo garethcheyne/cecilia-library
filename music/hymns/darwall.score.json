@@ -1,0 +1,58 @@
+{
+  "id": "darwall",
+  "title": "On What Has Now Been Sown",
+  "composer": "John Darwall (1731–1789)",
+  "melody": "DARWALL",
+  "copyright": "Public domain",
+  "publication": "'Common Service Book with Hymnal', ULCA 1918 Hymn 68.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 140.0,
+  "time": "4/4",
+  "key": "D",
+  "pickup": 1.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D4:1 | F#4:1 D4:1 A4:1 F#4:1 | D5:3 C#5:1 | B4:1 A4:1 G4:1 F#4:1 | E4:3 E4:1 | F#4:1 D4:1 B4:1 A4:1 | Ab4:1 E4:1 E5:1 D5:1 | C#5:2 B4:2 | A4:3 A4:1 | B4:2 C#5:2 | D5:3 D4:1 | E4:1 F#4:1 G4:1 A4:1 | B4:1 C#5:1 D5:1 E5:1 | D5:2 C#5:2 | D5:3"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 | D4:1 D4:1 E4:1 F#4:1 | F#4:3 F#4:1 | G4:1 D4:1 C#4:1 D4:1 | C#4:3 C#4:1 | D4:1 D4:1 F#4:1 E4:1 | E4:1 E4:1 E4:1 F#4:1 | E4:3 D4:1 | C#4:3 D4:1 | D4:2 G4:2 | F#4:3 D4:1 | C#4:1 D4:1 D4:1 D4:1 | D4:1 G4:1 F#4:1 E4:1 | F#4:2 G4:2 | F#4:3"
+    },
+    {
+      "division": "great",
+      "notes": "F#3:1 | A3:1 F#3:1 A3:1 A3:1 | D4:3 D4:1 | D4:1 A3:1 A3:1 A3:1 | A3:3 A3:1 | A3:1 F#3:1 D4:1 C#4:1 | B3:1 Ab3:1 A3:1 A3:1 | A3:2 Ab3:2 | A3:3 F#3:1 | G3:2 G3:2 | A3:3 A3:1 | G3:1 A3:1 G3:1 F#3:1 | G3:1 G3:1 A3:1 B3:1 | A3:2 A3:2 | A3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "D3:1 | D3:1 D3:1 C#3:1 D3:1 | B3:3 A3:1 | G3:1 F#3:1 E3:1 D3:1 | A2:3 A2:1 | D3:1 D3:1 B2:1 C#3:0.5 D3:0.5 | E3:1 D3:1 C#3:1 D3:1 | E3:2 E3:2 | A2:3 D3:1 | G3:2 E3:2 | D3:3 F#3:1 | E3:1 D3:1 B2:1 D3:1 | G3:1 E3:1 F#3:1 G3:1 | A3:2 A2:2 | D3:3"
+    }
+  ]
+}

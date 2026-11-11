@@ -1,0 +1,58 @@
+{
+  "id": "coronation",
+  "title": "All Hail The Power Of Jesus' Name",
+  "composer": "Oliver Holden (1765–1844)",
+  "melody": "CORONATION",
+  "copyright": "Public domain",
+  "publication": "The Church Hymnal, Revised and Enlarged (Episcopal), 1896 Hymn 450, alt in parts of the Tenor to match \"Hymnal of the Presbyterian Church\" 1867 Hymn 29.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "G",
+  "pickup": 1.0,
+  "verses": 8,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "8": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D4:1 | G4:1 G4:1 B4:1 B4:1 | A4:1 G4:1 A4:1 B4:1 | A4:1 G4:1 B4:1 A4:1 | G4:3 A4:1 | B4:1 A4:1 G4:1 B4:1 | D5:0.5 C5:0.5 B4:0.5 A4:0.5 B4:1 D5:1 | D5:2 D5:2 | E5:2 D5:1 C#5:1 | D5:3 B4:1 | D5:1 B4:1 G4:1 B4:1 | A4:0.5 G4:0.5 A4:0.5 B4:0.5 A4:1 G4:1 | D5:2 C5:2 | B4:1.5 C5:0.5 A4:1 A4:1 | G4:3"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 | B3:1 D4:1 G4:1 G4:1 | F#4:1 E4:1 F#4:1 G4:1 | F#4:1 G4:1 G4:1 F#4:1 | G4:3 D4:1 | G4:1 D4:1 B3:1 G4:1 | B4:0.5 A4:0.5 G4:0.5 F#4:0.5 G4:1 F#4:1 | G4:2 A4:2 | G4:2 F#4:1 E4:1 | F#4:3 D4:1 | D4:1 D4:1 D4:1 G4:1 | F#4:0.5 E4:0.5 F#4:0.5 G4:0.5 F#4:1 G4:1 | G4:2 G4:2 | G4:3 F#4:1 | G4:3"
+    },
+    {
+      "division": "great",
+      "notes": "D3:1 | G3:1 B3:1 D4:1 D4:1 | D4:1 B3:1 D4:1 D4:1 | C4:1 B3:1 D4:1 C4:1 | B3:3 A3:1 | B3:1 A3:1 G3:1 B3:1 | D4:0.5 C4:0.5 B3:0.5 A3:0.5 B3:1 A3:1 | B3:2 A3:2 | B3:2 A3:2 | A3:3 G3:1 | B3:1 G3:1 G3:1 D4:1 | C4:0.5 B3:0.5 C4:0.5 D4:0.5 C4:1 B3:1 | G3:2 G3:2 | G3:1.5 A3:0.5 F#3:0.5 A3:0.5 C4:1 | B3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "D3:1 | G3:1 G3:1 G3:1 G3:1 | D3:1 E3:1 D3:1 B2:1 | D3:1 E3:1 D3:1 D3:1 | G2:3 D3:1 | G3:1 D3:1 B2:1 G3:1 | B3:0.5 A3:0.5 G3:0.5 F#3:0.5 G3:1 D3:1 | G3:2 F#3:2 | E3:2 A2:2 | D3:3 G3:1 | G3:1 G2:1 B2:1 G2:1 | D3:1 D3:1 D3:1 E3:1 | B2:2 C3:2 | D3:3 D3:1 | G2:3"
+    }
+  ]
+}

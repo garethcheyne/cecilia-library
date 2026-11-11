@@ -1,0 +1,59 @@
+{
+  "id": "marion",
+  "title": "Rejoice, O Pilgrim Throng",
+  "composer": "Arthur Henry Messiter (1834–1916)",
+  "melody": "MARION",
+  "copyright": "Public domain",
+  "publication": "\"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1893 Ed. Messiter Hymn 520.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "praise"
+  ],
+  "bpm": 130.0,
+  "time": "4/4",
+  "key": "F",
+  "pickup": 1.0,
+  "verses": 8,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "8": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:1 | C5:1 A4:0.5 G4:0.5 F4:1 G4:1 | A4:3 A4:1 | A4:1 F4:0.5 G4:0.5 A4:1 B4:1 | C5:3 C5:1 | D5:1 C5:0.5 Bb4:0.5 A4:1 A4:1 | A4:0.5 G4:0.5 F4:0.5 G4:0.5 A4:1 D4:1 | G4:1 A4:1 Bb4:1 A4:1 | G4:3 C5:1 | C5:3 C5:1 | C5:3 C5:1 | Bb4:1 A4:0.5 G4:0.5 A4:1 G4:1 | F4:3"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 | C4:1 E4:1 F4:1 C4:1 | C4:3 C4:1 | D4:1 D4:0.5 E4:0.5 F4:1 F4:1 | E4:3 Eb4:1 | D4:1 D4:1 D4:1 D4:1 | D4:1 C4:1 D4:1 D4:1 | D4:1 D4:1 D4:0.5 C4:0.5 C4:1 | C4:3 C4:1 | C4:3 C4:1 | C4:3 F4:1 | F4:1 F4:1 F4:1 E4:1 | F4:3"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 | G3:1 C4:0.5 Bb3:0.5 A3:1 E3:1 | F3:3 G3:1 | F3:1 A3:0.5 G3:0.5 F3:1 G3:1 | G3:3 A3:1 | Bb3:1 A3:0.5 G3:0.5 G3:1 F3:1 | G3:1 A3:0.5 G3:0.5 F3:1 F3:1 | G3:1 E3:1 E3:0.5 E3:0.5 E3:1 | E3:3 r:1 | r:1 E3:0.5 F3:0.5 G3:2 | r:1 F3:0.5 G3:0.5 A3:1 A3:1 | Bb3:1 C4:0.5 D4:0.5 C4:1 Bb3:1 | A3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:1 | E3:1 C3:1 D3:1 C3:1 | F3:3 E3:1 | D3:1 F3:0.5 E3:0.5 D3:1 D3:1 | C3:3 F3:1 | Bb2:1 Bb2:1 D3:1 D3:1 | E3:1 A2:1 D3:1 C3:1 | Bb2:1 A2:1 G2:1 A2:0.5 Bb2:0.5 | C3:3 r:1 | r:1 C3:0.5 D3:0.5 E3:2 | r:1 D3:0.5 E3:0.5 F3:1 Eb3:1 | D3:1 C3:0.5 Bb2:0.5 C3:1 C3:1 F3:3"
+    }
+  ]
+}

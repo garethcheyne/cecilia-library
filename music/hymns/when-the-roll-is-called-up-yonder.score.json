@@ -1,0 +1,58 @@
+{
+  "id": "when-the-roll-is-called-up-yonder",
+  "title": "When The Roll Is Called Up Yonder",
+  "composer": "James Milton Black (1856–1938); harmony by Charles Hutchinson Gabriel (1856–1932)",
+  "melody": "WHEN THE ROLL IS CALLED UP YONDER",
+  "copyright": "Public domain",
+  "publication": "\"Epworth Songs\", 1893 Hymn 57.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "Ab",
+  "pickup": 1.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Ab4:0.75 Bb4:0.25 | C5:0.75 C5:0.25 C5:0.75 C5:0.25 C5:0.75 Bb4:0.25 Ab4:0.75 Ab4:0.25 | Bb4:0.75 Ab4:0.25 Ab4:0.75 F4:0.25 Eb4:1 Ab4:0.75 Bb4:0.25 | C5:0.75 C5:0.25 C5:0.75 C5:0.25 C5:0.75 C5:0.25 Bb4:0.75 Ab4:0.25 | Bb4:3 Ab4:0.75 Bb4:0.25 | C5:0.75 C5:0.25 C5:0.75 C5:0.25 C5:0.75 Bb4:0.25 Ab4:0.75 Ab4:0.25 | Bb4:0.75 Ab4:0.25 Ab4:0.75 F4:0.25 Eb4:1 Ab4:0.75 Bb4:0.25 | C5:0.75 C5:0.25 C5:0.75 Ab4:0.25 Bb4:0.75 Bb4:0.25 Bb4:0.75 G4:0.25 | Ab4:3 C5:0.75 C#5:0.25 | Eb5:2~ Eb5:0.75 C#5:0.25 C5:0.75 C#5:0.25 | Eb5:2 C5:1 C5:0.75 C5:0.25 | C#5:2~ C#5:0.75 C5:0.25 Bb4:0.75 C5:0.25 | C#5:2 Bb4:1 C5:0.75 C#5:0.25 | Eb5:2~ Eb5:0.75 C5:0.25 Bb4:0.75 Ab4:0.25 | Ab4:2 C#5:1 C#5:0.75 Bb4:0.25 | C5:0.75 C5:0.25 C5:0.75 Ab4:0.25 Bb4:0.75 Bb4:0.25 Bb4:0.75 G4:0.25 | Ab4:3"
+    },
+    {
+      "division": "great",
+      "notes": "C4:0.75 C#4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 | C#4:0.75 C#4:0.25 C#4:0.75 C#4:0.25 C4:1 C4:0.75 C#4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 D4:0.25 | Eb4:3 C4:0.75 C#4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 | C#4:0.75 C#4:0.25 C#4:0.75 C#4:0.25 C4:1 C4:0.75 C#4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 C4:0.25 C#4:0.75 C#4:0.25 C#4:0.75 C#4:0.25 | C4:3 Ab4:0.75 Bb4:0.25 | C5:2~ C5:0.75 Bb4:0.25 Ab4:0.75 Bb4:0.25 | C5:2 Ab4:1 Ab4:0.75 Ab4:0.25 | Bb4:2~ Bb4:0.75 Ab4:0.25 G4:0.75 Ab4:0.25 | Bb4:2 G4:1 Ab4:0.75 Bb4:0.25 | C5:2~ C5:0.75 Ab4:0.25 Eb4:0.75 Eb4:0.25 | F4:2 F4:1 F4:0.75 F4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 C4:0.25 C#4:0.75 C#4:0.25 C#4:0.75 C#4:0.25 | C4:3"
+    },
+    {
+      "division": "great",
+      "notes": "Ab3:0.75 Ab3:0.25 | Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Ab3:0.75 G3:0.25 Ab3:0.75 Ab3:0.25 | F3:0.75 F3:0.25 F3:0.75 Ab3:0.25 Ab3:1 Ab3:0.75 Ab3:0.25 | Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Bb3:0.75 Bb3:0.25 | G3:3 Ab3:0.75 Ab3:0.25 | Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Ab3:0.75 G3:0.25 Ab3:0.75 Ab3:0.25 | F3:0.75 F3:0.25 F3:0.75 Ab3:0.25 Ab3:1 Ab3:0.75 Ab3:0.25 | Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 G3:0.75 G3:0.25 G3:0.75 Bb3:0.25 | Ab3:3 r:1 | r:1 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:1 r:1 | r:1 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 | Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 Eb4:1 r:1 | r:1 Eb4:0.75 Eb4:0.25 Eb4:0.75 Eb4:0.25 C#4:0.75 C4:0.25 | C#4:2 Ab3:1 Ab3:0.75 Ab3:0.25 | Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 G3:0.75 G3:0.25 G3:0.75 Bb3:0.25 | Ab3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "Ab2:0.75 Ab2:0.25 | Ab2:0.75 Ab2:0.25 Ab2:0.75 Ab2:0.25 Ab2:0.75 Bb2:0.25 C3:0.75 C3:0.25 | C#3:0.75 C#3:0.25 C#3:0.75 C#3:0.25 Ab2:1 Ab2:0.75 Ab2:0.25 | Ab2:0.75 Ab2:0.25 Ab2:0.75 Ab2:0.25 Ab3:0.75 Ab3:0.25 G3:0.75 F3:0.25 | Eb3:3 Ab2:0.75 Ab2:0.25 | Ab2:0.75 Ab2:0.25 Ab2:0.75 Ab2:0.25 Ab2:0.75 Bb2:0.25 C3:0.75 C3:0.25 | C#3:0.75 C#3:0.25 C#3:0.75 C#3:0.25 Ab2:1 Ab2:0.75 Ab2:0.25 | Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 | Ab2:3 r:1 | r:1 Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 | Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Ab3:1 r:1 | r:1 Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 | Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 Eb3:1 r:1 | r:1 Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 Ab3:0.75 Ab3:0.25 | C#3:2 C#3:1 C#3:0.75 C#3:0.25 | Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 Eb3:0.75 Eb3:0.25 | Ab2:3"
+    }
+  ]
+}

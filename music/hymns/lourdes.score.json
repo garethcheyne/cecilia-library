@@ -1,0 +1,72 @@
+{
+  "id": "lourdes",
+  "title": "Immaculate Mary",
+  "composer": "Traditional (Lourdes pilgrims' hymn, 19th century)",
+  "melody": "LOURDES HYMN",
+  "publication": "Cecilia library arrangement (harmony: Cecilia contributors)",
+  "copyright": "Tune public domain; this harmonisation CC0",
+  "bpm": 100,
+  "time": "3/4",
+  "key": "G",
+  "pickup": 1,
+  "verses": 4,
+  "gap": 2,
+  "registration": [
+    "great flute 8",
+    "great flute 4",
+    "swell flute 8",
+    "swell string 8",
+    "swell to great",
+    "pedal flute 16",
+    "swell to pedal"
+  ],
+  "verse_registration": {
+    "2": [
+      "-great flute 4",
+      "+swell celeste 8",
+      "+swell tremulant"
+    ],
+    "3": [
+      "-swell tremulant",
+      "-swell celeste 8",
+      "+great principal 8",
+      "+swell principal 4"
+    ],
+    "4": [
+      "+great principal 4",
+      "+great flute 4",
+      "-swell to pedal",
+      "+great to pedal",
+      "+pedal principal 8"
+    ]
+  },
+  "expression": {
+    "swell": 80
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D4:1 | G4:1 G4:1 B4:1 | G4:1 G4:1 B4:1 | A4:1 A4:1 B4:1/2 A4:1/2 | G4:2 D4:1 | G4:1 G4:1 B4:1 | G4:1 G4:1 B4:1 | A4:1 A4:1 B4:1/2 A4:1/2 | G4:2 r:1 | C5:2 C5:1 | B4:2 B4:1 | A4:1 A4:1 A4:1 | D5:2 G4:1 | C5:2 C5:1 | B4:1 B4:1 B4:1 | A4:2 B4:1/2 A4:1/2 | G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 | D4:2 G4:1~ | G4:1 G4:1 G4:1 | E4:1 F#4:2 | D4:2 D4:1 | D4:1 E4:1 G4:1 | G4:2 G4:1 | F#4:1 F#4:1 F#4:1 | G4:2 r:1 | G4:2 G4:1 | G4:2 G4:1 | F#4:1 F#4:1 F#4:1 | G4:2 G4:1~ | G4:2 A4:1 | G4:1 G4:1 G4:1 | F#4:2 G4:1/2 F#4:1/2 | G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 | B3:2 B3:1~ | B3:1 B3:1 B3:1 | C4:1 C4:2 | B3:2 A3:1 | B3:1 B3:1 D4:1 | E4:2 D4:1 | D4:1 D4:1 C4:1 | B3:2 r:1 | E4:2 E4:1 | D4:2 D4:1 | D4:1 D4:1 D4:1 | D4:2 E4:1~ | E4:2 E4:1 | D4:1 E4:1 D4:1 | D4:2 D4:1/2 C4:1/2 | B3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "F#3:1 | G2:2 E2:1~ | E2:1 G2:1 E2:1 | A2:1 D3:2 | G3:2 F#3:1 | G2:1 E3:1 B2:1 | C3:2 B2:1 | F#3:1 D3:1 D3:1 | G3:2 r:1 | C3:2 E3:1 | G3:2 D3:1 | D3:1 F#3:1 D3:1 | B2:2 C3:1~ | C3:2 E3:1 | B2:1 C3:1 D3:1 | D3:2 D3:1/2 D3:1/2 | G3:2"
+    }
+  ],
+  "licence": "CC0-1.0",
+  "tags": [
+    "hymn",
+    "marian",
+    "reflective",
+    "procession"
+  ],
+  "source": "Melody checked against the score in the English Wikipedia article \"Immaculate Mary\" and the page scan of One in Faith no. 909 (hymnary.org); the verse also matches the Common Praise (2000) no. 80 MIDI on hymnary.org (whose refrain rhythm differs slightly). Harmony newly written for Cecilia."
+}

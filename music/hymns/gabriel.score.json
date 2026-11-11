@@ -1,0 +1,59 @@
+{
+  "id": "gabriel",
+  "title": "Gabriel's Message",
+  "composer": "Traditional Basque; harmony by Edgar Pettman (1866 – 1943)",
+  "melody": "GABRIEL",
+  "copyright": "Public domain",
+  "publication": "Public domain representation in another format by Andrew Crookall at 'http://www.andrewcrookall.com/editions.htm', 24 June 2005.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "advent"
+  ],
+  "bpm": 200.0,
+  "time": "3/4",
+  "key": "C",
+  "pickup": 1.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "E4:1 | A4:2 C5:1 | B4:2 D5:1 | C5:2 B4:1 | A4:3 | B4:3 | E4:3~ | E4:2 E4:1 | A4:2 C5:1 | B4:2 D5:1 | C5:2 B4:1 | A4:3~ | A4:2 G4:1 | A4:3~ | A4:2 C5:1 | C5:2 D5:1 | C5:2 B4:1 | C5:2 D5:1 | E5:2 E5:1 | D5:3 | C5:3 | B4:3 | B4:2 C5:1 | D5:2 C5:1 | B4:2 A4:1 | B4:3 | E4:3 | A4:3 | C5:1 B4:1 C5:1 | A4:3 | A4:2 G4:1 | A4:3~ | A4:3"
+    },
+    {
+      "division": "great",
+      "notes": "E4:1 | C4:2 E4:1 | D4:2 F4:1 | E4:2 D4:1 | E4:3 | F4:3 | D4:3~ | D4:2 D4:1 | C4:2 E4:1 | D4:2 F4:1 | E4:2 F4:1 | E4:3~ | E4:3 | E4:3~ | E4:2 E4:1 | E4:2 F4:1 | E4:2 F4:1 | G4:2 F4:1 | E4:2 E4:1 | A4:3 | A4:3 | A4:3 | G4:2 G4:1 | D4:2 D4:1 | D4:2 D4:1 | D4:3 | D4:3 | C4:3 | F4:3 | E4:3 | E4:3 | C4:3~ | C4:3"
+    },
+    {
+      "division": "great",
+      "notes": "E3:1 | E3:2 E3:1 | E3:2 E3:1 | E3:2 E3:1 | C4:3 | D4:3 | B3:3~ | B3:2 B3:1 | A3:2 A3:1 | A3:2 A3:1 | A3:2 B3:1 | C4:3 | B3:3 | C4:3~ | C4:2 C4:1 | C4:2 G3:1 | G3:2 D4:1 | C4:2 B3:1 | C4:2 C4:1 | A3:3 | D4:3 | D4:3~ | D4:2 C4:1 | A3:2 A3:1 | A3:2 A3:1 | A3:3 | Ab3:3 | A3:3~ | A3:3 | C4:3 | B3:3 | A3:3~ | A3:3"
+    },
+    {
+      "division": "great",
+      "notes": "E3:1 | A2:2 A2:1 | A2:2 A2:1 | A2:2 A2:1 | A3:3 | A3:3 | A3:3 | Ab3:2 G3:1 | A3:2 A2:1 | A2:2 A2:1 | A2:2 D3:1 | C3:3 | E3:3 | A3:3~ | A3:2 C3:1 | C3:2 B2:1 | C3:2 D3:1 | E3:2 D3:1 | C3:2 C3:1 | F3:3 | F#3:3 | G3:3~ | G3:2 E3:1 | F3:2 F3:1 | F3:2 F3:1 | E3:3 | E3:3 | F3:3 | D3:3 | C3:3 | E3:3 | [A2 E3]:3~ | [A2 E3]:3"
+    }
+  ]
+}

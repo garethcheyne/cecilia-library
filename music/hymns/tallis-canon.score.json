@@ -10,7 +10,7 @@
   "key": "G",
   "verses": 4,
   "gap": 2,
-  "ceciliation": [
+  "registration": [
     "great principal 8",
     "great flute 8",
     "swell flute 8",
@@ -19,7 +19,7 @@
     "pedal flute 16",
     "great to pedal"
   ],
-  "verse_ceciliation": {
+  "verse_registration": {
     "2": [
       "-great principal 8",
       "-swell principal 4",

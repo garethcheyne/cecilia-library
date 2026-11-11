@@ -1,0 +1,58 @@
+{
+  "id": "i-need-thee-every-hour",
+  "title": "I Need Thee Every Hour",
+  "composer": "Robert Lowry (1826–1899)",
+  "melody": "I NEED THEE EVERY HOUR",
+  "copyright": "Public domain",
+  "publication": "\"Pentecostal Hymns, No. 2\" 1898 page 155.   ABC file contributed to the Open Hymnal by Samuel Cantrell, 18 Jan 2012.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 80.0,
+  "time": "3/4",
+  "key": "Ab",
+  "pickup": 0.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Ab4:1 C5:1.5 Bb4:0.5 Ab4:0.5 G4:0.5 Ab4:2 Ab4:1 Ab4:1.5 Bb4:0.5 Ab4:0.5 F4:0.5 Eb4:2 Eb4:1 Bb4:1.5 C5:0.5 Bb4:0.5 Eb4:0.5 C5:2 Ab4:1 G4:1.5 Ab4:0.5 G4:0.5 F4:0.5 Eb4:2 C5:1 C5:1.5 Ab4:0.5 C#5:0.5 C5:0.5 C5:1 Bb4:2 Bb4:1.5 Ab4:0.5 C5:0.5 Bb4:0.5 Bb4:1 Ab4:1 Ab4:1 Ab4:1.5 Bb4:0.5 Ab4:0.5 F4:0.5 Eb4:1 Ab4:1 Bb4:1 C5:1.5 Ab4:0.5 Bb4:1 Ab4:2"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 Eb4:1.5 C#4:0.5 C4:0.5 Bb3:0.5 C4:2 C4:1 C#4:2 C#4:1 C4:2 Eb4:1 Eb4:1.5 Eb4:0.5 Eb4:0.5 Eb4:0.5 Eb4:2 Eb4:1 Eb4:1.5 F4:0.5 Eb4:0.5 D4:0.5 Eb4:2 Ab4:1 Ab4:1.5 Eb4:0.5 Ab4:0.5 Ab4:0.5 Ab4:1 G4:2 Eb4:1.5 Eb4:0.5 Eb4:0.5 Eb4:0.5 Eb4:1 Eb4:1 Eb4:1 F4:1.5 F4:0.5 F4:0.5 C#4:0.5 C4:1 Eb4:1 F4:1 Eb4:1.5 C4:0.5 C#4:1 C4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Eb3:1 Ab3:1.5 F3:0.5 Eb3:0.5 Eb3:0.5 Eb3:2 Eb3:1 F3:2 F3:0.5 Ab3:0.5 Ab3:2 G3:1 G3:1.5 Ab3:0.5 G3:0.5 G3:0.5 Ab3:2 C4:1 Bb3:2 Bb3:0.5 Ab3:0.5 G3:2 Eb4:1 Eb4:1.5 C4:0.5 F4:0.5 Eb4:0.5 Eb4:1 Eb4:2 C#4:1.5 C4:0.5 Eb4:0.5 C#4:0.5 C#4:1 C4:1 Ab3:1 Ab3:1.5 Ab3:0.5 Ab3:0.5 Ab3:0.5 Ab3:1 Ab3:1 Ab3:1 Ab3:2 G3:1 Ab3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "Ab2:1 Ab2:1.5 C#3:0.5 Eb3:0.5 Eb3:0.5 Ab2:2 Ab2:1 C#3:2 C#3:1 Ab2:2 Eb3:1 Eb3:1.5 Eb3:0.5 Eb3:0.5 Eb3:0.5 Ab3:2 Ab2:1 Bb2:2 Bb2:1 Eb3:2 Ab3:1 Ab3:1.5 Ab3:0.5 Ab3:0.5 Ab3:0.5 Eb3:1 Eb3:2 Eb3:1.5 Eb3:0.5 Eb3:0.5 Eb3:0.5 Ab2:1 Ab2:1 C3:1 C#3:1.5 C#3:0.5 C#3:0.5 C#3:0.5 Ab2:1 C3:1 C#3:1 Eb3:2 Eb3:1 Ab2:2"
+    }
+  ]
+}

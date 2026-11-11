@@ -1,0 +1,58 @@
+{
+  "id": "under-his-wings",
+  "title": "Under His Wings",
+  "composer": "Ira David Sankey (1840–1908)",
+  "melody": "UNDER HIS WINGS",
+  "copyright": "Public domain",
+  "publication": "\"Church Hymns and Gospel Songs, 1898 Hymn 265.  Ed. Ira D. Sankey.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 110.0,
+  "time": "6/4",
+  "key": "Db",
+  "pickup": 0.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:1 F#4:1 G4:1 Ab4:2 Ab4:0.5 Ab4:0.5 | Ab4:1 Bb4:1 F4:1 Ab4:1 F#4:2 | Eb4:1 F4:1 F#4:1 Bb4:1 Ab4:1 Ab4:1 | Ab4:1 Eb4:1 E4:1 F4:3 | F4:1 F#4:1 G4:1 Ab4:1 Ab4:1 C#5:1 | Eb5:1 C#5:1 Bb4:1 Bb4:1 Ab4:2 | Bb4:1 C5:1 C#5:1 C#5:1 Ab4:1 F4:1 | Ab4:1 F#4:1 Eb4:1 C#4:3 | Ab4:1 F4:1 Ab4:1 C#5:3 | C5:1 Bb4:1 C5:1 C#5:3 | C#5:1 Ab4:1 F4:1 Bb4:1 Ab4:1 F4:1 | F4:1 Eb4:4 r:1 | C#4:1 F4:1 Ab4:1 C#5:2 C5:1 | Eb5:1 C#5:1 Bb4:1 Ab4:3 | Bb4:1 C5:1 C#5:1 Ab4:1 F4:1 C#4:1 | Eb4:3 C#4:2 r:1"
+    },
+    {
+      "division": "great",
+      "notes": "C#4:1 Eb4:1 E4:1 F4:2 F4:0.5 F4:0.5 | F4:1 F#4:1 C#4:1 C4:1 C4:2 | C4:1 C#4:1 Eb4:1 F#4:1 F4:1 F4:1 | F4:1 C4:1 C4:1 C#4:3 | C#4:1 Eb4:1 E4:1 F4:1 F4:1 Ab4:1 | Bb4:1 Bb4:1 F#4:1 F#4:1 F4:2 | F#4:1 F#4:1 F4:1 F4:1 F4:1 C#4:1 | F4:1 Eb4:1 C4:1 C#4:3 | F4:1 C#4:1 F4:1 F4:3 | F#4:1 F#4:1 F#4:1 F4:3 | F4:1 F4:1 F4:1 F#4:1 F4:1 C#4:1 | C#4:1 C4:4 r:1 | C#4:1 C#4:1 F4:1 F4:2 Ab4:1 | F#4:1 F#4:1 F#4:1 F4:3 | F#4:1 F#4:1 F4:1 F4:1 C#4:1 Ab3:1 | C4:3 C#4:2 r:1"
+    },
+    {
+      "division": "great",
+      "notes": "Ab3:1 Ab3:1 Bb3:1 C#4:2 C#4:0.5 C#4:0.5 | C#4:1 C#4:1 Ab3:1 Ab3:1 Ab3:2 | Ab3:1 Ab3:1 Ab3:1 Ab3:1 Ab3:1 Ab3:1 | Ab3:1 Ab3:1 Ab3:1 Ab3:3 | Ab3:1 Ab3:1 Bb3:1 C#4:1 C#4:1 C#4:1 | C#4:1 C#4:1 C#4:1 C#4:1 C#4:2 | C#4:1 C4:1 Bb3:1 Ab3:1 C#4:1 Ab3:1 | Ab3:1 Ab3:1 F#3:1 F3:3 | C#4:1 C#4:1 C#4:1 Ab3:3 | Ab3:1 Eb4:1 Eb4:1 Ab3:3 | Ab3:1 C#4:1 C#4:1 C#4:2 Ab3:1 | Ab3:1 Ab3:4 r:1 | F3:1 Ab3:1 C#4:1 Ab3:2 C#4:1 | Bb3:1 Bb3:1 C#4:1 C#4:3 | C#4:1 Ab3:1 Ab3:1 C#4:1 Ab3:1 F3:1 | F#3:3 F3:2 r:1"
+    },
+    {
+      "division": "pedal",
+      "notes": "C#3:1 C#3:1 C#3:1 C#3:2 C#3:0.5 C#3:0.5 | C#3:1 C#3:1 C#3:1 Eb3:1 Eb3:2 | Ab2:1 Ab2:1 Ab2:1 Ab2:1 Ab2:1 Ab2:1 | Ab2:1 Ab2:1 Ab2:1 C#3:3 | C#3:1 C#3:1 C#3:1 C#3:1 C#3:1 F3:1 | F#3:1 F#3:1 F#3:1 C#3:1 C#3:2 | F#3:1 F#3:1 F#3:1 C#3:1 C#3:1 C#3:1 | Ab2:1 Ab2:1 Ab2:1 C#3:3 | C#3:1 C#3:1 C#3:1 C#3:3 | Ab3:1 Ab3:1 Ab2:1 C#3:3 | C#3:1 C#3:1 C#3:1 C#3:2 F3:1 | Ab3:1 Ab3:4 r:1 | C#3:1 C#3:1 C#3:1 C#3:2 F3:1 | F#3:1 F#3:1 F#2:1 C#3:3 | F#3:1 Eb3:1 C#3:1 C#3:2 C#3:1 | Ab2:3 C#3:2 r:1"
+    }
+  ]
+}

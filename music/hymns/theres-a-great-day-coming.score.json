@@ -1,0 +1,58 @@
+{
+  "id": "theres-a-great-day-coming",
+  "title": "There's a Great Day Coming",
+  "composer": "Will Lamartine Thompson (1847–1909)",
+  "melody": "THERES A GREAT DAY COMING",
+  "copyright": "Public domain",
+  "publication": "Alexander's Hymns No. 3, 1915, Hymn 283.  ABC file contributed to the Open Hymnal by Samuel Cantrell, 14 Jan 2011.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 80.0,
+  "time": "4/4",
+  "key": "G",
+  "pickup": 1.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D4:0.5 D4:0.5 | G4:1 G4:1 G4:0.25 G4:0.75 r:0.5 G4:0.5 | B4:1 B4:1 A4:0.25 G4:0.75 E4:0.5 D4:0.5 | G4:1 G4:1 G4:0.25 G4:0.75 A4:0.5 B4:0.5 | A4:3 G4:0.5 A4:0.5 | B4:1 B4:0.5 B4:0.5 B4:0.5 D5:0.5 D5:0.5 B4:0.5 | A4:0.5 G4:0.5 G4:0.5 E4:0.5 D4:1 D4:0.5 D4:0.5 | G4:0.25 G4:0.75 G4:0.5 G4:0.5 A4:1 A4:1 | G4:3 r:1 | D5:1.5 D5:0.5 E5:0.5 D5:0.5 r:1 | B4:1.5 B4:0.5 C5:0.5 B4:0.5 r:1 | G4:1.5 G4:0.5 G4:0.5 G4:0.5 G4:0.5 G4:0.5 | B4:1 A4:1 A4:2 | D5:1.5 D5:0.5 E5:0.5 D5:0.5 r:1 | B4:1.5 B4:0.5 C5:0.5 B4:0.5 r:1 | G4:1.5 G4:0.5 A4:1 A4:1 | G4:3"
+    },
+    {
+      "division": "great",
+      "notes": "B3:0.5 B3:0.5 | B3:1 B3:1 B3:0.25 B3:0.75 r:0.5 B3:0.5 | D4:1 D4:1 C4:0.25 B3:0.75 C4:0.5 B3:0.5 | B3:1 B3:1 D4:0.25 D4:0.75 D4:0.5 D4:0.5 | D4:3 D4:0.5 D4:0.5 | D4:1 D4:0.5 D4:0.5 D4:0.5 D4:0.5 D4:0.5 D4:0.5 | E4:0.5 E4:0.5 E4:0.5 C4:0.5 B3:1 B3:0.5 B3:0.5 | D4:0.25 D4:0.75 D4:0.5 D4:0.5 C4:1 C4:1 | B3:3 r:1 | G4:1.5 G4:0.5 G4:0.5 G4:0.5 r:1 | G4:1.5 G4:0.5 G4:0.5 G4:0.5 r:1 | D4:1.5 D4:0.5 B3:0.5 B3:0.5 D4:0.5 D4:0.5 | C#4:1 C#4:1 D4:2 | G4:1.5 G4:0.5 G4:0.5 G4:0.5 r:1 | G4:1.5 G4:0.5 G4:0.5 G4:0.5 r:1 | D4:1.5 D4:0.5 C4:1 C4:1 | B3:3"
+    },
+    {
+      "division": "great",
+      "notes": "G3:0.5 G3:0.5 | G3:1 G3:1 G3:0.25 G3:0.75 r:0.5 G3:0.5 | G3:1 G3:1 G3:0.25 G3:0.75 G3:0.5 G3:0.5 | G3:1 G3:1 G3:0.25 G3:0.75 F#3:0.5 G3:0.5 | F#3:3 G3:0.5 F#3:0.5 | G3:1 G3:0.5 G3:0.5 G3:0.5 B3:0.5 B3:0.5 G3:0.5 | C4:0.5 C4:0.5 C4:0.5 G3:0.5 G3:1 G3:0.5 G3:0.5 | G3:0.25 G3:0.75 G3:0.5 G3:0.5 F#3:1 F#3:1 | G3:3 r:1 | B3:1.5 B3:0.5 C4:0.5 B3:0.5 r:1 | D4:1.5 D4:0.5 E4:0.5 D4:0.5 r:1 | G3:1.5 G3:0.5 G3:0.5 G3:0.5 G3:0.5 G3:0.5 | G3:1 E3:1 F#3:2 | B3:1.5 B3:0.5 C4:0.5 B3:0.5 r:1 | D4:1.5 D4:0.5 E4:0.5 D4:0.5 r:1 | G3:1.5 G3:0.5 F#3:1 F#3:1 | D3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "G2:0.5 G2:0.5 | G2:1 G2:1 G2:0.25 G2:0.75 r:0.5 G2:0.5 | G3:1 G3:1 G3:0.25 G3:0.75 G3:0.5 G3:0.5 | G2:1 G2:1 B2:0.25 B2:0.75 A2:0.5 G2:0.5 | D3:3 B2:0.5 D3:0.5 | G3:1 G3:0.5 G3:0.5 G3:0.5 G3:0.5 G3:0.5 G3:0.5 | C3:0.5 C3:0.5 C3:0.5 C3:0.5 G2:1 G2:0.5 G2:0.5 | B2:0.25 B2:0.75 B2:0.5 B2:0.5 D3:1 D3:1 | G2:3 r:1 | G3:1.5 G3:0.5 G3:0.5 G3:0.5 r:1 | G3:1.5 G3:0.5 G3:0.5 G3:0.5 r:1 | B2:1.5 B2:0.5 G2:0.5 G2:0.5 B2:0.5 B2:0.5 | A2:1 A2:1 D3:2 | G3:1.5 G3:0.5 G3:0.5 G3:0.5 r:1 | G3:1.5 G3:0.5 G3:0.5 G3:0.5 r:1 | B2:1.5 B2:0.5 D3:1 D3:1 | G2:3"
+    }
+  ]
+}

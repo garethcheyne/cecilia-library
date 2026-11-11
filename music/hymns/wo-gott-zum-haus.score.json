@@ -1,0 +1,62 @@
+{
+  "id": "wo-gott-zum-haus",
+  "title": "Happy the Man Who Feareth God",
+  "composer": "Klug's Geistliche Lieder, Wittenberg, 1533",
+  "melody": "WO GOTT ZUM HAUS",
+  "copyright": "Public domain",
+  "publication": "",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "other_titles": [
+    "Oh, Blest the House",
+    "The Star Proclaims the King is Here"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 0.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:2 Bb4:1 Bb4:1 | G4:1 F4:1 G4:1 A4:1 | Bb4:1.5 Bb4:0.5 G4:1 Bb4:1 | Ab4:1 Bb4:1 G4:1 F4:1 | Eb4:1.5 Bb4:0.5 C5:1 C5:1 | G4:1 Bb4:1 Ab4:1 Ab4:1 | G4:1.5 Eb5:0.5 D5:1 C5:1 | Bb4:1 C5:1 Ab4:0.5 G4:0.5 F4:1 | Eb4:4"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:2 Eb4:1 F4:1 | Eb4:1 D4:1 Bb3:1 C4:1 | D4:1.5 Eb4:0.5 Eb4:1 F4:1 | F4:1 F4:1 Eb4:1 D4:1 | Eb4:1.5 Eb4:0.5 Eb4:1 Eb4:1 | Eb4:1 F4:1 F4:1 F4:1 | E4:1.5 Eb4:0.5 G4:1 Eb4:1 | Eb4:1 Eb4:1 C4:1 D4:1 | Eb4:4"
+    },
+    {
+      "division": "great",
+      "notes": "G3:2 G3:1 F3:1 | Bb3:1 Bb3:1 G3:1 Eb3:1 | F3:1.5 G3:0.5 Bb3:1 D4:1 | C4:1 Bb3:1 Bb3:1 Bb3:1 | G3:1.5 G3:0.5 Ab3:1 Ab3:1 | Bb3:1 D4:1 C4:1 C4:1 | C4:1.5 G3:0.5 Bb3:1 Ab3:1 | G3:1 G3:1 Ab3:1 Bb3:1 | G3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:2 Eb3:1 D3:1 | Eb3:1 Bb2:1 Eb3:1 C3:1 | Bb2:1.5 Eb3:0.5 Eb3:1 Bb2:1 | F3:1 D3:1 Eb3:1 Bb2:1 | Eb3:1.5 Eb3:0.5 Ab2:1 C3:1 | Eb3:1 Bb2:1 F3:1 F2:1 | C3:1.5 C3:0.5 G2:1 Ab2:1 | Eb3:1 C3:1 F3:1 Bb2:1 | Eb3:4"
+    }
+  ]
+}

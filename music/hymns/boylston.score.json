@@ -1,0 +1,58 @@
+{
+  "id": "boylston",
+  "title": "Blest Be The Tie That Binds",
+  "composer": "Lowell Mason (1792–1872)",
+  "melody": "BOYLSTON",
+  "copyright": "Public domain",
+  "publication": "\"The Psaltry\" 1845 by Lowell Mason Page 151.  In The Psaltry, the Tenor carries the melody.  It is moved to the Soprano.  The Soprano is then lowered one octave and made the Tenor part.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 90.0,
+  "time": "3/4",
+  "key": "C",
+  "pickup": 1.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:1 | E4:0.5 F4:0.5 G4:1 A4:1 | G4:2 C5:1 | C5:0.5 B4:0.5 A4:1 A4:1 | G4:2 G4:1 | E4:0.5 F4:0.5 G4:1 G4:1 | A4:0.5 B4:0.5 C5:1 B4:1 | C5:0.5 A4:0.5 G4:1 G4:1 | G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "E4:1 | C4:0.5 D4:0.5 E4:1 F4:1 | E4:2 E4:1 | E4:0.25 F#4:0.25 G4:0.5 G4:1 F#4:1 | G4:2 E4:1 | C4:0.5 B3:0.5 C4:1 E4:1 | F4:0.5 F4:0.5 E4:1 F4:1 | G4:0.5 F4:0.5 D4:0.5 E4:0.5 F4:1 | E4:2"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 | G3:0.5 G3:0.5 G3:0.5 C4:0.5 C4:1 | C4:2 C4:1 | C4:0.5 D4:0.5 E4:1 D4:0.5 C4:0.5 | B3:2 C4:1 | G3:0.5 G3:0.5 G3:1 C4:1 | C4:0.5 G3:0.5 G3:1 G3:1 | G3:0.5 A3:0.5 B3:0.5 C4:0.5 D4:1 | C4:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "C3:1 | C3:0.5 C3:0.5 C3:1 F3:1 | C3:2 C3:1 | A2:0.5 B2:0.5 C3:1 D3:1 | G2:2 C3:1 | C3:0.5 D3:0.5 E3:1 C3:1 | F3:0.5 D3:0.5 C3:1 D3:1 | E3:0.5 F3:0.5 G3:1 G2:1 | C3:2"
+    }
+  ]
+}

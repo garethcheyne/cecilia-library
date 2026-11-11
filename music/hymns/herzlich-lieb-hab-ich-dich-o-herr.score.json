@@ -1,0 +1,58 @@
+{
+  "id": "herzlich-lieb-hab-ich-dich-o-herr",
+  "title": "Lord, Thee I Love with All My Heart",
+  "composer": "Strassburg, 1577",
+  "melody": "HERZLICH LIEB HAB ICH DICH O HERR",
+  "copyright": "Public domain",
+  "publication": "Evangelical Lutheran Hymn Book, 1931, Hymn 366.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "Bb",
+  "pickup": 0.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Bb4:2 A4:1 G4:1 | F4:1 Eb4:0.5 D4:0.5 G4:1 G4:1 | F4:2 Bb4:2 | A4:1 G4:1 F4:1 Eb4:0.5 D4:0.5 | G4:1 G4:1 F4:1 F4:1 | G4:1 A4:1 Bb4:1 D5:1 | C5:1 Bb4:2 A4:1 | Bb4:4 | Bb4:2 A4:1 G4:1 | F4:1 Eb4:0.5 D4:0.5 G4:1 G4:1 | F4:2 Bb4:2 | A4:1 G4:1 F4:1 Eb4:0.5 D4:0.5 | G4:1 G4:1 F4:1 F4:1 | G4:1 A4:1 Bb4:1 D5:1 | C5:1 Bb4:2 A4:1 | Bb4:3 Bb4:1 | Bb4:1 C5:1 Bb4:1 G4:1 | Bb4:1 Bb4:1 A4:1 A4:1 | Bb4:1 C5:1 Bb4:1 G4:1 | Bb4:1 Bb4:1 A4:2 | Bb4:1 D5:0.5 D5:0.5 C5:0.5 Bb4:0.5 Bb4:0.5 A4:0.5 | Bb4:1 A4:1 Bb4:2~ | Bb4:1 A4:1 G4:1 F4:1 | F4:1 E4:1 F4:2 | r:2 D5:2 | C5:2 Bb4:2 | A4:1 D5:1 Eb5:1 C5:1 | Bb4:1 C5:1 Bb4:1 A4:1 | Bb4:1.5 Bb4:0.5 Bb4:1 Bb4:1 | C5:1 Bb4:1 Bb4:1 A4:1 | Bb4:4"
+    },
+    {
+      "division": "great",
+      "notes": "F4:2 F4:1 Eb4:1 | C4:1 Bb3:1 Bb3:1 Eb4:1 | D4:2 G4:2 | F4:1 Eb4:1 C4:1 Bb3:1 | Bb3:1 C4:1 D4:1 D4:1 | Eb4:1 Eb4:1 F4:2 | F4:1 D4:1 Eb4:1 F4:1 | F4:4 | F4:2 F4:1 Eb4:1 | C4:1 Bb3:1 Bb3:1 Eb4:1 | D4:2 G4:2 | F4:1 Eb4:1 C4:1 Bb3:1 | Bb3:1 C4:1 D4:1 D4:1 | Eb4:1 Eb4:1 F4:2 | F4:1 D4:1 Eb4:1 F4:1 | F4:3 D4:1 | F4:1 F4:1 F4:1 Eb4:1 | D4:1 E4:1 F4:1 F4:1 | F4:1 F4:1 F4:1 Eb4:1 | F4:1 G4:1 F4:2 | F4:1 F4:0.5 F4:0.5 F4:0.5 D4:0.5 G4:0.5 F4:0.5 | F4:1 F4:1 F4:2~ | F4:1 F4:1 D4:1 D4:1 | D4:1 C4:1 C4:2 | r:2 F4:2 | F4:2 D4:1 E4:1 | F4:1 F4:1 G4:1 F4:1 | D4:1 G4:1 F4:1 F4:1 | F4:1.5 F4:0.5 G4:1 F4:1 | F4:1 F4:1 G4:1 F4:1 | F4:4"
+    },
+    {
+      "division": "great",
+      "notes": "D4:2 C4:1 Bb3:1 | F3:1 F3:1 G3:1 Bb3:1 | Bb3:2 D4:2 | D4:1 Bb3:1 A3:1 F3:1 | G3:1 G3:1 A3:1 Bb3:1 | Bb3:1 C4:1 Bb3:2 | A3:1 Bb3:2 C4:1 | D4:4 | D4:2 C4:1 Bb3:1 | F3:1 F3:1 G3:1 Bb3:1 | Bb3:2 D4:2 | D4:1 Bb3:1 A3:1 F3:1 | G3:1 G3:1 A3:1 Bb3:1 | Bb3:1 C4:1 Bb3:2 | A3:1 Bb3:2 C4:1 | Bb3:3 Bb3:1 | D4:1 C4:1 D4:1 Bb3:1 | Bb3:1 Bb3:1 C4:1 C4:1 | D4:1 C4:1 D4:1 Bb3:1 | D4:1 C4:1 C4:2 | Bb3:1 Bb3:0.5 Bb3:0.5 A3:0.5 Bb3:0.5 C4:0.5 C4:0.5 | D4:1 C4:1 D4:2~ | D4:1 C4:1 Bb3:1 A3:1 | G3:1 G3:1 A3:2 | r:2 Bb3:2 | A3:2 Bb3:2 | C4:1 Bb3:1 Bb3:1 A3:1 | Bb3:1 Eb4:1 D4:1 C4:1 | D4:1.5 D4:0.5 Eb4:1 D4:1 | C4:1 D4:1 C4:1 C4:1 | D4:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "Bb2:2 F2:1 G2:1 | A2:1 Bb2:1 Eb3:1 Eb3:1 | Bb2:2 G2:2 | D3:1 Eb3:1 F3:1 Bb2:1 | Eb3:1 Eb3:1 D3:1 Bb2:1 | Eb3:1 C3:1 D3:1 Bb2:1 | F3:1 G3:2 F3:1 | Bb2:4 | Bb2:2 F2:1 G2:1 | A2:1 Bb2:1 Eb3:1 Eb3:1 | Bb2:2 G2:2 | D3:1 Eb3:1 F3:1 Bb2:1 | Eb3:1 Eb3:1 D3:1 Bb2:1 | Eb3:1 C3:1 D3:1 Bb2:1 | F3:1 G3:2 F3:1 | Bb2:3 Bb2:1 | Bb2:1 A2:1 Bb2:1 Eb3:1 | G3:1 G3:1 F3:1 F3:1 | Bb2:1 A2:1 Bb2:1 Eb3:1 | D3:1 E3:1 F3:2 | D3:1 Bb2:0.5 Bb2:0.5 F3:0.5 G3:0.5 Eb3:0.5 F3:0.5 | Bb2:1 F3:1 Bb2:2~ | Bb2:1 F3:1 G3:1 D3:1 | Bb2:1 C3:1 F3:2 | r:2 Bb2:2 | F3:2 G3:2 | F3:1 Bb3:1 Eb3:1 F3:1 | G3:1 C3:1 D3:1 F3:1 | Bb2:1.5 Bb2:0.5 Eb3:1 Bb2:1 | A2:1 Bb2:1 Eb3:1 F3:1 | Bb2:4"
+    }
+  ]
+}

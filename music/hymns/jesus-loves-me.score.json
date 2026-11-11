@@ -1,0 +1,50 @@
+{
+  "id": "jesus-loves-me",
+  "title": "Jesus Loves Me",
+  "composer": "William Batchelder Bradbury (1816–1868)",
+  "melody": "JESUS LOVES ME",
+  "copyright": "Public domain",
+  "publication": "\"Bradbury's Golden Chain and Shower for the Sabbath School\", 1866 hymn 68 page 196",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 0.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "[G4 Bb4]:1 [Eb4 G4]:1 [Eb4 G4]:1 [D4 F4]:1 | [Eb4 G4]:1 [G4 Bb4]:1 [G4 Bb4]:2 | [Ab4 C5]:1 [Ab4 C5]:1 [C5 Eb5]:1 [Ab4 C5]:1 | [Ab4 C5]:1 [G4 Bb4]:1 [G4 Bb4]:2 | [G4 Bb4]:1 [Eb4 G4]:1 [Eb4 G4]:1 [D4 F4]:1 | [Eb4 G4]:1 [G4 Bb4]:1 [G4 Bb4]:2 | [Ab4 C5]:1 [Ab4 C5]:1 [G4 Bb4]:1 Eb4:1 | [Eb4 G4]:1 [D4 F4]:1 Eb4:2 | [G4 Bb4]:2 [Eb4 G4]:1 [G4 Bb4]:1 | [Ab4 C5]:1 [C5 Eb5]:3 | [G4 Bb4]:2 [Eb4 G4]:1 Eb4:1 | [Eb4 G4]:1 [D4 F4]:3 | [Eb4 Bb4]:2 [Eb4 G4]:1 [G4 Bb4]:1 | [Ab4 C5]:1 [C5 Eb5]:2 [Ab4 C5]:1 | [G4 Bb4]:1 Eb4:1 [Eb4 G4]:1.5 [D4 F4]:0.5 | Eb4:4"
+    },
+    {
+      "division": "great",
+      "notes": "[Eb3 Bb3]:1 [Eb3 Bb3]:1 [Eb3 Bb3]:1 [Bb2 Bb3]:1 | [Eb3 Bb3]:1 [Eb3 Bb3]:1 [Eb3 Bb3]:2 | [Ab2 Ab3]:1 [Ab2 Ab3]:1 [Ab2 Ab3]:1 [C3 Ab3]:1 | [Eb3 Ab3]:1 [Eb3 Bb3]:1 [Eb3 Bb3]:2 | [Eb3 Bb3]:1 [Eb3 Bb3]:1 [Eb3 Bb3]:1 [Bb2 Bb3]:1 | [Eb3 Bb3]:1 [Eb3 Bb3]:1 [Eb3 Bb3]:2 | [Ab2 Ab3]:1 [C3 Ab3]:1 [Eb3 G3]:1 [Eb3 G3]:1 | Bb3:1 [Bb2 Ab3]:1 [Eb3 G3]:2 | [Eb3 G3]:2 [Eb3 Bb3]:1 [Eb3 Eb4]:1 | [Ab2 Eb4]:1 [Ab2 Eb4]:3 | [Eb3 Eb4]:2 [Eb3 Bb3]:1 [G3 Bb3]:1 | [Bb2 Bb3]:1 [Bb2 Bb3]:3 | [G3 Bb3]:2 [Eb3 Bb3]:1 [Eb3 Eb4]:1 | [Ab2 Eb4]:1 [Ab2 Eb4]:2 [C3 Eb4]:1 | [Eb3 Eb4]:1 [G3 Bb3]:1 Bb3:1.5 [Bb2 Ab3]:0.5 | [Eb3 G3]:4"
+    }
+  ]
+}

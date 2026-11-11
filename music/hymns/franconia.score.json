@@ -1,0 +1,59 @@
+{
+  "id": "franconia",
+  "title": "Within the Father's House",
+  "composer": "Johann Balthasar König (1691–1758); harmony by William Henry Havergal (1793–1870)",
+  "melody": "FRANCONIA",
+  "copyright": "Public domain",
+  "publication": "\"The Presbyterian Hymnal\", 1874 hymn 118.  Lyrics source same v.1-6.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "epiphany"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 1.0,
+  "verses": 7,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "7": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:1 | F4:1 G4:1 Ab4:1 Bb4:1 | G4:3 Bb4:1 | C5:1 Eb5:1 Ab4:1 G4:1 | F4:3 Bb4:1 | Eb5:1 D5:1 C5:1 Bb4:1 | C5:1 C5:1 Bb4:1 Bb4:1 | Eb4:1 G4:1 F4:1 F4:1 | Eb4:3"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 | D4:1 Eb4:1 Eb4:1 D4:1 | Eb4:3 Eb4:1 | Eb4:1 Eb4:1 D4:1 Eb4:1 | D4:3 F4:1 | Eb4:1 F4:1 G4:1 D4:1 | F4:1 F4:1 D4:1 D4:1 | Eb4:1 Eb4:1 Eb4:1 D4:1 | Eb4:3"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 | Bb3:1 Bb3:1 Ab3:1 F3:1 | G3:3 G3:1 | Ab3:1 Bb3:1 Ab3:1 Bb3:1 | Bb3:3 D4:1 | Bb3:1 Bb3:1 Eb4:1 Bb3:1 | Bb3:1 A3:1 Bb3:1 Bb3:1 | G3:1 Bb3:1 C4:1 Bb3:1 | G3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:1 | Bb2:1 Eb3:1 C3:1 Bb2:1 | Eb3:3 Eb3:1 | Ab3:1 G3:1 F3:1 Eb3:1 | Bb2:3 Bb3:1 | G3:1 Bb3:1 Eb3:1 G3:1 | F3:1 F2:1 Bb2:1 Bb2:1 | C3:1 G2:1 Ab2:1 Bb2:1 | Eb3:3"
+    }
+  ]
+}

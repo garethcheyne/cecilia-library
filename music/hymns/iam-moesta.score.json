@@ -1,0 +1,59 @@
+{
+  "id": "iam-moesta",
+  "title": "Despair Not, O Heart",
+  "composer": "Martin Luther (1483–1546)",
+  "melody": "IAM MOESTA",
+  "copyright": "Public domain",
+  "publication": "'The Wartburg Hymnal', 1918 Hymn 125. translation source: The Lutheran Hymnary, 1913 #595.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "funeral"
+  ],
+  "bpm": 100.0,
+  "time": "2/4",
+  "key": "F",
+  "pickup": 1.0,
+  "verses": 9,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "9": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:1 | Bb4:1 G4:0.5 G4:0.5 | A4:1 G4:0.5 F4:0.5 | G4:2 | F4:1 F4:1 | G4:1 A4:0.5 A4:0.5 | C5:1 Bb4:0.5 A4:0.5 | G4:2 | A4:1 F4:1 | A4:1 G4:0.5 G4:0.5 | F4:1 E4:0.5 C4:0.5 | D4:2 | C4:1 C5:1 | D5:1 Bb4:0.5 Bb4:0.5 | C5:1 Bb4:0.5 A4:0.5 | G4:2 | F4:1"
+    },
+    {
+      "division": "great",
+      "notes": "F4:1 | F4:1 F4:0.5 E4:0.5 | F4:1 E4:0.5 C4:0.5 | D4:1 E4:1 | F4:1 F4:1 | E4:1 F4:0.5 F4:0.5 | E4:1 E4:0.5 F4:0.5 | D4:2 | E4:1 D4:1 | C4:1 D4:0.5 C4:0.5 | B3:1 C4:0.5 C4:0.5 | B3:2 | C4:1 F4:1 | F4:1 G4:0.5 G4:0.5 | G4:1 E4:0.5 F4:0.5 | D4:1 E4:1 | C4:1"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 | Bb3:1 D4:0.5 C4:0.5 | C4:1 Bb3:0.5 A3:0.5 | G3:1 Bb3:1 | A3:1 A3:1 | Bb3:1 C4:0.5 D4:0.5 | G3:1 G3:0.5 F3:0.5 | D4:2 | C#4:1 A3:1 | A3:1 B3:0.5 G3:0.5 | G3:1 G3:0.5 E3:0.5 | F3:2 | E3:1 F3:1 | F3:1 G3:0.5 D4:0.5 | C4:1 G3:0.5 F3:0.5 | Bb3:2 | A3:1"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:1 | D3:1 Bb2:0.5 C3:0.5 | F2:1 G2:0.5 A2:0.5 | Bb2:1 C3:1 | F3:1 D3:1 | G3:1 F3:0.5 D3:0.5 | C3:1 C3:0.5 D3:0.5 | Bb2:2 | A2:1 D3:1 | F3:1 F3:0.5 E3:0.5 | D3:1 C3:0.5 C3:0.5 | G2:2 | C3:1 A2:1 | Bb2:1 G3:0.5 F3:0.5 | E3:1 C3:0.5 D3:0.5 | Bb2:1 C3:1 | F2:1"
+    }
+  ]
+}

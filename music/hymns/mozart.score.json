@@ -1,0 +1,58 @@
+{
+  "id": "mozart",
+  "title": "Take My Life And Let It Be",
+  "composer": "Wolfgang Amadeus Mozart (1756–1791)",
+  "melody": "MOZART",
+  "copyright": "Public domain",
+  "publication": "Hymnal and Liturgies of the Moravian Church, 1920 Hymn 471.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 140.0,
+  "time": "3/4",
+  "key": "G",
+  "pickup": 0.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:2 G4:1 | F#4:2 D4:1 | C5:2 C5:1 | B4:3 | D5:2 B4:1 | D5:1 C5:1 A4:1 | G4:2 B4:0.5 A4:0.5 | A4:3 | G4:2 G4:1 | F#4:1.5 E4:0.5 D4:1 | C5:2 C5:1 | B4:3 | D5:2 B4:1 | A4:1 C5:1 E5:1 | G4:2 F#4:1 | G4:3"
+    },
+    {
+      "division": "great",
+      "notes": "D4:2 D4:1 | D4:2 D4:1 | D4:2 F#4:1 | G4:3 | G4:2 G4:1 | E4:2 D4:1 | D4:2 G4:0.5 F#4:0.5 | F#4:3 | G4:2 G4:1 | F#4:1.5 E4:0.5 D4:1 | D4:2 D4:1 | D4:3 | D4:1 G4:1 F4:1 | E4:2 E4:1 | D4:2 C4:1 | B3:3"
+    },
+    {
+      "division": "great",
+      "notes": "B3:2 B3:1 | A3:2 F#3:1 | F#3:1 A3:1 D4:1 | D4:3 | D4:2 D4:1 | A3:2 D4:1 | B3:2 D4:1 | D4:3 | B3:1 D4:1 B3:1 | C4:1.5 B3:0.5 A3:0.5 G3:0.5 | F#3:0.5 G3:0.5 A3:0.5 B3:0.5 C4:0.5 A3:0.5 | G3:3 | B3:2 D4:1 | C4:2 A3:1 | B3:2 A3:1 | G3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "G2:1 B2:1 G2:1 | D3:2 D3:1 | D3:1 F#3:1 D3:1 | G3:3 | B3:2 G3:1 | A3:2 F#3:1 | G3:2 G3:1 | D3:3 | G3:1 B3:1 G3:1 | A3:1.5 G3:0.5 F#3:0.5 E3:0.5 | D3:0.5 E3:0.5 F#3:0.5 G3:0.5 A3:0.5 F#3:0.5 | G3:3 | G3:2 Ab3:1 | A3:2 C3:1 | D3:2 D3:1 | G2:3"
+    }
+  ]
+}

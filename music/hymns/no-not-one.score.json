@@ -1,0 +1,58 @@
+{
+  "id": "no-not-one",
+  "title": "No, Not One!",
+  "composer": "George Crawford Hugg (1848–1907)",
+  "melody": "NO, NOT ONE",
+  "copyright": "Public domain",
+  "publication": "\"Pentecostal Hymns, No. 2\" 1898 page 1.   Setting and hymn identical to that found in \"Pentecostal Hymns, Nos. 1 and 2 combined\", 1894 Hymn 305.  ABC file contributed to the Open Hymnal by Samuel Cantrell, 18 Jan 2012.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 95.0,
+  "time": "4/4",
+  "key": "F",
+  "pickup": 0.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "A4:1 A4:0.75 G4:0.25 F4:1 F4:0.75 E4:0.25 | D4:1 F4:1 D4:0.5 C4:0.5 r:1 | A4:1 A4:1 G4:1 r:1 | A4:1 G4:1 F4:1 r:1 | A4:1 A4:0.75 G4:0.25 F4:1 F4:0.75 E4:0.25 | D4:1 F4:1 D4:0.5 C4:0.5 r:1 | A4:1 A4:1 G4:1 r:1 | A4:1 G4:1 F4:1 r:1 | A4:1 C5:1 C5:1 D5:0.75 C5:0.25 | A4:1 A4:1 G4:0.5 F4:0.5 r:1 | A4:1 C5:1 C5:1 D5:0.75 C5:0.25 | A4:1 A4:1 G4:2 | A4:1 A4:0.75 G4:0.25 F4:1 F4:0.75 E4:0.25 | D4:1 F4:1 D4:0.5 C4:0.5 r:1 | A4:1 A4:1 G4:1 r:1 | A4:1 G4:1 F4:1 r:1"
+    },
+    {
+      "division": "great",
+      "notes": "F4:1 F4:0.75 F4:0.25 F4:1 C4:0.75 C4:0.25 | Bb3:1 Bb3:1 Bb3:0.5 A3:0.5 r:1 | F4:1 F4:1 E4:1 r:1 | F4:1 E4:1 F4:1 r:1 | F4:1 F4:0.75 F4:0.25 F4:1 C4:0.75 C4:0.25 | Bb3:1 Bb3:1 Bb3:0.5 A3:0.5 r:1 | F4:1 F4:1 E4:1 r:1 | E4:1 E4:1 F4:1 r:1 | F4:1 F4:1 F4:1 F4:0.75 F4:0.25 | F4:1 F4:1 E4:0.5 F4:0.5 r:1 | F4:1 F4:1 F4:1 F4:0.75 F4:0.25 | F4:1 F4:1 E4:2 | F4:1 F4:0.75 F4:0.25 F4:1 C4:0.75 C4:0.25 | Bb3:1 Bb3:1 Bb3:0.5 A3:0.5 r:1 | F4:1 F4:1 E4:1 r:1 | E4:1 E4:1 F4:1 r:1"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 C4:0.75 Bb3:0.25 A3:1 F3:0.75 F3:0.25 | F3:1 F3:1 F3:0.5 F3:0.5 r:1 | C4:1 C4:1 C4:1 r:1 | C4:1 Bb3:1 A3:1 r:1 | C4:1 C4:0.75 Bb3:0.25 A3:1 F3:0.75 F3:0.25 | F3:1 F3:1 F3:0.5 F3:0.5 r:1 | C4:1 C4:1 C4:1 r:1 | C4:1 Bb3:1 A3:1 r:1 | C4:1 A3:1 A3:1 Bb3:0.75 A3:0.25 | C4:1 C4:1 Bb3:0.5 A3:0.5 r:1 | C4:1 A3:1 A3:1 Bb3:0.75 A3:0.25 | C4:1 C4:1 C4:2 | C4:1 C4:0.75 Bb3:0.25 A3:1 F3:0.75 F3:0.25 | F3:1 F3:1 F3:0.5 F3:0.5 r:1 | C4:1 C4:1 C4:1 r:1 | C4:1 Bb3:1 A3:1 r:1"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:1 F3:0.75 F3:0.25 F3:1 A2:0.75 A2:0.25 | Bb2:1 D3:1 F3:0.5 F3:0.5 r:1 | F3:1 F3:1 C3:1 r:1 | F3:1 C3:1 F3:1 r:1 | F3:1 F3:0.75 F3:0.25 F3:1 A2:0.75 A2:0.25 | Bb2:1 D3:1 F3:0.5 F3:0.5 r:1 | F3:1 F3:1 C3:1 r:1 | C3:1 C3:1 F3:1 r:1 | F3:1 F3:1 F3:1 F3:0.75 F3:0.25 | F3:1 F3:1 C3:0.5 F3:0.5 r:1 | F3:1 F3:1 F3:1 F3:0.75 F3:0.25 | F3:1 F3:1 C3:2 | F3:1 F3:0.75 F3:0.25 F3:1 A2:0.75 A2:0.25 | Bb2:1 D3:1 F3:0.5 F3:0.5 r:1 | F3:1 F3:1 C3:1 r:1 | C3:1 C3:1 F3:1 r:1"
+    }
+  ]
+}

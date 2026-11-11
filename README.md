@@ -35,3 +35,24 @@ Every file states its own licence:
 - **Organ setups** are factual MIDI mappings shared as
   [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): anyone may
   use them for anything.
+
+## Sources and thanks
+
+Most of the hymns come from the **[Open Hymnal Project](https://openhymnal.org)**,
+maintained by Brian J. Dumont with many contributors, who has spent years
+carefully typesetting public-domain hymns from historic hymnals so that anyone
+can use them. Each hymn here names the hymnal it was taken from and links back
+to the project.
+
+They were converted with `cecilia library import openhymnal`, which:
+
+- takes only hymns the Open Hymnal marks as public domain;
+- also checks that the tune and the harmony are free **worldwide**: their
+  composers died more than 70 years ago (the Open Hymnal checks US law only,
+  so a few settings, such as Vaughan Williams's, are left out for now and
+  become free in later years);
+- leaves out tunes already in this library, and hymns whose shape a Cecilia
+  score can't show faithfully;
+- was checked note for note against the Open Hymnal's own MIDI recordings.
+
+Only the music is used; the words are not included.

@@ -1,0 +1,62 @@
+{
+  "id": "ellacombe",
+  "title": "Hosanna, Loud Hosanna",
+  "composer": "Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784",
+  "melody": "ELLACOMBE",
+  "copyright": "Public domain",
+  "publication": "Presbyterian Hymnal, Revised, 1911 Hymn 364.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "lent"
+  ],
+  "other_titles": [
+    "I Sing the Mighty Power of God"
+  ],
+  "bpm": 130.0,
+  "time": "4/4",
+  "key": "Bb",
+  "pickup": 1.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:1 | Bb4:1 A4:0.5 G4:0.5 F4:1 Bb4:1 | D4:1 Eb4:1 F4:1 F4:1 | G4:0.5 A4:0.5 Bb4:1 C5:1 C5:1 | D5:3 F4:1 | Bb4:1 A4:0.5 G4:0.5 F4:1 Bb4:1 | D4:1 Eb4:1 F4:1 F4:1 | G4:0.5 A4:0.5 Bb4:1 Bb4:1 A4:1 | Bb4:3 Bb4:0.5 C5:0.5 | D5:1 C5:1 D5:1 Eb5:1 | C5:1 A4:0.5 Bb4:0.5 C5:1 Bb4:0.5 C5:0.5 | D5:1 C5:1 D5:1 Eb5:1 | C5:3 F4:1 | Bb4:1 A4:0.5 G4:0.5 F4:1 Bb4:1 | D4:1 Eb4:1 F4:1 F4:1 | G4:0.5 A4:0.5 Bb4:1 Bb4:1 A4:1 | Bb4:3"
+    },
+    {
+      "division": "great",
+      "notes": "F4:1 | Bb4:1 A4:0.5 G4:0.5 F4:1 F4:1 | D4:1 C4:0.5 Bb3:0.5 C4:1 D4:1 | Eb4:1 F4:1 G4:1 F4:1 | F4:3 F4:1 | Bb4:1 A4:0.5 G4:0.5 F4:1 F4:1 | D4:1 C4:0.5 Bb3:0.5 C4:1 D4:1 | Eb4:1 D4:0.5 Eb4:0.5 F4:1 F4:1 | F4:3 D4:0.5 Eb4:0.5 | F4:1 F4:1 F4:1 G4:1 | F4:1 F4:1 F4:1 D4:0.5 Eb4:0.5 | F4:1 F4:1 F4:1 G4:1 | F4:3 F4:1 | Bb4:1 A4:0.5 G4:0.5 F4:1 F4:1 | D4:1 C4:0.5 Bb3:0.5 C4:1 D4:1 | Eb4:1 D4:0.5 Eb4:0.5 F4:1 F4:1 | F4:3"
+    },
+    {
+      "division": "great",
+      "notes": "F3:1 | Bb3:1 A3:0.5 G3:0.5 F3:1 Bb3:1 | Bb3:1 Bb3:1 A3:1 Bb3:1 | Bb3:1 Bb3:1 Bb3:1 A3:1 | Bb3:3 F3:1 | Bb3:1 A3:0.5 G3:0.5 F3:1 Bb3:1 | Bb3:1 Bb3:1 A3:1 Bb3:1 | Bb3:1 Bb3:1 C4:1 C4:1 | D4:3 Bb3:1 | Bb3:1 C4:1 Bb3:1 Bb3:1 | A3:1 F3:0.5 G3:0.5 A3:1 Bb3:1 | Bb3:1 C4:1 Bb3:1 Bb3:1 | A3:3 F3:1 | Bb3:1 A3:0.5 G3:0.5 F3:1 Bb3:1 | Bb3:1 Bb3:1 A3:1 Bb3:1 | Bb3:1 Bb3:1 C4:1 C4:1 | D4:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:1 | Bb3:1 A3:0.5 G3:0.5 F3:1 D3:1 | G3:1 G3:1 F3:1 Bb2:1 | Eb3:1 D3:1 Eb3:1 F3:1 | Bb2:3 F3:1 | Bb3:1 A3:0.5 G3:0.5 F3:1 D3:1 | G3:1 G3:1 F3:1 Bb2:1 | Eb3:1 G3:1 F3:1 F3:1 | Bb2:3 Bb3:1 | Bb3:1 A3:1 Bb3:1 Eb3:1 | F3:1 F3:1 F3:1 Bb3:1 | Bb3:1 A3:1 Bb3:1 Eb3:1 | F3:3 F3:1 | Bb3:1 A3:0.5 G3:0.5 F3:1 D3:1 | G3:1 G3:1 F3:1 Bb2:1 | Eb3:1 G3:1 F3:1 F3:1 | Bb2:3"
+    }
+  ]
+}

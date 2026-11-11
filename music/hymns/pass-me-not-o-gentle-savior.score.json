@@ -1,0 +1,58 @@
+{
+  "id": "pass-me-not-o-gentle-savior",
+  "title": "Pass Me Not, O Gentle Savior",
+  "composer": "William Howard Doane (1832–1915)",
+  "melody": "PASS ME NOT O GENTLE SAVIOR",
+  "copyright": "Public domain",
+  "publication": "\"The Coronation\" 1872 page 269.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "Ab",
+  "pickup": 0.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "C5:1.5 Bb4:0.5 Ab4:0.75 G4:0.25 Ab4:0.75 F4:0.25 | Eb4:2 Ab4:2 | Bb4:1.5 Bb4:0.5 Ab4:1 Bb4:1 | C5:3 r:1 | C5:1.5 Bb4:0.5 Ab4:0.75 G4:0.25 Ab4:0.75 F4:0.25 | Eb4:2 Ab4:2 | Bb4:1.5 Ab4:0.5 C5:1 Bb4:1 | Ab4:3 r:1 | Eb5:2 C5:2 | Bb4:1.5 Ab4:0.5 F4:2 | Eb4:1 Ab4:1 C5:1 Ab4:1 | Bb4:3 r:1 | C5:1.5 Bb4:0.5 Ab4:0.75 G4:0.25 Ab4:0.75 F4:0.25 | Eb4:2 Ab4:2 | Bb4:1.5 Ab4:0.5 C5:1 Bb4:1 | Ab4:3 r:1"
+    },
+    {
+      "division": "great",
+      "notes": "Eb4:1.5 Eb4:0.5 F4:0.75 E4:0.25 F4:0.75 C#4:0.25 | C4:2 Eb4:2 | Eb4:1.5 Eb4:0.5 Eb4:1 Eb4:1 | Eb4:3 r:1 | Eb4:1.5 Eb4:0.5 F4:0.75 E4:0.25 F4:0.75 C#4:0.25 | C4:2 Eb4:2 | Eb4:1.5 Eb4:0.5 Eb4:1 C#4:1 | C4:3 r:1 | Ab4:2 Ab4:2 | F4:2 C#4:2 | C4:1 C4:1 Eb4:1 Eb4:1 | Eb4:3 r:1 | Eb4:1.5 Eb4:0.5 F4:0.75 E4:0.25 F4:0.75 C#4:0.25 | C4:2 Eb4:2 | Eb4:1.5 Eb4:0.5 Eb4:1 C#4:1 | C4:3 r:1"
+    },
+    {
+      "division": "great",
+      "notes": "Ab3:1.5 Ab3:0.5 Ab3:0.75 Ab3:0.25 C#4:0.75 Ab3:0.25 | Ab3:2 C4:2 | C#4:1.5 C#4:0.5 C4:1 G3:1 | Ab3:3 r:1 | Ab3:1.5 Ab3:0.5 Ab3:0.75 Ab3:0.25 C#4:0.75 Ab3:0.25 | Ab3:2 C4:2 | C#4:1.5 C4:0.5 Ab3:1 G3:1 | Ab3:3 r:1 | C4:2 Eb4:2 | C#4:2 Ab3:2 | Ab3:1 Ab3:1 Ab3:1 Ab3:1 | G3:3 r:1 | Ab3:1.5 Ab3:0.5 Ab3:0.75 Ab3:0.25 C#4:0.75 Ab3:0.25 | Ab3:2 C4:2 | C#4:1.5 C4:0.5 Ab3:1 G3:1 | Ab3:3 r:1"
+    },
+    {
+      "division": "pedal",
+      "notes": "Ab2:1.5 C3:0.5 C#3:0.75 C#3:0.25 C#3:0.75 C#3:0.25 | Ab2:2 Ab2:2 | Eb3:1.5 Eb3:0.5 Eb3:1 Eb3:1 | Ab2:3 r:1 | Ab2:1.5 C3:0.5 C#3:0.75 C#3:0.25 C#3:0.75 C#3:0.25 | Ab2:2 Ab2:2 | Eb3:1.5 Eb3:0.5 Eb3:1 Eb3:1 | Ab2:3 r:1 | Ab3:2 Ab3:2 | C#3:2 C#3:2 | Ab2:1 Ab2:1 Ab2:1 C3:1 | Eb3:3 r:1 | Ab2:1.5 C3:0.5 C#3:0.75 C#3:0.25 C#3:0.75 C#3:0.25 | Ab2:2 Ab2:2 | Eb3:1.5 Eb3:0.5 Eb3:1 Eb3:1 | Ab2:3 r:1"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "wie-sch-n-leuchtet",
+  "title": "O Holy Spirit, Enter In",
+  "composer": "Phillipp Nicolai (1556–1608)",
+  "melody": "WIE SCHÖN LEUCHTET",
+  "copyright": "Public domain",
+  "publication": "\"Mehrstimmiges ChoralBuch\", 1906 Hymn #184, page 145 Ed. Karl Brauer.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 150.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 0.0,
+  "verses": 8,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "8": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "r:2 Eb4:2 | Bb4:2 G4:2 | Eb4:2 Bb4:2 | C5:1 C5:1 Bb4:2 | r:1 Bb4:1 C5:1 D5:1 | Eb5:1 D5:1 C5:1 C5:1 | Bb4:2 r:1 Bb4:1 | C5:2 Bb4:2 | Ab4:1 G4:1 F4:2 | Eb4:4 | r:2 Eb4:2 | Bb4:2 G4:2 | Eb4:2 Bb4:2 | C5:1 C5:1 Bb4:2 | r:1 Bb4:1 C5:1 D5:1 | Eb5:1 D5:1 C5:1 C5:1 | Bb4:2 r:1 Bb4:1 | C5:2 Bb4:2 | Ab4:1 G4:1 F4:2 | Eb4:4 | Bb4:2 G4:2 | Bb4:2 G4:2 | G4:1 G4:1 F4:1 F4:1 | G4:1 G4:1 F4:1 F4:1 | G4:1 G4:1 F4:1 Eb4:1 | Eb5:2 Bb4:2 | C5:2 Bb4:2 | Ab4:1 G4:1 F4:2 | Eb4:4"
+    },
+    {
+      "division": "great",
+      "notes": "r:2 Bb3:2 | F4:2 Bb3:2 | C4:2 F4:2 | G4:1 F4:1 D4:2 | r:1 Eb4:1 Eb4:1 F4:1 | G4:1 F4:1 F4:1 Eb4:1 | D4:2 r:1 Eb4:1 | Eb4:2 Eb4:2 | C4:1 Bb3:1 Bb3:2 | Bb3:4 | r:2 Bb3:2 | F4:2 Bb3:2 | C4:2 F4:2 | G4:1 F4:1 D4:2 | r:1 Eb4:1 Eb4:1 F4:1 | G4:1 F4:1 F4:1 Eb4:1 | D4:2 r:1 Eb4:1 | Eb4:2 Eb4:2 | C4:1 Bb3:1 Bb3:2 | Bb3:4 | D4:2 Eb4:2 | D4:2 Eb4:2 | Bb3:1 Eb4:1 Eb4:1 D4:1 | Bb3:1 Eb4:1 Eb4:1 D4:1 | Bb3:1 Eb4:1 D4:1 Eb4:1 | G4:2 Eb4:2 | Eb4:2 Eb4:2 | C4:1 Bb3:1 Bb3:2 | G3:4"
+    },
+    {
+      "division": "great",
+      "notes": "r:2 G3:2 | F3:2 G3:2 | G3:2 Bb3:1 Bb3:1~ | Bb3:1 A3:1 Bb3:2 | r:1 G3:1 G3:1 Bb3:1 | Bb3:1 Bb3:1 Bb3:1 A3:1 | Bb3:2 r:1 G3:1 | Ab3:2 Bb3:2 | Eb3:1 Eb3:2 D3:1 | G3:4 | r:2 G3:2 | F3:2 G3:2 | G3:2 Bb3:1 Bb3:1~ | Bb3:1 A3:1 Bb3:2 | r:1 G3:1 G3:1 Bb3:1 | Bb3:1 Bb3:1 Bb3:1 A3:1 | Bb3:2 r:1 G3:1 | Ab3:2 Bb3:2 | Eb3:1 Eb3:2 D3:1 | G3:4 | Bb3:2 Bb3:2 | Bb3:2 Bb3:2 | Eb3:1 Bb3:1 Bb3:1 F3:1 | Eb3:1 Bb3:1 Bb3:1 F3:1 | Eb3:1 Bb3:1 Bb3:1 G3:1 | C4:2 G3:2 | Ab3:2 Bb3:2 | Eb3:1 Eb3:2 D3:1 | Eb3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "r:2 Eb3:2 | D3:2 Eb3:2 | C3:2 D3:2 | Eb3:1 F3:1 Bb2:2 | r:1 Eb3:1 C3:1 Bb2:1 | Eb3:1 Bb2:1 F3:1 F2:1 | Bb2:2 r:1 Eb3:1 | Ab2:2 G2:2 | Ab2:1 Eb2:1 Bb2:2 | Eb2:4 | r:2 Eb3:2 | D3:2 Eb3:2 | C3:2 D3:2 | Eb3:1 F3:1 Bb2:2 | r:1 Eb3:1 C3:1 Bb2:1 | Eb3:1 Bb2:1 F3:1 F2:1 | Bb2:2 r:1 Eb3:1 | Ab2:2 G2:2 | Ab2:1 Eb2:1 Bb2:2 | Eb2:4 | G3:2 Eb3:2 | G3:2 Eb3:2 | Eb3:1 Eb2:1 Bb2:1 Bb2:1 | Eb3:1 Eb2:1 Bb2:1 Bb2:1 | Eb2:1 G2:1 Bb2:1 Eb2:1 | C3:2 Eb3:2 | Ab2:2 G2:2 | Ab2:1 Eb2:1 Bb2:2 | Eb2:4"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "vom-himmel-hoch",
+  "title": "From Heaven Above To Earth I Come",
+  "composer": "Schumann's Geistliche Lieder, Leipzig, 1539",
+  "melody": "VOM HIMMEL HOCH",
+  "copyright": "Public domain",
+  "publication": "'Common Service Book with Hymnal', ULCA 1918 Hymn 19.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "christmas"
+  ],
+  "other_titles": [
+    "To Shepherds As They Watched By Night"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "D",
+  "pickup": 0.5,
+  "verses": 12,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "12": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D5:0.5 | C#5:1 B4:1 C#5:1 A4:1 | B4:1 C#5:1 D5:1 r:0.5 D5:0.5 | D5:1 A4:1 A4:1 F#4:1 | A4:1 G4:1 F#4:1 r:0.5 F#4:0.5 | B4:1 B4:1 A4:1 C#5:1 | D5:1 B4:1 A4:1 r:0.5 D5:0.5 | C#5:1 B4:1 A4:1 A4:1 | G4:0.5 F#4:0.5 E4:1 D4:1 r:0.5"
+    },
+    {
+      "division": "great",
+      "notes": "F#4:0.5 | E4:1 E4:1 E4:1 F#4:1 | D4:1 G4:1 F#4:1 r:0.5 F#4:0.5 | F#4:1 F#4:1 E4:1 D4:1 | D4:1 B3:1 D4:1 r:0.5 D4:0.5 | F#4:1 G4:1 E4:1 E4:1 | D4:1 E4:1 C#4:1 r:0.5 D4:0.5 | A4:1 G4:1 F#4:1 E4:1 | D4:1.5 C#4:0.5 D4:1 r:0.5"
+    },
+    {
+      "division": "great",
+      "notes": "A3:0.5 | A3:1 Ab3:1 A3:1 A3:1 | G3:1 G3:1 A3:1 r:0.5 A3:0.5 | B3:1 C#4:1 A3:1 A3:1 | F#3:1 G3:1 A3:1 r:0.5 B3:0.5 | D4:1 D4:1 C#4:1 A3:1 | F#3:1 Ab3:1 A3:1 r:0.5 F#3:0.5 | A3:1 D4:1 D4:1 A3:1 | B3:0.5 A3:0.5 A3:1 F#3:1 r:0.5"
+    },
+    {
+      "division": "pedal",
+      "notes": "D3:0.5 | A2:1 E3:1 A2:1 D3:1 | G3:1 E3:1 D3:1 r:0.5 D3:0.5 | B2:1 F#3:1 C#3:1 D3:1 | D3:1 E3:1 B2:1 r:0.5 B2:0.5 | B2:1 G2:1 A2:1 A2:1 | B2:1 E3:1 A2:1 r:0.5 B2:0.5 | F#3:1 G3:1 D3:1 C#3:1 | B2:0.5 D3:0.5 A2:1 D3:1 r:0.5"
+    }
+  ]
+}

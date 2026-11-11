@@ -1,0 +1,63 @@
+{
+  "id": "chesterfield",
+  "title": "Hark the Glad Sound",
+  "composer": "Thomas Haweis (1734–1820)",
+  "melody": "CHESTERFIELD",
+  "copyright": "Public domain",
+  "publication": "\"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896  Ed. Charles Hutchins Hymn 31 first tune.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "advent"
+  ],
+  "bpm": 130.0,
+  "time": "3/4",
+  "key": "G",
+  "pickup": 0.0,
+  "verses": 7,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "7": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "D4:1 G4:1 B4:1 | D5:2 C5:1 | B4:1 C5:1 A4:1 | G4:2 B4:1 | A4:1 D5:1 G4:1 | F#4:1 G4:1 E4:1 | D4:2 A4:1 | B4:1 A4:1 G4:1 | C5:1 B4:1 A4:1 | D5:1 C5:1 B4:1 | E5:2 G4:1 | E4:1 C5:1 B4:1 | A4:1 G4:1 F#4:1 | G4:3"
+    },
+    {
+      "division": "great",
+      "notes": "B3:1 D4:1 D4:1 | D4:2 F#4:1 | G4:1 E4:1 D4:0.5 C4:0.5 | B3:2 D4:1 | D4:2 E4:1 | D4:1 E4:1 C#4:1 | D4:2 D4:1 | D4:1 E4:1 D4:1 | E4:0.5 F#4:0.5 G4:1 F#4:1 | G4:0.5 D4:0.5 E4:0.5 F#4:0.5 G4:0.5 F4:0.5 | E4:2 D4:1 | E4:1 F#4:1 G4:1 | E4:1 D4:1 C4:1 | B3:3"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 B3:1 G3:1 | A3:2 A3:1 | G3:1 A3:1 F#3:1 | G3:2 G3:1 | A3:2 A3:1 | A3:1 B3:1 G3:1 | F#3:2 F#3:1 | G3:1 C4:1 B3:1 | A3:1 D4:1 D4:1 | D4:2 D4:1 | C4:2 G4:1 | C4:0.5 B3:0.5 A3:1 G3:1 | C4:1 B3:1 A3:1 | G3:3"
+    },
+    {
+      "division": "great",
+      "notes": "G2:1 G3:1 G3:1 | F#3:2 D3:1 | E3:1 C3:1 D3:1 | G2:2 G3:1 | F#3:1 B2:1 C#3:1 | D3:1 G2:1 A2:1 | D3:2 D3:1 | D3:2 D3:1 | D3:2 C4:1 | B3:1 A3:1 G3:1 | C3:2 B2:1 | C3:1 D3:1 E3:1 | C3:1 D3:1 D3:1 | G2:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "r:3 | r:3 | r:3 | r:3 | r:3 | r:3 | r:2 r:1 | D2:3~ | D2:3~ | D2:2 G2:1 | C2:2 r:1 | r:3 | r:3 | r:3"
+    }
+  ]
+}

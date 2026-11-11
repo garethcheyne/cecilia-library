@@ -1,0 +1,58 @@
+{
+  "id": "weil-ich-jesu-sch-flein-bin",
+  "title": "I Am Jesus' Little Lamb",
+  "composer": "Bruder Choral-Buch, 1784",
+  "melody": "WEIL ICH JESU SCHÄFLEIN BIN",
+  "copyright": "Public domain",
+  "publication": "Music Source: Church Book for the Use of Evangelical Lutheran Congregations, 1893 Hymn 531.  Hymnal arranged by Harriet Reynolds Krauth (1845-1925).",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 112.0,
+  "time": "4/4",
+  "key": "C",
+  "pickup": 2.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:1 C5:1 | A4:1 A4:1 G4:1 F4:1 | E4:2 G4:1 C5:1 | A4:1 A4:1 G4:1 F4:1 | E4:2 G4:1 C5:1 | A4:1 A4:1 A4:1 D5:0.5 C5:0.5 | B4:0.5 A4:0.5 G4:1 G4:1 C5:1 | A4:1 A4:1 A4:1 D5:0.5 B4:0.5 | B4:0.5 A4:0.5 G4:1 C5:1 G4:1 | A4:1 G4:1 F4:1 E4:1 | D4:2 G4:1 C5:1 | A4:1 D5:1 C5:1 B4:1 | C5:2"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 C4:1 | C4:1 C4:1 C4:1 C4:0.5 B3:0.5 | C4:2 E4:1 G4:1 | F4:1 Eb4:1 E4:1 D4:1 | E4:2 E4:1 C4:1 | C4:1 C#4:1 D4:1 D4:1 | D4:0.5 C4:0.5 B3:1 C4:1 C4:1 | C4:1 C#4:1 D4:1 D4:1 | D4:0.5 C4:0.5 B3:1 C4:1 C4:1 | C4:1 C4:1 C4:0.5 B3:0.5 C4:1 | B3:2 C4:1 E4:1 | F4:1 F4:1 E4:1 D4:0.5 F4:0.5 | E4:2"
+    },
+    {
+      "division": "great",
+      "notes": "E3:1 G3:1 | F3:1 F3:1 E3:1 D3:0.5 G3:0.5 | G3:2 G3:1 C4:1 | C4:1 C4:1 C4:1 B3:1 | C4:2 C4:1 G3:1 | F3:1 G3:1 F#3:1 A3:1 | G3:2 E3:1 G3:1 | F3:1 G3:1 F#3:1 A3:1 | G3:2 G3:1 E3:1 | F3:1 E3:1 G3:1 G3:1 | G3:2 G3:1 G3:1 | F3:1 A3:1 G3:1 G3:1 | G3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "C3:1 E3:1 | F3:1 F2:1 G2:1 G2:1 | C3:2 C3:1 E3:1 | F3:1 F#3:1 G3:1 G3:1 | C3:2 C3:1 E3:1 | F3:1 E3:1 D3:1 F#3:1 | G3:1 G2:1 C3:1 E3:1 | F3:1 E3:1 D3:1 F#3:1 | G3:1 G2:1 E3:1 C3:1 | F2:1 C3:1 D3:1 E3:0.5 F3:0.5 | G3:2 E3:1 C3:1 | F3:1 D3:1 G3:1 G2:1 | C3:2"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "wie-soll-ich-dich-empfange",
+  "title": "O Lord, How Shall I Meet Thee",
+  "composer": "Johann Crüger (1598–1662)",
+  "melody": "WIE SOLL ICH DICH EMPFANGE",
+  "copyright": "Public domain",
+  "publication": "Evangelical Lutheran Hymn Book (LCMS), Edition of 1931 Hymn 136.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "advent"
+  ],
+  "bpm": 140.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 2.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:2 | G4:1 Ab4:1 Bb4:1 Bb4:1 | Ab4:2 G4:1 Ab4:1 | G4:1 Eb4:1 F4:1 F4:1 | Eb4:2 Eb4:2 | G4:1 Ab4:1 Bb4:1 Bb4:1 | Ab4:2 G4:1 Ab4:1 | G4:1 Eb4:1 F4:1 F4:1 | Eb4:2 Bb4:2 | C5:1 D5:1 Eb5:1 D5:1 | C5:2 Bb4:1 G4:1 | C5:1 Bb4:1 Ab4:1 G4:1 | F4:2 G4:2 | Eb4:1 F4:1 G4:1 Bb4:1 | Ab4:2 G4:1 Bb4:1 | Ab4:1 G4:1 F4:1 F4:1 | Eb4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:2 | Eb4:1 Eb4:1 D4:1 Eb4:1 | C4:1 D4:1 Eb4:1 Eb4:1 | Eb4:1 Bb3:1 C4:1 D4:1 | Bb3:2 Bb3:2 | Eb4:1 Eb4:1 D4:1 Eb4:1 | C4:1 D4:1 Eb4:1 Eb4:1 | Eb4:1 Bb3:1 C4:1 D4:1 | Bb3:2 Eb4:2 | Eb4:1 F4:1 G4:1 F4:1 | F4:2 D4:1 Eb4:1 | Eb4:1 D4:1 Eb4:1 Eb4:1 | D4:2 Bb3:2 | C4:1 D4:1 Eb4:1 Eb4:1 | Eb4:2 Eb4:1 G4:1 | Eb4:1 Eb4:1 Eb4:1 D4:1 | Eb4:2"
+    },
+    {
+      "division": "great",
+      "notes": "G3:2 | Bb3:1 C4:1 F3:1 G3:1 | Ab3:2 C4:1 C4:1 | Bb3:1 Bb3:1 Ab3:1 F3:1 | G3:2 G3:2 | Bb3:1 C4:1 F3:1 G3:1 | Ab3:2 C4:1 C4:1 | Bb3:1 Bb3:1 Ab3:1 F3:1 | G3:2 G3:2 | Ab3:1 Ab3:1 Bb3:1 Bb3:1 | Bb3:1 A3:1 Bb3:1 Bb3:1 | Ab3:1 F3:1 C4:1 Bb3:1 | Bb3:2 G3:2 | G3:1 Bb3:1 Bb3:1 Bb3:1 | C4:2 Bb3:1 Bb3:1 | C4:1 Bb3:1 Bb3:1.5 Ab3:0.5 | G3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:2 | Eb3:1 C3:1 Bb2:1 Eb3:1 | F3:2 C3:1 Ab2:1 | Eb3:1 G2:1 Ab2:1 Bb2:1 | Eb3:2 Eb3:2 | Eb3:1 C3:1 Bb2:1 Eb3:1 | F3:2 C3:1 Ab2:1 | Eb3:1 G2:1 Ab2:1 Bb2:1 | Eb3:2 Eb3:2 | Ab3:1 F3:1 Eb3:1 Bb2:1 | F3:2 Bb2:1 Eb3:1 | Ab2:1 Bb2:1 C3:1 Eb3:1 | Bb2:2 Eb3:2 | C3:1 Bb2:1 Eb3:1 G2:1 | Ab2:2 Eb3:1 Eb3:1 | C3:1 Eb3:1 Bb2:1 Bb2:1 | Eb3:2"
+    }
+  ]
+}

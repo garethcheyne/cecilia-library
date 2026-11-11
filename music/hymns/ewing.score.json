@@ -1,0 +1,59 @@
+{
+  "id": "ewing",
+  "title": "Jerusalem the Golden",
+  "composer": "Alexander C. Ewing (1830–1895)",
+  "melody": "EWING",
+  "copyright": "Public domain",
+  "publication": "Lutheran Service Book, 2006 Hymn 672.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "funeral"
+  ],
+  "bpm": 110.0,
+  "time": "4/4",
+  "key": "C",
+  "pickup": 1.0,
+  "verses": 12,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "12": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "C4:1 | D4:1 C4:1 F4:1 E4:1 | D4:2 C4:1 E4:1 | G4:1 C5:1 B4:1 Ab4:1 | A4:3 A4:1 | G4:1 E4:1 E4:1 D4:1 | C4:2 D4:1 E4:1 | E4:1 E4:1 D4:1 C4:1 | D4:3 D4:1 | F4:1 E4:1 A4:1 B4:1 | C5:2 D5:1 G4:1 | E5:1.5 E5:0.5 D5:1 C5:1 | B4:3 A4:1 | G4:1 E4:1 E4:1 D4:1 | C4:2 D4:1 E4:1 | E4:1 E4:1 D4:1.5 C4:0.5 | C4:3"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 | G3:1 G3:1 C4:1 C4:1 | C4:1 B3:1 C4:1 C4:1 | D4:1 E4:1 E4:1 D4:1 | C4:3 F4:1 | E4:1 C4:1 B3:1 B3:1 | A3:2 B3:1 C4:1 | C4:1 C4:1 A3:1 A3:1 | B3:3 B3:1 | C4:1 C4:1 C4:1 E4:1 | E4:2 G4:1 G4:1 | G4:1.5 G4:0.5 A4:1 F4:1 | G4:3 D4:1 | C4:1 C4:1 B3:1 B3:1 | A3:2 B3:1 C4:1 | C4:1 C4:1 B3:1.5 C4:0.5 | C4:3"
+    },
+    {
+      "division": "great",
+      "notes": "E3:1 | F3:1 E3:1 A3:1 G3:1 | G3:2 E3:1 G3:1 | G3:1 G3:1 Ab3:1 B3:1 | A3:3 C4:1 | C4:1 G3:1 Ab3:1 E3:1 | E3:2 G3:1 G3:1 | G3:1 G3:1 F3:1 E3:1 | G3:3 G3:1 | A3:1 G3:1 A3:1 Ab3:1 | A3:2 B3:1 B3:1 | C4:1.5 C4:0.5 A3:1 C4:1 | D4:3 B3:1 | C4:1 G3:1 Ab3:1 E3:1 | E3:2 G3:1 G3:1 | G3:1 G3:1 F3:1.5 E3:0.5 | E3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "C3:1 | C3:1 C3:1 C3:1 C3:1 | G2:2 C3:1 C3:1 | B2:1 C3:1 E3:1 E3:1 | A2:3 F2:1 | C3:1 C3:1 E3:1 Ab2:1 | A2:2 G2:1 C3:1 | C3:1 E2:1 F2:1 A2:1 | G2:3 G3:1 | F3:1 C3:1 F3:1 E3:1 | A3:2 G3:1 G3:1 | C3:1.5 C3:0.5 F3:1 A3:1 | G3:3 F3:1 | E3:1 C3:1 E3:1 Ab2:1 | A2:2 G2:1 C3:1 | C3:1 E2:1 G2:1.5 C3:0.5 | C3:3"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "hyfrydol",
+  "title": "Alleluia, Sing To Jesus!",
+  "composer": "Rowland H. Prichard (1811–1887)",
+  "melody": "HYFRYDOL",
+  "copyright": "Public domain",
+  "publication": "'The English Hymnal' 1906, Hymn 563. Arrangement - NOT PRICHARD per English hymnal, 1906  assume RV Williams",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "other_titles": [
+    "Lord of Glory, Who Hast Bought Us",
+    "Lord of Life, All Praise Excelling"
+  ],
+  "bpm": 130.0,
+  "time": "3/4",
+  "key": "F",
+  "pickup": 0.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:2 G4:1 | F4:1.5 G4:0.5 A4:1 | Bb4:2 A4:1 | G4:1 F4:1 G4:1 | C5:2 Bb4:1 | A4:2 A4:1 | G4:1 F4:1 G4:1 | F4:3 | F4:2 G4:1 | F4:1.5 G4:0.5 A4:1 | Bb4:2 A4:1 | G4:1 F4:1 G4:1 | C5:2 Bb4:1 | A4:2 A4:1 | G4:1 F4:1 G4:1 | F4:3 | C5:2 C5:1 | C5:1 Bb4:1 A4:1 | Bb4:2 Bb4:1 | Bb4:1 A4:1 G4:1 | A4:2 A4:1 | A4:1 Bb4:1 C5:1 | C5:1 Bb4:1 A4:1 | G4:3 | C5:1 A4:1 C5:1 | Bb4:1 G4:1 Bb4:1 | A4:1 F4:1 A4:1 | G4:0.5 A4:0.5 Bb4:0.5 A4:0.5 G4:1 | C5:2 C5:1 | D5:1 C5:1 Bb4:1 | A4:2 G4:1 | F4:3"
+    },
+    {
+      "division": "great",
+      "notes": "C4:2 E4:1 | F4:2 F4:1 | G4:2 F4:1 | E4:1 D4:1 E4:1 | F4:1 C4:1 D4:0.5 E4:0.5 | F4:2 F4:0.5 E4:0.5 | D4:1 D4:1 E4:1 | F4:3 | C4:2 E4:1 | F4:2 F4:1 | G4:2 F4:1 | E4:1 D4:1 E4:1 | F4:1 C4:1 D4:0.5 E4:0.5 | F4:2 F4:0.5 E4:0.5 | D4:1 D4:1 E4:1 | F4:3 | E4:2 E4:1 | F4:2 F4:1 | F4:1 E4:1 D4:1 | E4:1 F4:1 C4:1 | C4:2 F4:1 | F4:1 G4:1 A4:1 | A4:1 G4:1 F4:1 | F4:2 E4:1 | F4:2 A4:1 | G4:2 G4:1 | F4:1 C4:1 F4:1 | G4:0.5 E4:0.5 F4:1 C4:1 | C4:1 F4:1 Eb4:1 | D4:1 F4:1 F4:1 | F4:2 E4:1 | F4:3"
+    },
+    {
+      "division": "great",
+      "notes": "[F3 A3]:2 G3:1 | A3:1.5 Bb3:0.5 C4:1 | D4:1 C4:1 C4:1 | C4:1 A3:1 C4:1 | C4:2 C4:1 | C4:2 C4:1 | Bb3:1 A3:1 C4:1 | A3:3 | [F3 A3]:2 G3:1 | A3:1.5 Bb3:0.5 C4:1 | D4:1 C4:1 C4:1 | C4:1 A3:1 C4:1 | C4:2 C4:1 | C4:2 C4:1 | Bb3:1 A3:1 C4:1 | A3:3 | C4:2 C4:1 | F3:1 G3:1 A3:1 | G3:2 G3:1 | G3:1 C4:1 Bb3:1 | A3:2 C4:1 | D4:2 C4:1 | D4:2 D4:1 | G3:3 | C4:2 D4:1 | D4:2 C4:1 | C4:1 A3:1 B3:1 | C4:1 Bb3:1 Bb3:1 | A3:2 C4:1 | Bb3:1 C4:1 D4:1 | C4:2 Bb3:1 | [F3 A3]:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "F2:1 A2:1 C3:1 | F3:2 F3:1 | F3:1 E3:1 F3:1 | C3:1 D3:1 C3:1 | A3:2 G3:1 | F3:2 A2:1 | Bb2:1 D3:1 C3:1 | F3:3 | F2:1 A2:1 C3:1 | F3:2 F3:1 | F3:1 E3:1 F3:1 | C3:1 D3:1 C3:1 | A3:2 G3:1 | F3:2 A2:1 | Bb2:1 D3:1 C3:1 | F3:3 | A3:2 A3:1 | D3:2 D3:1 | G3:2 G3:1 | C3:1 D3:1 E3:1 | F3:2 E3:1 | D3:2 A2:1 | G2:2 Bb2:1 | C3:3 | A3:2 F3:1 | F3:1 E3:0.5 D3:0.5 E3:1 | F3:1 E3:1 D3:1 | E3:0.5 C3:0.5 D3:1 E3:1 | F3:2 A2:1 | Bb2:1 A2:1 Bb2:1 | C3:2 C3:1 | F2:3"
+    }
+  ]
+}

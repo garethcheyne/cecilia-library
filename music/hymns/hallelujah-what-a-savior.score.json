@@ -1,0 +1,58 @@
+{
+  "id": "hallelujah-what-a-savior",
+  "title": "Hallelujah, What a Savior!",
+  "composer": "Philip Paul Bliss (1838–1876)",
+  "melody": "HALLELUJAH WHAT A SAVIOR",
+  "copyright": "Public domain",
+  "publication": "\"Songs of Praise, number One\" (Presbyterian), 1904 page 39.  Words same source.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 110.0,
+  "time": "4/4",
+  "key": "C",
+  "pickup": 0.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:1 G4:1 G4:1 E4:1 | C5:1 C5:1 B4:2 | A4:1 A4:1 G4:1 C5:1 | B4:1 A4:1 G4:2 | G4:1 G4:1 G4:1 E4:1 | C5:1 C5:1 C5:1 C5:0.75 D5:0.25 | E5:2 D5:1 C5:0.75 A4:0.25 | A4:2 G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "E4:1 E4:1 E4:1 C4:1 | E4:1 E4:1 E4:1 D4:1 | C4:1 C4:1 G4:1 A4:1 | G4:1 F#4:1 G4:2 | E4:1 E4:1 E4:1 C4:1 | E4:1 F4:1 E4:1 G4:0.75 G4:0.25 | G4:2 F4:1 E4:0.75 E4:0.25 | F4:2 E4:2"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 C4:1 C4:1 G3:1 | A3:1 A3:1 Ab3:2 | A3:1 C4:1 C4:1 E4:1 | D4:1 C4:1 B3:2 | C4:1 C4:1 C4:1 G3:1 | G3:1 A3:1 G3:1 C4:0.75 B3:0.25 | C4:2 B3:1 C4:0.75 C4:0.25 | C4:2 C4:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "C3:1 C3:1 C3:1 C3:1 | A3:1 A3:1 E3:2 | F3:1 F3:1 E3:1 C3:1 | D3:1 D3:1 G2:2 | C3:1 C3:1 C3:1 C3:1 | C3:1 C3:1 C3:1 E3:0.75 G3:0.25 | C4:2 G3:1 A3:0.75 A3:0.25 | F3:2 C3:2"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tallis",
+  "title": "All Praise To Thee, My God, This Night",
+  "composer": "Thomas Tallis (1505–1585)",
+  "melody": "TALLIS",
+  "copyright": "Public domain",
+  "publication": "Episcopal Hymnal, 1916 Hymn 25.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "evening"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "G",
+  "pickup": 1.0,
+  "verses": 7,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "7": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:1 | G4:1 F#4:1 G4:1 G4:1 | A4:1 A4:1 B4:1 G4:1 | C5:1 C5:1 B4:1 B4:1 | A4:1 A4:1 G4:1 D5:1 | C5:1 A4:1 B4:1 B4:1 | A4:1 A4:1 G4:1 D4:1 | E4:1 F#4:1 G4:1 B4:1 | A4:1 A4:1 G4:1"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 | D4:1 D4:1 B3:1 D4:1 | E4:1 D4:1 D4:1 G4:1 | E4:1 F#4:1 G4:1 D4:1 | E4:1 D4:1 D4:1 G4:1 | E4:1 D4:1 D4:1 D4:1 | E4:1 F#4:1 G4:1 G3:1 | E4:1 D4:1 B3:1 D4:1 | C4:1 A3:1 B3:1"
+    },
+    {
+      "division": "great",
+      "notes": "B3:1 | A3:1 A3:1 G3:1 G3:1 | G3:1 F#3:1 G3:1 G3:1 | A3:1 A3:1 B3:1 G3:1 | C4:1 C4:1 B3:1 B3:1 | A3:1 A3:1 G3:1 D4:1 | C4:1 A3:1 B3:1 B3:1 | A3:1 A3:1 G3:1 D3:1 | E3:1 F#3:1 G3:1"
+    },
+    {
+      "division": "pedal",
+      "notes": "G3:1 | D3:1 D3:1 E3:1 B2:1 | C3:1 D3:1 G2:1 B2:1 | A2:1 A2:1 G2:1 G3:1 | G3:1 F#3:1 G3:1 G3:1 | A3:1 F#3:1 G3:1 G2:1 | C3:1 D3:1 G2:1 B2:1 | C3:1 D3:1 E3:1 B2:1 | C3:1 D3:1 G2:1"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "gethsemane",
+  "title": "Go To Dark Gethsemane",
+  "composer": "Richard Redhead (1820–1901)",
+  "melody": "GETHSEMANE",
+  "copyright": "Public domain",
+  "publication": "\"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896  Ed. Charles Hutchins Hymn 93.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "lent"
+  ],
+  "other_titles": [
+    "To Avert From Men God's Wrath"
+  ],
+  "bpm": 90.0,
+  "time": "4/4",
+  "key": "Eb",
+  "pickup": 0.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:1 Eb4:1 F4:1 G4:1 | Ab4:1.5 Ab4:0.5 G4:2 | Eb4:1 Eb4:1 F4:1 G4:1 | F4:1 F4:1 Eb4:2 | Eb4:1 G4:1 Bb4:1 Bb4:1 | C5:1 C5:1 Bb4:2 | Eb4:1 G4:1 Bb4:1 Bb4:1 | C5:1 C5:1 Bb4:2 | Eb4:1 Eb4:1 F4:1 G4:1 | Ab4:1.5 Ab4:0.5 G4:2 | Eb4:1 F4:1 G4:1 F4:1 | Eb4:1 D4:1 Eb4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 Bb3:1 D4:1 Eb4:1 | Eb4:1.5 Eb4:0.5 Eb4:2 | Bb3:1 C4:1 D4:1 Eb4:1 | Eb4:1 D4:1 Eb4:2 | Eb4:1 Eb4:1 F4:1 G4:1 | Eb4:1 F4:1 G4:2 | Eb4:1 Eb4:1 F4:1 D4:1 | G4:1 F4:0.5 Eb4:0.5 D4:2 | Eb4:1 Eb4:1 D4:1 Eb4:1 | Eb4:1.5 Eb4:0.5 Eb4:2 | Eb4:1 D4:1 Eb4:1 C4:1 | Bb3:1 Bb3:1 Bb3:2"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 G3:1 Bb3:1 Bb3:1 | C4:1.5 C4:0.5 Bb3:2 | G3:1 G3:1 Bb3:1 Bb3:1 | C4:1 Bb3:1 G3:2 | G3:1 C4:1 D4:1 Eb4:1 | C4:1 D4:1 Eb4:2 | Bb3:1 Bb3:1 Bb3:1 Bb3:1 | Bb3:1 A3:1 Bb3:2 | Bb3:1 Bb3:1 Ab3:1 Bb3:1 | C4:1.5 C4:0.5 Bb3:2 | Bb3:1 Ab3:1 Bb3:1 Ab3:1 | G3:1 F3:1 G3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:1 Eb3:1 Bb2:1 Eb3:1 | Ab2:1.5 Ab2:0.5 Eb3:2 | Eb3:1 C3:1 Bb2:1 Eb3:1 | Ab2:1 Bb2:1 Eb3:2 | Eb3:1 C3:1 Bb2:1 Eb3:1 | Ab3:1 Ab3:1 Eb3:2 | G3:1 Eb3:1 D3:1 G3:1 | Eb3:1 F3:1 Bb2:2 | G3:1 G3:1 F3:1 Eb3:1 | Ab2:1.5 Ab2:0.5 Eb3:2 | G3:1 F3:1 Eb3:1 Ab2:1 | Bb2:1 Bb2:1 Eb3:2"
+    }
+  ]
+}

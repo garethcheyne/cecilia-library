@@ -1,0 +1,58 @@
+{
+  "id": "alles-ist-an-gottes-segen",
+  "title": "All Depends On Our Possessing",
+  "composer": "Johann Balthasar König (1691–1758)",
+  "melody": "ALLES IST AN GOTTES SEGEN",
+  "copyright": "Public domain",
+  "publication": "\"Chorale Book for England\", 1863 Hymn 130.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 100.0,
+  "time": "4/4",
+  "key": "F",
+  "pickup": 0.0,
+  "verses": 6,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "6": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:1 F4:1 C5:1 C5:1 | Bb4:1 C5:1 A4:1 F4:1 | A4:1 A4:1 G4:1 G4:1 | F4:1 G4:1 E4:1 C4:1 | G4:1 G4:1 F4:1 E4:1 | D4:1 D4:1 C4:2 | G4:1 G4:1 C5:1 A4:1 | Bb4:1 C5:1 A4:1 F4:1 | A4:1 A4:1 G4:1 G4:1 | F4:1 G4:1 E4:1 C4:1 | F4:1 F4:1 Bb4:1 A4:1 | G4:1 G4:1 F4:2"
+    },
+    {
+      "division": "great",
+      "notes": "C4:1 C4:1 C4:1 C4:1 | F4:1 C4:1 C4:1 C4:1 | F4:1 F4:1 E4:1 E4:1 | D4:1 D4:1 C4:1 C4:1 | D4:1 D4:1 C4:1 C4:1 | D4:1 D4:1 C4:2 | E4:1 E4:1 C4:1 D4:1 | D4:1 C4:1 C4:1 C4:1 | F4:1 F4:1 C4:1 E4:1 | D4:1 D4:1 C4:1 C4:1 | C4:1 C4:1 F4:1 F4:1 | F4:1 E4:1 C4:2"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 A3:1 G3:1 A3:1 | F3:1 G3:1 A3:1 A3:1 | C4:1 C4:1 C4:1 C4:1 | A3:1 G3:1 G3:1 E3:1 | G3:1 G3:1 A3:1 G3:1 | A3:1 A3:1 G3:2 | C4:1 C4:1 G3:1 A3:1 | G3:1 G3:1 A3:1 A3:1 | C4:1 C4:1 C4:1 C4:1 | A3:1 G3:1 G3:1 E3:1 | A3:1 A3:1 D4:1 C4:1 | C4:1 C4:1 A3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "F3:1 F3:1 E3:1 F3:1 | D3:1 E3:1 F3:1 F3:1 | F3:1 F3:1 C3:1 A2:1 | D3:1 Bb2:1 C3:1 C3:1 | G3:1 D3:1 F3:1 C3:1 | F3:1 F3:1 E3:2 | C3:1 C3:1 E3:1 F3:1 | G3:1 E3:1 F3:1 F3:1 | F3:1 F3:1 E3:1 E3:1 | D3:1 Bb2:1 C3:1 C3:1 | A3:1 A3:1 D3:1 F3:1 | C3:1 C3:1 F3:2"
+    }
+  ]
+}

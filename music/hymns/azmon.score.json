@@ -1,0 +1,58 @@
+{
+  "id": "azmon",
+  "title": "O For A Thousand Tongues",
+  "composer": "Carl Gotthelf Gläser (1784–1829); harmony by Lowell Mason (1792–1872)",
+  "melody": "AZMON",
+  "copyright": "Public domain",
+  "publication": "\"The Methodist Hymnal\", 1905. Hymn 1.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 200.0,
+  "time": "3/2",
+  "key": "Ab",
+  "pickup": 2.0,
+  "verses": 12,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "12": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:2 | Ab4:1 Ab4:1 Bb4:2 Bb4:2 | C5:1 Bb4:1 Ab4:2 Bb4:2 | C5:1 C5:1 C#5:2 C5:2 | Bb4:4 Eb5:2 | Eb5:1 C5:1 C5:2 Ab4:2 | Ab4:1 F4:1 F4:2 Ab4:1 F4:1 | Eb4:1 Ab4:1 Ab4:2 Bb4:2 | Ab4:4"
+    },
+    {
+      "division": "great",
+      "notes": "Eb4:2 | Eb4:1 C4:1 Eb4:2 Eb4:2 | Eb4:1 C#4:1 C4:2 Eb4:2 | Eb4:1 Eb4:1 Eb4:2 Eb4:2 | Eb4:4 G4:2 | Ab4:1 Eb4:1 Eb4:2 Eb4:2 | F4:1 C#4:1 C#4:2 F4:1 C#4:1 | C4:1 C4:1 C4:2 C#4:2 | C4:4"
+    },
+    {
+      "division": "great",
+      "notes": "Eb3:2 | Eb3:1 Ab3:1 G3:2 G3:2 | Ab3:1 G3:1 Ab3:2 G3:2 | Ab3:1 Ab3:1 Bb3:2 Ab3:2 | G3:4 Bb3:2 | C4:1 Ab3:1 Ab3:2 Ab3:2 | Ab3:1 Ab3:1 Ab3:2 Ab3:2 | Ab3:1 Ab3:1 Ab3:2 G3:2 | Ab3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:2 | C3:1 Ab2:1 Eb3:2 Eb3:2 | Ab3:1 Eb3:1 F3:2 Eb3:2 | Ab3:1 Ab3:1 G3:2 Ab3:2 | Eb3:4 Eb3:2 | Ab3:1 Ab3:1 Ab3:2 C3:2 | C#3:1 C#3:1 C#3:2 C#3:2 | Eb3:1 Eb3:1 Eb3:2 Eb3:2 | Ab2:4"
+    }
+  ]
+}

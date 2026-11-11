@@ -1,0 +1,50 @@
+{
+  "id": "jefferson",
+  "title": "Come, Thou Long-Expected Jesus",
+  "composer": "Southern Harmony, 1835",
+  "melody": "JEFFERSON",
+  "copyright": "Public domain",
+  "publication": "Southern Harmony, 1835, Hymn 42.  Setting heavily altered for congregational use.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "advent"
+  ],
+  "bpm": 100.0,
+  "time": "2/4",
+  "key": "C",
+  "pickup": 0.0,
+  "verses": 2,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {},
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "A4:1 A4:0.5 G4:0.5 | E4:1 G4:0.5 A4:0.5 | C5:1 B4:0.5 A4:0.5 | B4:1 A4:1 | A4:0.5 G4:0.5 E4:0.5 D4:0.5 | E4:1 G4:0.5 A4:0.5 | C5:1 B4:1 | A4:2 | A4:1 A4:0.5 G4:0.5 | E4:1 G4:0.5 A4:0.5 | C5:1 B4:0.5 A4:0.5 | B4:1 A4:1 | A4:0.5 G4:0.5 E4:0.5 D4:0.5 | E4:1 G4:0.5 A4:0.5 | C5:1 B4:1 | A4:2 | C5:1 D5:1 | E5:1 E5:1 | C5:1 B4:0.5 A4:0.5 | B4:1 A4:1 | C5:1 D5:1 | E5:1 E5:0.5 D5:0.5 | C5:1 B4:0.5 A4:0.5 | B4:2 | A4:1 C5:0.5 D5:0.5 | E5:1 E5:1 | C5:1 B4:0.5 A4:0.5 | B4:1 A4:1 | A4:0.5 G4:0.5 E4:0.5 D4:0.5 | E4:1 G4:0.5 A4:0.5 | C5:1 B4:1 | A4:2"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 A3:0.5 B3:0.5 | C4:1 A3:1 | E4:1 B4:1 | G4:0.5 F4:0.5 E4:1 | C4:1 B3:1 | A3:1 B3:0.5 A3:0.5 | C4:1 B3:1 | A3:2 | A3:1 A3:0.5 B3:0.5 | C4:1 A3:1 | E4:1 B4:1 | G4:0.5 F4:0.5 E4:1 | C4:1 B3:1 | A3:1 B3:0.5 A3:0.5 | C4:1 B3:1 | A3:2 | C4:1 B3:1 | A3:1 A3:1 | C4:0.5 D4:0.5 E4:0.5 D4:0.5 | E4:1 E4:1 | E4:1 D4:1 | C4:1 A3:1 | C4:1 D4:0.5 C4:0.5 | B3:2 | E4:1 E4:0.5 D4:0.5 | B3:1 C4:0.5 B3:0.5 | C4:1 B3:0.5 C4:0.5 | D4:1 E4:1 | C4:1 B3:1 | A3:1 B3:0.5 A3:0.5 | G3:1 B3:1 | A3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "E3:1 E3:0.5 G3:0.5 | A3:1 A3:1 | G3:1 E3:0.5 F3:0.5 | G3:1 E3:1 | C3:0.5 D3:0.5 E3:0.5 G3:0.5 | A3:1 D3:1 | E3:1 E3:1 | A2:2 | E3:1 E3:0.5 G3:0.5 | A3:1 A3:1 | G3:1 E3:0.5 F3:0.5 | G3:1 E3:1 | C3:0.5 D3:0.5 E3:0.5 G3:0.5 | A3:1 D3:1 | E3:1 E3:1 | A2:2 | E3:1 G3:1 | A3:1 A3:1 | G3:1 A3:1 | E3:1 E3:1 | C3:1 D3:1 | E3:1 A3:1 | G3:1 D3:1 | E3:2 | A3:1 G3:0.5 A3:0.5 | B3:1 A3:1 | A3:1 E3:1 | D3:1 E3:1 | A3:1 B3:1 | A3:1 D3:1 | E3:1 E3:1 | A2:2"
+    }
+  ]
+}

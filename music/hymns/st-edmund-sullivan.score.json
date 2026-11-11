@@ -1,0 +1,59 @@
+{
+  "id": "st-edmund-sullivan",
+  "title": "I'm But A Stranger Here",
+  "composer": "Arthur Seymour Sullivan (1842–1900)",
+  "melody": "ST. EDMUND (SULLIVAN)",
+  "copyright": "Public domain",
+  "publication": "\"Church Praise, with Tunes\", 1885 Hymn 391. Words found there, too.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "funeral"
+  ],
+  "bpm": 120.0,
+  "time": "4/4",
+  "key": "G",
+  "pickup": 0.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:2 G4:1 G4:1 | G4:1 F#4:1 A4:2 | D4:2 D4:1 E4:1 | D4:4 | D4:2 B4:1 B4:1 | B4:1 A4:1 D5:2 | A4:2 F#4:1 E4:1 | D4:4 | A4:2 B4:1 A4:1 | A4:1 G4:1 D4:2 | C5:2 B4:1 A4:1 | A4:1 G4:1 D4:2 | B4:2 E5:1 D5:1 | D5:1 C5:1 B4:1 A4:1 | G4:2 A4:1 F#4:1 | G4:4"
+    },
+    {
+      "division": "great",
+      "notes": "B3:2 C4:1 D4:1 | C4:1 C4:1 C4:2 | C4:2 C4:1 C4:1 | B3:4 | B3:2 B3:1 C#4:1 | D4:1 D4:1 E4:2 | F#4:2 D4:1 C#4:1 | D4:4 | C4:2 C4:1 C4:1 | B3:1 B3:1 B3:2 | E4:2 D4:1 D4:1 | D4:1 E4:1 D4:2 | D4:2 E4:1 E4:1 | E4:1 E4:1 E4:2 | D4:2 D4:1 D4:1 | D4:4"
+    },
+    {
+      "division": "great",
+      "notes": "G3:2 G3:1 G3:1 | A3:1 A3:1 F#3:2 | A3:2 F#3:1 F#3:1 | G3:4 | G3:2 D3:1 E3:1 | F#3:1 F#3:1 Ab3:2 | A3:2 A3:1 G3:1 | F#3:4 | F#3:2 E3:1 F#3:1 | G3:1 G3:1 G3:2 | F#3:2 G3:1 C4:1 | B3:1 C4:1 B3:2 | G3:2 Ab3:1 Ab3:1 | A3:1 A3:1 Ab3:1 A3:1 | B3:2 C4:1 C4:1 | B3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "G2:2 A2:1 B2:1 | D3:1 D3:1 D3:2 | F#3:2 D3:1 D3:1 | G3:4 | G2:2 G2:1 G2:1 | F#2:1 F#2:1 B2:2 | A2:2 A2:1 A2:1 | D3:4 | D3:2 D3:1 D3:1 | D3:1 D3:1 D3:2 | D3:2 E3:1 F#3:1 | G3:1 G3:1 G3:2 | F3:2 E3:1 E3:1 | A3:1 A2:1 B2:1 C3:1 | D3:2 D3:1 D3:1 | G2:4"
+    }
+  ]
+}

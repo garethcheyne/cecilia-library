@@ -1,0 +1,59 @@
+{
+  "id": "the-first-noel",
+  "title": "The First Noel",
+  "composer": "Traditional English",
+  "melody": "THE FIRST NOEL",
+  "copyright": "Public domain",
+  "publication": "The Methodist Sunday School Hymnal, 1911 Hymn 66.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "christmas"
+  ],
+  "bpm": 100.0,
+  "time": "3/4",
+  "key": "D",
+  "pickup": 1.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F#4:0.5 E4:0.5 | D4:1.5 E4:0.5 F#4:0.5 G4:0.5 | A4:2 B4:0.5 C#5:0.5 | D5:1 C#5:1 B4:1 | A4:2 B4:0.5 C#5:0.5 | D5:1 C#5:1 B4:1 | A4:1 B4:1 C#5:1 | D5:1 A4:1 G4:1 | F#4:2 F#4:0.5 E4:0.5 | D4:1.5 E4:0.5 F#4:0.5 G4:0.5 | A4:2 B4:0.5 C#5:0.5 | D5:1 C#5:1 B4:1 | A4:2 B4:0.5 C#5:0.5 | D5:1 C#5:1 B4:1 | A4:1 B4:1 C#5:1 | D5:1 A4:1 G4:1 | F#4:2 F#4:0.5 E4:0.5 | D4:1.5 E4:0.5 F#4:0.5 G4:0.5 | A4:2 D5:0.5 C#5:0.5 | B4:2 B4:1 | A4:2 A4:1 | D5:1 C#5:1 B4:1 | A4:1 B4:1 C#5:1 | D5:1 A4:1 G4:1 | F#4:2"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 | A3:2 D4:1 | E4:2 E4:1 | A4:1~ A4:1 G4:1 | F#4:2 D4:0.5 E4:0.5 | A4:1 F#4:1 G4:1 | A4:1 D4:1 G4:1 | F#4:1~ F#4:1 E4:1 | D4:2 C#4:1 | A3:2 D4:0.5~ D4:0.5 | E4:2 E4:1 | A4:1~ A4:1 G4:1 | F#4:2 D4:0.5 E4:0.5 | A4:1 F#4:1 G4:1 | A4:1 G4:1 G4:1 | F#4:2 E4:1 | D4:2 C#4:1 | A3:2 D4:1 | C#4:2 F#4:1 | G4:2 G4:1 | F#4:2 A4:1 | F#4:1 F#4:1 G4:1 | F#4:2 G4:1 | F#4:2 E4:1 | D4:2"
+    },
+    {
+      "division": "great",
+      "notes": "A3:0.5 G3:0.5 | F#3:2 D4:1 | C#4:2 B3:1 | A3:1~ A3:1 B3:0.5 C#4:0.5 | D4:2 B3:0.5 A3:0.5 | A3:1~ A3:1 C#4:1 | D4:1 B3:1 G3:1 | A3:1 D4:1 A3:1 | A3:2 A3:0.5 G3:0.5 | F#3:2 D4:0.5~ D4:0.5 | D4:1 C#4:1 B3:1 | A3:1~ A3:1 B3:0.5 C#4:0.5 | D4:2 B3:0.5 A3:0.5 | A3:1~ A3:1 C#4:1 | D4:1~ D4:1 E4:1 | A3:1 D4:1 A3:1 | A3:2 A3:0.5 G3:0.5 | F#3:2 B3:1 | A3:2 A3:1 | B3:1.5 C#4:0.5 D4:0.5 E4:0.5 | F#4:2 E4:1 | D4:1 D4:1 D4:1 | D4:2 G3:1 | A3:2 A3:1 | A3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "D3:1 | D3:2 B2:1 | A2:1 A3:1 G3:1 | F#3:1~ F#3:1 G3:1 | D3:2 G3:0.5 G3:0.5 | F#3:1 D3:1 E3:1 | F#3:1 G3:1 E3:1 | F#3:0.5 G3:0.5 A3:1 A3:1 | D3:2 A2:1 | D3:2 B2:0.5~ B2:0.5 | A2:1 A3:1 G3:1 | F#3:1~ F#3:1 G3:1 | D3:2 G3:0.5 G3:0.5 | F#3:1 D3:1 E3:1 | F#3:1 G3:1 E3:1 | F#3:0.5 G3:0.5 A3:1 A2:1 | D3:2 A2:1 | D3:2 B2:1 | F#3:2 D3:1 | G3:1.5 A3:0.5 B3:0.5 C#4:0.5 | D4:2 C#4:1 | B3:1 A3:1 G3:1 | D4:1 D3:1 E3:1 | F#3:0.5 G3:0.5 A3:1 A2:1 | D3:2"
+    }
+  ]
+}

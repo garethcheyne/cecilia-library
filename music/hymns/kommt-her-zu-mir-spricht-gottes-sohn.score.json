@@ -1,0 +1,58 @@
+{
+  "id": "kommt-her-zu-mir-spricht-gottes-sohn",
+  "title": "Fear Not, O Little Flock",
+  "composer": "Traditional German",
+  "melody": "KOMMT HER ZU MIR, SPRICHT GOTTES SOHN",
+  "copyright": "Public domain",
+  "publication": "\"Mehrstimmiges Choralbuch\", 1906 Hymn 110.  Translation from \"Lyra Germanica\", 1855 for St. Stephen's Day.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 160.0,
+  "time": "4/4",
+  "key": "F",
+  "pickup": 0.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:2 G4:1 G4:1 | D5:3 C5:1 | D5:1 Bb4:1 A4:2 | r:1 G4:1 Bb4:1 A4:1 | Bb4:3 D5:1 | C5:1 Bb4:1 A4:2 | r:1 A4:1 C5:2~ | C5:1 Bb4:1 A4:1 Bb4:1 | G4:2 F4:2 | r:1 F4:1 Bb4:1 A4:1 | Bb4:3 D5:1 | C5:1 Bb4:1 A4:2 | r:1 G4:1 Bb4:1 A4:1 | Bb4:3 D5:1 | C5:1 Bb4:1 A4:2 | r:1 G4:1 D5:2~ | D5:1 C5:1 Bb4:1 C5:1 | A4:2 G4:2"
+    },
+    {
+      "division": "great",
+      "notes": "D4:2 D4:1 Eb4:1 | D4:3 F4:1 | F4:1 D4:1 D4:2 | r:1 D4:1 Eb4:1 Eb4:1 | F4:3 F4:1 | F4:1 D4:1 D4:2 | r:1 D4:1 Eb4:2~ | Eb4:1 D4:1 C4:1 F4:1~ | F4:1 E4:1 F4:2 | r:1 F4:1 D4:1 F4:1 | F4:3 F4:1 | F4:1 D4:1 D4:2 | r:1 D4:1 Eb4:1 Eb4:1 | F4:3 F4:1 | F4:1 D4:1 D4:2 | r:1 Bb3:1 D4:2~ | D4:1 F4:1 D4:1 Eb4:1 | D4:2 D4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:2 Bb3:1 C4:1 | F3:3 A3:1 | A3:1 G3:1 F#3:2 | r:1 Bb3:1 G3:1 C4:1 | D4:3 Bb3:1 | A3:1 G3:1 F#3:2 | r:1 F3:1 G3:2~ | G3:1 F3:0.5 G3:0.5 A3:1 D4:1 | C4:2 A3:2 | r:1 A3:1 Bb3:1 C4:1 | D4:3 Bb3:1 | A3:1 G3:1 F#3:2 | r:1 Bb3:1 G3:1 C4:1 | D4:3 Bb3:1 | A3:1 G3:1 F#3:2 | r:1 G3:1 F3:2~ | F3:1 A3:1 G3:1 G3:1 | F#3:2 B3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "G2:2 G2:1 C3:1 | Bb2:3 F3:1 | D3:1 G3:1 D3:2 | r:1 G3:1 Eb3:1 C3:1 | Bb2:3 Bb3:1 | F3:1 G3:1 D3:2 | r:1 D3:1 C3:2~ | C3:1 D3:0.5 E3:0.5 F3:1 Bb2:1 | C3:2 F2:2 | r:1 D3:1 G3:1 F3:1 | Bb2:3 Bb3:1 | F3:1 G3:1 D3:2 | r:1 G3:1 Eb3:1 C3:1 | Bb2:3 Bb3:1 | F3:1 G3:1 D3:2 | r:1 Eb3:1 Bb2:2~ | Bb2:1 F3:1 G3:1 C3:1 | D3:2 G2:2"
+    }
+  ]
+}

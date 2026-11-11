@@ -1,0 +1,58 @@
+{
+  "id": "vater-unser-im-himmelreich",
+  "title": "Our Father Thou in Heaven Above",
+  "composer": "Martin Luther (1483–1546)",
+  "melody": "VATER UNSER IM HIMMELREICH",
+  "copyright": "Public domain",
+  "publication": "Translation is public domain per Project Wittenberg: http://www.iclnet.org/pub/resources/text/wittenberg/hymns/ourfather.txt",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 140.0,
+  "time": "4/4",
+  "key": "Bb",
+  "pickup": 0.0,
+  "verses": 9,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "9": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "G4:2 G4:1 Eb4:1 | F4:1 G4:1 Eb4:1 D4:1 | C4:2 G4:2 | G4:1 F4:1 Bb4:1 G4:1 | Eb4:1 F4:1 G4:2 | G4:2 Bb4:1 C5:1 | Eb5:1 D5:1 C5:1 B4:1 | C5:2 C5:2 | D5:1 C5:1 Bb4:1 A4:1 | G4:1 F#4:1 G4:2 | C5:2 Bb4:1 A4:1 | Bb4:1 G4:1 G4:1 F4:1 | Eb4:2 G4:2 | Ab4:1 G4:1 Eb4:1 F4:1 | Eb4:1 D4:1 C4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Eb4:2 Bb3:1 C4:1 | D4:1 D4:1 C4:1 B3:1 | C4:2 Eb4:2 | D4:1 D4:1 F4:1 Eb4:1 | C4:1 C4:1 D4:2 | Eb4:2 D4:1 F4:1 | G4:1 F4:1 Eb4:1 D4:1 | E4:2 F4:2 | F4:1 F4:1 F4:1 F4:1 | D4:1 D4:1 D4:2 | F4:2 F4:1 F4:1 | D4:1 Eb4:1 Eb4:1 D4:1 | Eb4:2 C4:2 | C4:1 B3:1 C4:1 C4:1 | C4:1 B3:1 C4:2"
+    },
+    {
+      "division": "great",
+      "notes": "C4:2 G3:1 G3:1 | Bb3:1 Bb3:1 G3:1 G3:1 | E3:2 C4:2 | Bb3:1 A3:1 D4:1 Bb3:1 | Ab3:1 C4:1 B3:2 | C4:2 Bb3:1 A3:1 | Bb3:1 Bb3:1 G3:1 G3:1 | G3:2 A3:2 | Bb3:1 C4:1 D4:1 C4:1 | Bb3:1 A3:1 B3:2 | A3:2 D4:1 C4:1 | Bb3:1 Bb3:1 Bb3:1 Bb3:1 | G3:2 Eb3:2 | F3:1 D3:1 C3:0.5 Eb3:0.5 Ab3:1 | G3:1.5 F3:0.5 E3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "C3:2 Eb3:1 C3:1 | Bb2:1 G2:1 C3:1 G2:1 | C3:2 C3:2 | G2:1 D3:1 Bb2:1 Eb3:1 | Ab2:1 Ab2:1 G2:2 | C3:2 G3:1 F3:1 | Eb3:1 Bb2:1 C3:1 A2:1 | C3:2 F3:2 | Bb2:1 A2:1 Bb2:1 F2:1 | G2:1 D3:1 G2:2 | F2:2 Bb2:1 F3:1 | G3:1 Eb3:1 G2:1 Bb2:1 | Eb3:2 C3:2 | F2:1 G2:1 Ab2:1 F2:1 | C3:1 G2:1 C3:2"
+    }
+  ]
+}

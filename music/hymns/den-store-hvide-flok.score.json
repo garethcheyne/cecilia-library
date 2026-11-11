@@ -1,0 +1,58 @@
+{
+  "id": "den-store-hvide-flok",
+  "title": "Behold, A Host, Arrayed in White",
+  "composer": "Traditional Norwegian; harmony by Edvard Hagerup Grieg (1843–1907)",
+  "melody": "DEN STORE HVIDE FLOK",
+  "copyright": "Public domain",
+  "publication": "Translation is public domain per Project Wittenberg: http://www.ccel.org/a/anonymous/luth_hymnal/tlh656.htm - also in Lutheran Hymnary",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 120.0,
+  "time": "6/4",
+  "key": "Eb",
+  "pickup": 1.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "Eb4:0.5 G4:0.5 | Bb4:2 Bb4:1 C5:2 Bb4:1 | G4:1.5 Eb4:0.5 G4:0.5 Bb4:0.5 F4:2 F4:0.5 G4:0.5 | Ab4:2 F4:1 Eb4:1.5 F4:0.5 G4:0.5 Ab4:0.5 | Bb4:2 D4:1 Eb4:2 G4:0.5 Ab4:0.5 | Bb4:1.5 G4:0.5 C5:0.5 Bb4:0.5 Bb4:2 C5:1 | Bb4:1.5 F4:0.5 Ab4:1 G4:2 Eb4:0.5 F4:0.5 | G4:1.5 Ab4:0.5 G4:1 F4:1.5 G4:0.5 F4:1 | Eb4:3~ Eb4:2 Eb4:0.5 G4:0.5 | Bb4:2 Bb4:1 C5:2 Bb4:1 | G4:1.5 Eb4:0.5 G4:0.5 Bb4:0.5 F4:2 F4:0.5 G4:0.5 | Ab4:2 F4:1 Eb4:1.5 F4:0.5 G4:0.5 Ab4:0.5 | Bb4:2 D4:1 Eb4:2 G4:0.5 Ab4:0.5 | Bb4:1.5 G4:0.5 C5:0.5 Bb4:0.5 Bb4:2 C5:1 | Bb4:1.5 F4:0.5 Ab4:1 G4:2 Eb4:0.5 F4:0.5 | G4:1.5 Ab4:0.5 G4:1 F4:1.5 G4:0.5 F4:1 | Eb4:3~ Eb4:2 Eb4:0.5 G4:0.5 | C5:2 C5:1 C5:2 Bb4:1 | G4:1.5 Eb4:0.5 G4:0.5 Bb4:0.5 F4:2 F4:0.5 G4:0.5 | Ab4:2 F4:1 Eb4:1.5 F4:0.5 G4:0.5 Ab4:0.5 | Bb4:2 D4:1 Eb4:2 G4:0.5 Ab4:0.5 | Bb4:1.5 G4:0.5 C5:1 Bb4:2 C5:1 | Bb4:1.5 F4:0.5 Ab4:1 G4:2 Eb4:0.5 F4:0.5 | G4:1.5 Ab4:0.5 G4:1 F4:1.5 G4:0.5 F4:1 | Eb4:3~ Eb4:2"
+    },
+    {
+      "division": "great",
+      "notes": "Bb3:1 | Bb3:2 G4:1 F#4:2 G4:1 | Eb4:2 Eb4:1 Eb4:2 Eb4:1 | Eb4:1 F4:1 F4:1 Eb4:2 Eb4:1 | Eb4:1 C4:1 D4:1 Bb3:2 Eb4:1 | F4:1.5 G4:0.5 Ab4:1 F4:2 Ab4:1 | F4:2 F4:1 D4:2 Eb4:1 | Eb4:1 Bb3:1 C4:1 D4:1 C4:1 D4:1 | Bb3:3~ Bb3:2 Bb3:1 | Bb3:2 G4:1 F#4:2 G4:1 | Eb4:2 Eb4:1 Eb4:2 Eb4:1 | Eb4:1 F4:1 F4:1 Eb4:2 Eb4:1 | Eb4:1 C4:1 D4:1 Bb3:2 Eb4:1 | F4:1.5 G4:0.5 Ab4:1 F4:2 Ab4:1 | F4:2 F4:1 D4:2 Eb4:1 | Eb4:1 Bb3:1 C4:1 D4:1 C4:1 D4:1 | Bb3:3~ Bb3:2 Eb4:1 | G4:2 G4:1 G4:2 G4:1 | Eb4:2 Eb4:1 Eb4:2 Eb4:1 | Eb4:1 F4:1 D4:1 Eb4:2 Eb4:1 | Eb4:1 C4:1 D4:1 Bb3:2 Eb4:1 | F4:1.5 G4:0.5 Ab4:1 F4:2 Ab4:1 | F4:2 F4:1 D4:2 Eb4:1 | Eb4:1 Bb3:1 C4:1 Eb4:1 C4:1 D4:1 | Bb3:3~ Bb3:2"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 | G3:2 Bb3:1 A3:2 Bb3:1 | Bb3:2 Bb3:1 A3:2 A3:1 | Ab3:1 D4:1 C4:1 C4:2 Bb3:1 | Ab3:2 Ab3:1 G3:2 C4:1 | D4:2 Eb4:1 D4:2 Eb4:1 | Eb4:1 D4:1 C4:1 B3:2 G3:0.5 Ab3:0.5 | Bb3:2 A3:1 Ab3:2 Ab3:1 | Ab3:2 F3:1 G3:2 G3:1 | G3:2 Bb3:1 A3:2 Bb3:1 | Bb3:2 Bb3:1 A3:2 A3:1 | Ab3:1 D4:1 C4:1 C4:2 Bb3:1 | Ab3:2 Ab3:1 G3:2 C4:1 | D4:2 Eb4:1 D4:2 Eb4:1 | Eb4:1 D4:1 C4:1 B3:2 G3:0.5 Ab3:0.5 | Bb3:2 A3:1 Ab3:2 Ab3:1 | Ab3:2 F3:1 G3:2 G3:0.5 Bb3:0.5 | A3:2 A3:1 A3:2 Bb3:1 | Bb3:2 Bb3:1 Bb3:2 A3:0.5 F3:0.5 | F3:1 Eb4:0.5 D4:0.5 C4:0.5 Bb3:0.5 C4:2 Bb3:1 | Bb3:2 Ab3:1 G3:2 C4:1 | D4:2 Eb4:1 D4:2 Eb4:1 | Eb4:1 D4:1 C4:1 B3:2 G3:0.5 Ab3:0.5 | Bb3:2 A3:1 Ab3:2 Ab3:1 | Ab3:2 F3:1 G3:2"
+    },
+    {
+      "division": "pedal",
+      "notes": "Eb3:1 | Eb3:2 Eb3:1 Eb3:2 Eb3:1 | C#3:2 C#3:1 C3:2 C3:1 | Bb2:2 Ab3:1 G3:2 C3:1 | F3:2 Bb2:1 Eb3:2 C3:1 | Bb2:2 Ab2:1 Bb2:2 Ab2:1 | Bb2:1 Bb3:1 F3:1 G3:2 C3:1 | Bb2:2 Bb2:1 Bb2:2 Bb2:1 | Eb3:3~ Eb3:2 Eb3:1 | Eb3:2 Eb3:1 Eb3:2 Eb3:1 | C#3:2 C#3:1 C3:2 C3:1 | Bb2:2 Ab3:1 G3:2 C3:1 | F3:2 Bb2:1 Eb3:2 C3:1 | Bb2:2 Ab2:1 Bb2:2 Ab2:1 | Bb2:1 Bb3:1 F3:1 G3:2 C3:1 | Bb2:2 Bb2:1 Bb2:2 Bb2:1 | Eb3:3~ Eb3:2 Eb3:1 | Eb3:2 Eb3:1 Eb3:2 Eb3:1 | C#3:2 C#3:1 C3:2 C3:1 | Bb2:2 Ab2:1 G2:2 C3:1 | F2:2 Bb2:1 Eb3:2 C3:1 | Bb2:2 Ab2:1 Bb2:2 Ab2:1 | Bb2:1 Bb3:1 F3:1 G3:2 C3:1 | Bb2:2 Bb2:1 Bb2:2 Bb2:1 | Eb3:3~ Eb3:2"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "st-agnes",
+  "title": "Lamp of Our Feet",
+  "composer": "John Bacchus Dykes (1823–1876)",
+  "melody": "ST. AGNES",
+  "copyright": "Public domain",
+  "publication": "Hymnal and Canticles of the Protestant Episcopal Church, 1875, Hymn 69, first tune",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 140.0,
+  "time": "3/4",
+  "key": "G",
+  "pickup": 0.0,
+  "verses": 11,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "11": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "B4:1 B4:1 B4:1 | A4:2 B4:1 | C5:2 F#4:1 | G4:3 | D4:1 D4:1 D4:1 | B4:2 A4:1 | A4:3 | C5:1 C5:1 B4:1 | A4:2 G4:1 | F#4:2 E4:1 | D4:3 | D4:1 E4:1 G4:1 | B4:2 A4:1 | G4:3"
+    },
+    {
+      "division": "great",
+      "notes": "D4:1 D4:1 D4:1 | E4:2 D4:1 | C4:1 E4:1 D4:1 | D4:3 | D4:1 D4:1 D4:1 | D4:2 C#4:1 | D4:3 | E4:1 E4:1 D4:1 | C4:2 C#4:1 | D4:2 C#4:1 | D4:3 | D4:1 D4:1 C4:1 | B3:2 C4:1 | B3:3"
+    },
+    {
+      "division": "great",
+      "notes": "B3:1 B3:1 G3:1 | C4:2 G3:1 | A3:2 A3:1 | B3:3 | C4:1 B3:1 A3:1 | G3:2 G3:1 | F#3:3 | E3:1 F#3:1 Ab3:1 | A3:2 A3:1 | A3:2 G3:1 | F#3:3 | G3:1 G3:1 G3:1 | G3:2 F#3:1 | G3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "G3:1 G3:1 B2:1 | C3:2 B2:1 | A2:2 D3:1 | G3:3 | A3:1 G3:1 F#3:1 | G3:2 E3:1 | D3:3 | A2:1 A2:1 A2:1 | A2:2 A2:1 | D3:2 D3:1 | D3:2 C3:1 | B2:1 C3:1 E3:1 | D3:2 D3:1 | G2:3"
+    }
+  ]
+}

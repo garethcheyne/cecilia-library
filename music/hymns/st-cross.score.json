@@ -1,0 +1,62 @@
+{
+  "id": "st-cross",
+  "title": "'Tis Midnight and On Olive's Brow",
+  "composer": "John Bacchus Dykes (1823–1876)",
+  "melody": "ST. CROSS",
+  "copyright": "Public domain",
+  "publication": "\"Hymns Ancient and Modern\", 1869 Hymn 100, composed for this hymnal.  Can find the text in Gems of sacred poetry By William Bingham Tappan, 1860 edition",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "lent"
+  ],
+  "other_titles": [
+    "'Twas On That Dark, That Doleful Night"
+  ],
+  "bpm": 140.0,
+  "time": "4/4",
+  "key": "F",
+  "pickup": 0.0,
+  "verses": 3,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "3": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "F4:2 F4:1 G4:1 | A4:3 D5:1 | C5:2 Bb4:2 | A4:4 | A4:2 A4:1 Bb4:1 | C5:2 F4:2 | A4:2 G4:2 | F4:3 A4:1 | F4:3 A4:1 | G4:2 A4:2 | F4:2 G4:2 | E4:4 | D4:2 D4:1 D4:1 | A4:3 G4:1 | F4:2 F4:2 | D4:4"
+    },
+    {
+      "division": "great",
+      "notes": "D4:2 D4:1 E4:1 | F4:3 F4:1 | F4:1 C4:1 D4:1 E4:1 | F4:4 | F4:2 E4:1 D4:1 | C4:2 F4:2 | F4:2 E4:2 | F4:3 C4:1 | C4:3 D4:1 | D4:2 C#4:2 | D4:2 E4:1 D4:1 | C#4:4 | D4:2 D4:1 D4:1 | A4:3 D4:1 | D4:2 C4:2 | D4:4"
+    },
+    {
+      "division": "great",
+      "notes": "A3:2 A3:1 C4:1 | C4:3 Bb3:1 | A3:3 G3:1 | A3:4 | F3:2 F3:1 F3:1 | F3:1 G3:1 A3:1 Bb3:1 | C4:3 Bb3:1 | A3:3 A3:1 | A3:3 A3:1 | Bb3:2 A3:2 | A3:2 Bb3:2 | A3:4 | D3:2 D3:1 D3:1 | A3:3 Bb3:1 | A3:2 G3:2 | F3:4"
+    },
+    {
+      "division": "pedal",
+      "notes": "D3:2 D3:1 C3:1 | F3:3 Bb2:1 | C3:2 C3:2 | F3:4 | D3:2 C3:1 Bb2:1 | A2:2 D3:2 | C3:2 C3:2 | F3:3 F3:1 | F3:3 F3:1 | E3:2 A2:2 | D3:2 G2:2 | A2:4 | D3:2 D3:1 D3:1 | A3:3 G2:1 | A2:2 A2:2 D3:4"
+    }
+  ]
+}

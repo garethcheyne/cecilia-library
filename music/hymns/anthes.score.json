@@ -1,0 +1,58 @@
+{
+  "id": "anthes",
+  "title": "Today Thy Mercy Calls Me",
+  "composer": "Friedrich Konrad Anthes (1812–?)",
+  "melody": "ANTHES",
+  "copyright": "Public domain",
+  "publication": "Evangelical Lutheran Hymn Book (LCMS), Edition of 1931 Hymn 49.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn"
+  ],
+  "bpm": 140.0,
+  "time": "4/4",
+  "key": "A",
+  "pickup": 1.0,
+  "verses": 4,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "4": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "E4:1 | A4:1 Ab4:1 A4:1 B4:1 | C#5:2 A4:1 A4:1 | F#4:1 D5:1 C#5:1 B4:1 | A4:3 E4:1 | A4:1 Ab4:1 A4:1 B4:1 | C#5:2 A4:1 A4:1 | F#4:1 D5:1 C#5:1 B4:1 | A4:3 C#5:1 | B4:1 Ab4:1 A4:1 F#4:1 | Ab4:2 E4:1 E4:1 | F#4:1 Ab4:1 A4:1 B4:1 | C#5:3 E4:1 | A4:1 Ab4:1 F#4:1 E4:1 | B4:2 B4:1 C#5:1 | D5:1 B4:1 A4:1 Ab4:1 | A4:3"
+    },
+    {
+      "division": "great",
+      "notes": "C#4:1 | E4:1 E4:1 C#4:1 E4:1 | E4:2 E4:1 E4:1 | D4:1 F#4:1 E4:1.5 D4:0.5 | C#4:3 C#4:1 | E4:1 E4:1 C#4:1 E4:1 | E4:2 E4:1 E4:1 | D4:1 F#4:1 E4:1.5 D4:0.5 | C#4:3 E4:1 | Eb4:1 E4:1 C#4:1 Eb4:1 | E4:2 E4:1 B3:1 | B3:1 E4:1 E4:1 E4:1 | E4:3 C#4:1 | C#4:1 E4:1 D4:1 C#4:1 | E4:1 Eb4:1 E4:1 E4:1 | F#4:1 F#4:1 E4:1 E4:1 | E4:3"
+    },
+    {
+      "division": "great",
+      "notes": "A3:1 | A3:1 B3:1 A3:1 Ab3:1 | A3:2 C#4:1 A3:1 | A3:1 A3:1 A3:1 Ab3:1 | A3:3 A3:1 | A3:1 B3:1 A3:1 Ab3:1 | A3:2 C#4:1 A3:1 | A3:1 A3:1 A3:1 Ab3:1 | A3:3 A3:1 | F#3:1 E3:1 F#3:1 B3:1 | B3:2 Ab3:1 Ab3:1 | F#3:1 B3:1 A3:1 Ab3:1 | A3:3 A3:1 | A3:1 C#4:1 A3:1 A3:1 | B3:1 A3:1 Ab3:1 A3:1 | A3:1 B3:1 C#4:1 B3:1 | C#4:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "A2:1 | C#3:1 E3:1 F#3:1 E3:1 | A2:2 A2:1 C#3:1 | D3:1 B2:1 E3:1 E3:1 | A2:3 A2:1 | C#3:1 E3:1 F#3:1 E3:1 | A2:2 A2:1 C#3:1 | D3:1 B2:1 E3:1 E3:1 | A2:3 A2:1 | B2:1 C#3:1 A2:1 B2:1 | E3:2 E3:1 E3:1 | Eb3:1 D3:1 C#3:1 E3:1 | A2:3 A2:1 | F#3:1 C#3:1 D3:1 A3:1 | Ab3:1 F#3:1 E3:1 A2:1 | D3:1 D3:1 E3:1 E3:1 | A2:3"
+    }
+  ]
+}

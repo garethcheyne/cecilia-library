@@ -1,0 +1,59 @@
+{
+  "id": "veni-emmanuel",
+  "title": "O Come O Come Emmanuel",
+  "composer": "Traditional French",
+  "melody": "VENI EMMANUEL",
+  "copyright": "Public domain",
+  "publication": "ULCA Hymnal, 1917 Hymn 1.",
+  "licence": "public-domain",
+  "source": "Open Hymnal Project",
+  "source_url": "https://openhymnal.org",
+  "tags": [
+    "hymn",
+    "advent"
+  ],
+  "bpm": 130.0,
+  "time": "4/4",
+  "key": "G",
+  "pickup": 1.0,
+  "verses": 5,
+  "gap": 2.0,
+  "registration": [
+    "great principal 8",
+    "great flute 8",
+    "great principal 4",
+    "swell flute 8",
+    "swell principal 4",
+    "swell to great",
+    "pedal flute 16",
+    "pedal principal 8",
+    "great to pedal"
+  ],
+  "verse_registration": {
+    "5": [
+      "+great principal 2",
+      "+swell reed 8"
+    ]
+  },
+  "expression": {
+    "swell": 90
+  },
+  "parts": [
+    {
+      "division": "great",
+      "notes": "E4:1 | G4:1 B4:1 B4:1 B4:1 | A4:1 C5:1 B4:1 A4:1 | G4:3 A4:1 | B4:1 G4:1 E4:1 G4:1 | A4:1 F#4:1 E4:1 D4:1 | E4:3 A4:1 | A4:1 E4:1 E4:1 F#4:1 | G4:2 F#4:1 E4:1 | D4:3 G4:1 | A4:1 B4:1 B4:1 B4:1 | A4:1 C5:1 B4:1 A4:1 | G4:3 D5:1 | D5:3 B4:1 | B4:3 B4:1 | A4:1 C5:1 B4:1 A4:1 | G4:3 A4:1 | B4:1 G4:1 E4:1 G4:1 | A4:1 F#4:1 E4:1 D4:1 | E4:3"
+    },
+    {
+      "division": "great",
+      "notes": "E4:1 | E4:1 B3:1 D4:1 G4:1 | G4:3 F#4:1 | D4:3 D4:1 | D4:1 D4:1 C4:1 D4:1 | E4:1 C4:1 B3:1 B3:1 | B3:3 E4:0.5 D4:0.5 | C4:1 A3:1 E4:1 Eb4:1 | E4:1 D4:1 D4:1 C#4:1 | D4:3 B3:1 | D4:1 D4:1 D4:1 G4:1 | G4:3 F#4:1 | G4:3 G4:1 | F#4:3 G4:1 | F#4:3 G4:1 | G4:3 F#4:1 | G4:3 F#4:1 | G4:1 D4:1 C4:1 D4:1 | E4:1 C4:1 B3:1 B3:1 | B3:3"
+    },
+    {
+      "division": "great",
+      "notes": "G3:1 | B3:1 F#3:1 G3:1 D4:1 | E4:2 D4:1 C4:1 | B3:3 F#3:1 | G3:1 G3:1 G3:1 B3:1 | A3:2 G3:1 F#3:1 | G3:3 A3:1 | A3:1 C4:1 B3:1 A3:1 | G3:2 A3:1 G3:1 | F#3:3 G3:1 | F#3:1 F#3:1 G3:1 D4:1 | E4:2 D4:1 C4:1 | B3:3 B3:1 | A3:3 E4:1 | D4:3 D4:1 | E4:2 D4:1 C4:1 | B3:3 D4:1 | D4:1 G3:1 G3:1 B3:1 | A3:2 G3:1 F#3:1 | G3:3"
+    },
+    {
+      "division": "pedal",
+      "notes": "E3:1 | E3:1 D3:1 B2:1 G2:1 | C3:1 A2:1 B2:1 D3:1 | G3:3 D3:1 | G2:1 B2:1 C3:1 B2:1 | C3:1 A2:1 B2:1 B2:1 | E3:3 C3:0.5 B2:0.5 | A2:1 A3:1 G3:1 F#3:1 | E3:1 B2:1 A2:1 A2:1 | D3:3 E3:1 | D3:1 B2:1 G2:1 B2:1 | C3:1 A2:1 B2:1 D3:1 | G2:3 G3:1 | D3:3 E3:1 | B2:3 G2:1 | C3:1 A2:1 B2:1 D3:1 | E3:3 D3:1 | G2:1 B2:1 C3:1 B2:1 | C3:1 A2:1 B2:1 B2:1 | E3:3"
+    }
+  ]
+}
